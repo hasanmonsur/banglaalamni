@@ -1,0 +1,79 @@
+Date:  2020-01-07 07:57:30am : Token url:"https:\/\/checkout.sandbox.bka.sh\/v1.2.0-beta\/checkout\/token\/grant"
+Date:  2020-01-07 07:57:30am : Token Heder:[
+    "Content-Type:application\/json",
+    "password:test%#de23@msdao",
+    "username:testdemo"
+]
+Date:  2020-01-07 07:57:30am : Token post:{
+    "app_key": "5nej5keguopj928ekcj3dne8p",
+    "app_secret": "1honf6u1c56mqcivtc9ffl960slp4v2756jle5925nbooa46ch62"
+}
+Date:  2020-01-07 07:57:31am : Token result:"{\"token_type\": \"Bearer\", \"id_token\": \"eyJraWQiOiJmalhJQmwxclFUXC9hM215MG9ScXpEdVZZWk5KXC9qRTNJOFBaeGZUY3hlamc9IiwiYWxnIjoiUlMyNTYifQ.eyJzdWIiOiI4ZGU4ZjBlMC1mY2RjLTQyNzMtYjY4YS1iNDAwOWNjZjc3ZDEiLCJhdWQiOiI1bmVqNWtlZ3VvcGo5Mjhla2NqM2RuZThwIiwiZXZlbnRfaWQiOiI3MWRiNzQzNy01ODAxLTQwMWMtOWMyNy1lYTljY2Q5Yzc4MTMiLCJ0b2tlbl91c2UiOiJpZCIsImF1dGhfdGltZSI6MTU3ODM2MjI1MiwiaXNzIjoiaHR0cHM6XC9cL2NvZ25pdG8taWRwLmFwLXNvdXRoZWFzdC0xLmFtYXpvbmF3cy5jb21cL2FwLXNvdXRoZWFzdC0xX2tmNUJTTm9QZSIsImNvZ25pdG86dXNlcm5hbWUiOiJ0ZXN0ZGVtbyIsImV4cCI6MTU3ODM2NTg1MiwiaWF0IjoxNTc4MzYyMjUyfQ.NyUm0me7QTH_2fuHG4youj_EtaXlAjJFg98PlTEnabyzp-GWhsvCWLHdAMMLFlwVtJIhefKYewBV-Ir25UgidbBi97DQ-Lqlgxl8Y9T8CouGdenUMM5Xg9zx1LnOjFszFFXL7yhlABHTfWyGSEY747hbj4ynqjBrmDXiZFc7laOiu_TJJr7YcHNQDO47OCUl6v0fspBiSE3PiBokIHFtpXthkLiPoC1s1V1fWGw13cu6PR-SF7Tn_EKhQJjPCncL4PVtechzkIUek79WkJvFpxbsCdPVR4_dM-9PFKtD1GmU7d06xNbgF0ltmB3SVlCTjtw0KgPKONxWXQgvabBhvg\", \"expires_in\": 3600, \"refresh_token\": \"eyJjdHkiOiJKV1QiLCJlbmMiOiJBMjU2R0NNIiwiYWxnIjoiUlNBLU9BRVAifQ.TdNRkC5dfCkGkuSP7_R_zrHWtEn0S-EDiaDbf3vpVqasTVt98V2wmybRPby1XetV3z9CzOA_Vuc6_nfkcY4kt3jgsfXqbDk1JQ8NkeXLEpD7uvSHsa0uPgrIoy_PNcq_zMLZ4naxI2tKIKWQZdPNc6A8RF-a-pU2X6tVRQ5gl0fv150jUWnyYCGzgURGbIwBKhWQ-b3fSpnVJB7elZJFf4966317GJh2Czsu_qejDRe9OUaWom5qxW5auTBJW-T363ohXH-jSzslNFiv_t28l_pJlcLZ32I5c9BLeGNRgvzeOpZLeB3ARbS06fKk1HaMUy54E4aDB9YX1NBLPZ6TCQ.8rcz9HtWq_Mr227z.r6FpS58-QRSHqmcPjDiFGnwFpznzaGWRqfbdENzz1Dp9wqypDpRFH2ujAW_zIaAD3i05Elzxl3N--LK0cgbuiX8BqRLFFT_KykeGTyGcuKUglgXXgIv6gc2MYed7v-lcW4r3GnUU68gF-EjwE6_qUDISVjtsmOnQ0wdAQ71UGbPShoVGvIczRCxmCUjhHg4QCBR26nT2dObxo7Du-CKEYEMo8NIL7CXbfPkDsQ9mVOyvYos3iQKqW8BBtRUfTMXh3NfRPdEpvkxb6aXEow861ZZBcXg8ICTAWOUi7PDFcys2BUs8XuIdj1aoXZorg3vZV6s1iHk1kWIU6f6_bJsfxdhlBJfqFYEclX5Tjlpc7JSILcjQU_SpliLF7ZBbZiR4Mwi2Gq9SdAd2zkxxSyvMlxcSYBXlCauhfSaUDNk46KI2XZjEY0QO1XZPvDg4u94-PAiyu6Gyfk3A9mUdp8TaZLwkFjVI8wVlnWztIGm-FsMTXwuOgLBm63sMc_AeTkzgrgQpLLez2LZbOSgJDhyv7XxUHriFMEa2lhiwZ6E-z7GLjCsFAhSwSvU03Hw5SIwW69Semwsa4AsVHFXehNS-GSRiFL_d_Q5ug25C2JD2joTDptmrsEWYsupx2F0rZ7WRD3SdDh3qPHm2KJsCguxtT8hctKBdgbqLXHPpGF0CBIbsYO_DhO_8XbEwxdEX6s9mhWVXiuBklwIN004xQ2it69RUmu3FyNtr0h4Dl5MG3qVuCVfW2vqdmzhrj-mFiww5GpfbJMsnFrW224GgNvrs_FLr23dLj8Cic2J9Zwh78lOsHeH6LT5GnRsl13f_4ABc45SF0LYzGtuAgqpW0WLHwu_SijECD1C3xMG2VchVymzpMKWLHnrqgH15Pe_LbuDG4vO9n479W7fpU_-aStEsnk7ToVTQyf579uSK72QAhRP_7Qbj-wLOHloSmTMb0JVeYuGOiIUT89A4DombOIAVLR09cVKXttLC3BN0OrKsU4gLA88qhSxVca9HJkJlIKafkEI-0tn9Hao7F5c8GTZ5ExbSvAa75ZgZuo1TaK3es2lGhbN3YSlZdvDbfG-h2neKEHJm5YdrSZJSO9xdtJHISW5vHdhAvBNt1aN5RP65TghT70GgD7OkHf6mzt6Eg5Xxf1J78D4BY23badVzs7vM0wNyGw5_GWFk3-7o0rw16fEsCiCXpgkyl77l8xTCZ75-Y6fQh9aJVEExFxfBUOloZ-WmCeDBhK4QWPFwNW2eOe2O3QdvY2wtJj0-I2BtAIu3TI4M6Jcw7FU8chuKjLMFnF8x.7pE1N1qjQzRTG8itKoruEw\"}"
+Date:  2020-01-07 07:57:31am : create url:"https:\/\/checkout.sandbox.bka.sh\/v1.2.0-beta\/checkout\/payment\/create"
+Date:  2020-01-07 07:57:31am : create Heder:[
+    "Content-Type:application\/json",
+    "authorization:eyJraWQiOiJmalhJQmwxclFUXC9hM215MG9ScXpEdVZZWk5KXC9qRTNJOFBaeGZUY3hlamc9IiwiYWxnIjoiUlMyNTYifQ.eyJzdWIiOiI4ZGU4ZjBlMC1mY2RjLTQyNzMtYjY4YS1iNDAwOWNjZjc3ZDEiLCJhdWQiOiI1bmVqNWtlZ3VvcGo5Mjhla2NqM2RuZThwIiwiZXZlbnRfaWQiOiI3MWRiNzQzNy01ODAxLTQwMWMtOWMyNy1lYTljY2Q5Yzc4MTMiLCJ0b2tlbl91c2UiOiJpZCIsImF1dGhfdGltZSI6MTU3ODM2MjI1MiwiaXNzIjoiaHR0cHM6XC9cL2NvZ25pdG8taWRwLmFwLXNvdXRoZWFzdC0xLmFtYXpvbmF3cy5jb21cL2FwLXNvdXRoZWFzdC0xX2tmNUJTTm9QZSIsImNvZ25pdG86dXNlcm5hbWUiOiJ0ZXN0ZGVtbyIsImV4cCI6MTU3ODM2NTg1MiwiaWF0IjoxNTc4MzYyMjUyfQ.NyUm0me7QTH_2fuHG4youj_EtaXlAjJFg98PlTEnabyzp-GWhsvCWLHdAMMLFlwVtJIhefKYewBV-Ir25UgidbBi97DQ-Lqlgxl8Y9T8CouGdenUMM5Xg9zx1LnOjFszFFXL7yhlABHTfWyGSEY747hbj4ynqjBrmDXiZFc7laOiu_TJJr7YcHNQDO47OCUl6v0fspBiSE3PiBokIHFtpXthkLiPoC1s1V1fWGw13cu6PR-SF7Tn_EKhQJjPCncL4PVtechzkIUek79WkJvFpxbsCdPVR4_dM-9PFKtD1GmU7d06xNbgF0ltmB3SVlCTjtw0KgPKONxWXQgvabBhvg",
+    "x-app-key:5nej5keguopj928ekcj3dne8p"
+]
+Date:  2020-01-07 07:57:31am : create Body:{
+    "amount": "2",
+    "currency": "BDT",
+    "merchantInvoiceNumber": "2020010700373",
+    "intent": "sale"
+}
+Date:  2020-01-07 07:57:32am : create result:"{\"paymentID\":\"3QBOB7V1578362252647\",\"createTime\":\"2020-01-07T01:57:32:868 GMT+0000\",\"orgLogo\":\"https:\/\/s3-ap-southeast-1.amazonaws.com\/merchantlogo.sandbox.bka.sh\/merchant-default-logo.png\",\"orgName\":\"TestCheckoutMerchant2\",\"transactionStatus\":\"Initiated\",\"amount\":\"2\",\"currency\":\"BDT\",\"intent\":\"sale\",\"merchantInvoiceNumber\":\"2020010700373\"}"
+Date:  2020-01-07 07:58:04am : execute url:https://checkout.sandbox.bka.sh/v1.2.0-beta/checkout/payment/execute/3QBOB7V1578362252647
+Date:  2020-01-07 07:58:04am : execute Heder:[
+    "Content-Type:application\/json",
+    "authorization:eyJraWQiOiJmalhJQmwxclFUXC9hM215MG9ScXpEdVZZWk5KXC9qRTNJOFBaeGZUY3hlamc9IiwiYWxnIjoiUlMyNTYifQ.eyJzdWIiOiI4ZGU4ZjBlMC1mY2RjLTQyNzMtYjY4YS1iNDAwOWNjZjc3ZDEiLCJhdWQiOiI1bmVqNWtlZ3VvcGo5Mjhla2NqM2RuZThwIiwiZXZlbnRfaWQiOiI3MWRiNzQzNy01ODAxLTQwMWMtOWMyNy1lYTljY2Q5Yzc4MTMiLCJ0b2tlbl91c2UiOiJpZCIsImF1dGhfdGltZSI6MTU3ODM2MjI1MiwiaXNzIjoiaHR0cHM6XC9cL2NvZ25pdG8taWRwLmFwLXNvdXRoZWFzdC0xLmFtYXpvbmF3cy5jb21cL2FwLXNvdXRoZWFzdC0xX2tmNUJTTm9QZSIsImNvZ25pdG86dXNlcm5hbWUiOiJ0ZXN0ZGVtbyIsImV4cCI6MTU3ODM2NTg1MiwiaWF0IjoxNTc4MzYyMjUyfQ.NyUm0me7QTH_2fuHG4youj_EtaXlAjJFg98PlTEnabyzp-GWhsvCWLHdAMMLFlwVtJIhefKYewBV-Ir25UgidbBi97DQ-Lqlgxl8Y9T8CouGdenUMM5Xg9zx1LnOjFszFFXL7yhlABHTfWyGSEY747hbj4ynqjBrmDXiZFc7laOiu_TJJr7YcHNQDO47OCUl6v0fspBiSE3PiBokIHFtpXthkLiPoC1s1V1fWGw13cu6PR-SF7Tn_EKhQJjPCncL4PVtechzkIUek79WkJvFpxbsCdPVR4_dM-9PFKtD1GmU7d06xNbgF0ltmB3SVlCTjtw0KgPKONxWXQgvabBhvg",
+    "x-app-key:5nej5keguopj928ekcj3dne8p"
+]
+Date:  2020-01-07 07:58:18am : execute result:"{\"paymentID\":\"3QBOB7V1578362252647\",\"createTime\":\"2020-01-07T01:57:32:868 GMT+0000\",\"updateTime\":\"2020-01-07T01:58:19:124 GMT+0000\",\"trxID\":\"7A7501THUD\",\"transactionStatus\":\"Completed\",\"amount\":\"2\",\"currency\":\"BDT\",\"intent\":\"sale\",\"merchantInvoiceNumber\":\"2020010700373\"}"
+Date:  2020-01-07 07:59:27am : query url:https://checkout.sandbox.bka.sh/v1.2.0-beta/checkout/payment/query/3QBOB7V1578362252647
+Date:  2020-01-07 07:59:27am : query Heder:[
+    "Content-Type:application\/json",
+    "authorization:eyJraWQiOiJmalhJQmwxclFUXC9hM215MG9ScXpEdVZZWk5KXC9qRTNJOFBaeGZUY3hlamc9IiwiYWxnIjoiUlMyNTYifQ.eyJzdWIiOiI4ZGU4ZjBlMC1mY2RjLTQyNzMtYjY4YS1iNDAwOWNjZjc3ZDEiLCJhdWQiOiI1bmVqNWtlZ3VvcGo5Mjhla2NqM2RuZThwIiwiZXZlbnRfaWQiOiI3MWRiNzQzNy01ODAxLTQwMWMtOWMyNy1lYTljY2Q5Yzc4MTMiLCJ0b2tlbl91c2UiOiJpZCIsImF1dGhfdGltZSI6MTU3ODM2MjI1MiwiaXNzIjoiaHR0cHM6XC9cL2NvZ25pdG8taWRwLmFwLXNvdXRoZWFzdC0xLmFtYXpvbmF3cy5jb21cL2FwLXNvdXRoZWFzdC0xX2tmNUJTTm9QZSIsImNvZ25pdG86dXNlcm5hbWUiOiJ0ZXN0ZGVtbyIsImV4cCI6MTU3ODM2NTg1MiwiaWF0IjoxNTc4MzYyMjUyfQ.NyUm0me7QTH_2fuHG4youj_EtaXlAjJFg98PlTEnabyzp-GWhsvCWLHdAMMLFlwVtJIhefKYewBV-Ir25UgidbBi97DQ-Lqlgxl8Y9T8CouGdenUMM5Xg9zx1LnOjFszFFXL7yhlABHTfWyGSEY747hbj4ynqjBrmDXiZFc7laOiu_TJJr7YcHNQDO47OCUl6v0fspBiSE3PiBokIHFtpXthkLiPoC1s1V1fWGw13cu6PR-SF7Tn_EKhQJjPCncL4PVtechzkIUek79WkJvFpxbsCdPVR4_dM-9PFKtD1GmU7d06xNbgF0ltmB3SVlCTjtw0KgPKONxWXQgvabBhvg",
+    "x-app-key:5nej5keguopj928ekcj3dne8p"
+]
+Date:  2020-01-07 07:59:56am : query result:"{\"message\": \"Endpoint request timed out\"}"
+Date:  2020-01-07 08:00:07am : search url:https://checkout.sandbox.bka.sh/v1.2.0-beta/checkout/payment/search/7A7501THUD
+Date:  2020-01-07 08:00:07am : search Heder:[
+    "Content-Type:application\/json",
+    "authorization:eyJraWQiOiJmalhJQmwxclFUXC9hM215MG9ScXpEdVZZWk5KXC9qRTNJOFBaeGZUY3hlamc9IiwiYWxnIjoiUlMyNTYifQ.eyJzdWIiOiI4ZGU4ZjBlMC1mY2RjLTQyNzMtYjY4YS1iNDAwOWNjZjc3ZDEiLCJhdWQiOiI1bmVqNWtlZ3VvcGo5Mjhla2NqM2RuZThwIiwiZXZlbnRfaWQiOiI3MWRiNzQzNy01ODAxLTQwMWMtOWMyNy1lYTljY2Q5Yzc4MTMiLCJ0b2tlbl91c2UiOiJpZCIsImF1dGhfdGltZSI6MTU3ODM2MjI1MiwiaXNzIjoiaHR0cHM6XC9cL2NvZ25pdG8taWRwLmFwLXNvdXRoZWFzdC0xLmFtYXpvbmF3cy5jb21cL2FwLXNvdXRoZWFzdC0xX2tmNUJTTm9QZSIsImNvZ25pdG86dXNlcm5hbWUiOiJ0ZXN0ZGVtbyIsImV4cCI6MTU3ODM2NTg1MiwiaWF0IjoxNTc4MzYyMjUyfQ.NyUm0me7QTH_2fuHG4youj_EtaXlAjJFg98PlTEnabyzp-GWhsvCWLHdAMMLFlwVtJIhefKYewBV-Ir25UgidbBi97DQ-Lqlgxl8Y9T8CouGdenUMM5Xg9zx1LnOjFszFFXL7yhlABHTfWyGSEY747hbj4ynqjBrmDXiZFc7laOiu_TJJr7YcHNQDO47OCUl6v0fspBiSE3PiBokIHFtpXthkLiPoC1s1V1fWGw13cu6PR-SF7Tn_EKhQJjPCncL4PVtechzkIUek79WkJvFpxbsCdPVR4_dM-9PFKtD1GmU7d06xNbgF0ltmB3SVlCTjtw0KgPKONxWXQgvabBhvg",
+    "x-app-key:5nej5keguopj928ekcj3dne8p"
+]
+Date:  2020-01-07 08:00:08am : search result:"{\"errorCode\":\"2033\",\"errorMessage\":\"Transaction Not Found\"}"
+
+Date:  2020-01-07 08:01:05am : create url:"https:\/\/checkout.sandbox.bka.sh\/v1.2.0-beta\/checkout\/payment\/create"
+Date:  2020-01-07 08:01:05am : create Heder:[
+    "Content-Type:application\/json",
+    "authorization:eyJraWQiOiJmalhJQmwxclFUXC9hM215MG9ScXpEdVZZWk5KXC9qRTNJOFBaeGZUY3hlamc9IiwiYWxnIjoiUlMyNTYifQ.eyJzdWIiOiI4ZGU4ZjBlMC1mY2RjLTQyNzMtYjY4YS1iNDAwOWNjZjc3ZDEiLCJhdWQiOiI1bmVqNWtlZ3VvcGo5Mjhla2NqM2RuZThwIiwiZXZlbnRfaWQiOiI3MWRiNzQzNy01ODAxLTQwMWMtOWMyNy1lYTljY2Q5Yzc4MTMiLCJ0b2tlbl91c2UiOiJpZCIsImF1dGhfdGltZSI6MTU3ODM2MjI1MiwiaXNzIjoiaHR0cHM6XC9cL2NvZ25pdG8taWRwLmFwLXNvdXRoZWFzdC0xLmFtYXpvbmF3cy5jb21cL2FwLXNvdXRoZWFzdC0xX2tmNUJTTm9QZSIsImNvZ25pdG86dXNlcm5hbWUiOiJ0ZXN0ZGVtbyIsImV4cCI6MTU3ODM2NTg1MiwiaWF0IjoxNTc4MzYyMjUyfQ.NyUm0me7QTH_2fuHG4youj_EtaXlAjJFg98PlTEnabyzp-GWhsvCWLHdAMMLFlwVtJIhefKYewBV-Ir25UgidbBi97DQ-Lqlgxl8Y9T8CouGdenUMM5Xg9zx1LnOjFszFFXL7yhlABHTfWyGSEY747hbj4ynqjBrmDXiZFc7laOiu_TJJr7YcHNQDO47OCUl6v0fspBiSE3PiBokIHFtpXthkLiPoC1s1V1fWGw13cu6PR-SF7Tn_EKhQJjPCncL4PVtechzkIUek79WkJvFpxbsCdPVR4_dM-9PFKtD1GmU7d06xNbgF0ltmB3SVlCTjtw0KgPKONxWXQgvabBhvg",
+    "x-app-key:5nej5keguopj928ekcj3dne8p"
+]
+Date:  2020-01-07 08:01:05am : create Body:{
+    "amount": "2",
+    "currency": "BDT",
+    "merchantInvoiceNumber": "2020010700374",
+    "intent": "sale"
+}
+Date:  2020-01-07 08:01:05am : create result:"{\"paymentID\":\"HKVIATR1578362466629\",\"createTime\":\"2020-01-07T02:01:06:722 GMT+0000\",\"orgLogo\":\"https:\/\/s3-ap-southeast-1.amazonaws.com\/merchantlogo.sandbox.bka.sh\/merchant-default-logo.png\",\"orgName\":\"TestCheckoutMerchant2\",\"transactionStatus\":\"Initiated\",\"amount\":\"2\",\"currency\":\"BDT\",\"intent\":\"sale\",\"merchantInvoiceNumber\":\"2020010700374\"}"
+Date:  2020-01-07 08:01:21am : execute url:https://checkout.sandbox.bka.sh/v1.2.0-beta/checkout/payment/execute/HKVIATR1578362466629
+Date:  2020-01-07 08:01:21am : execute Heder:[
+    "Content-Type:application\/json",
+    "authorization:eyJraWQiOiJmalhJQmwxclFUXC9hM215MG9ScXpEdVZZWk5KXC9qRTNJOFBaeGZUY3hlamc9IiwiYWxnIjoiUlMyNTYifQ.eyJzdWIiOiI4ZGU4ZjBlMC1mY2RjLTQyNzMtYjY4YS1iNDAwOWNjZjc3ZDEiLCJhdWQiOiI1bmVqNWtlZ3VvcGo5Mjhla2NqM2RuZThwIiwiZXZlbnRfaWQiOiI3MWRiNzQzNy01ODAxLTQwMWMtOWMyNy1lYTljY2Q5Yzc4MTMiLCJ0b2tlbl91c2UiOiJpZCIsImF1dGhfdGltZSI6MTU3ODM2MjI1MiwiaXNzIjoiaHR0cHM6XC9cL2NvZ25pdG8taWRwLmFwLXNvdXRoZWFzdC0xLmFtYXpvbmF3cy5jb21cL2FwLXNvdXRoZWFzdC0xX2tmNUJTTm9QZSIsImNvZ25pdG86dXNlcm5hbWUiOiJ0ZXN0ZGVtbyIsImV4cCI6MTU3ODM2NTg1MiwiaWF0IjoxNTc4MzYyMjUyfQ.NyUm0me7QTH_2fuHG4youj_EtaXlAjJFg98PlTEnabyzp-GWhsvCWLHdAMMLFlwVtJIhefKYewBV-Ir25UgidbBi97DQ-Lqlgxl8Y9T8CouGdenUMM5Xg9zx1LnOjFszFFXL7yhlABHTfWyGSEY747hbj4ynqjBrmDXiZFc7laOiu_TJJr7YcHNQDO47OCUl6v0fspBiSE3PiBokIHFtpXthkLiPoC1s1V1fWGw13cu6PR-SF7Tn_EKhQJjPCncL4PVtechzkIUek79WkJvFpxbsCdPVR4_dM-9PFKtD1GmU7d06xNbgF0ltmB3SVlCTjtw0KgPKONxWXQgvabBhvg",
+    "x-app-key:5nej5keguopj928ekcj3dne8p"
+]
+Date:  2020-01-07 08:01:28am : execute result:"{\"errorCode\":\"2029\",\"errorMessage\":\"Duplicate for All Transactions\"}"
+Date:  2020-01-07 08:02:47am : create url:"https:\/\/checkout.sandbox.bka.sh\/v1.2.0-beta\/checkout\/payment\/create"
+Date:  2020-01-07 08:02:47am : create Heder:[
+    "Content-Type:application\/json",
+    "authorization:eyJraWQiOiJmalhJQmwxclFUXC9hM215MG9ScXpEdVZZWk5KXC9qRTNJOFBaeGZUY3hlamc9IiwiYWxnIjoiUlMyNTYifQ.eyJzdWIiOiI4ZGU4ZjBlMC1mY2RjLTQyNzMtYjY4YS1iNDAwOWNjZjc3ZDEiLCJhdWQiOiI1bmVqNWtlZ3VvcGo5Mjhla2NqM2RuZThwIiwiZXZlbnRfaWQiOiI3MWRiNzQzNy01ODAxLTQwMWMtOWMyNy1lYTljY2Q5Yzc4MTMiLCJ0b2tlbl91c2UiOiJpZCIsImF1dGhfdGltZSI6MTU3ODM2MjI1MiwiaXNzIjoiaHR0cHM6XC9cL2NvZ25pdG8taWRwLmFwLXNvdXRoZWFzdC0xLmFtYXpvbmF3cy5jb21cL2FwLXNvdXRoZWFzdC0xX2tmNUJTTm9QZSIsImNvZ25pdG86dXNlcm5hbWUiOiJ0ZXN0ZGVtbyIsImV4cCI6MTU3ODM2NTg1MiwiaWF0IjoxNTc4MzYyMjUyfQ.NyUm0me7QTH_2fuHG4youj_EtaXlAjJFg98PlTEnabyzp-GWhsvCWLHdAMMLFlwVtJIhefKYewBV-Ir25UgidbBi97DQ-Lqlgxl8Y9T8CouGdenUMM5Xg9zx1LnOjFszFFXL7yhlABHTfWyGSEY747hbj4ynqjBrmDXiZFc7laOiu_TJJr7YcHNQDO47OCUl6v0fspBiSE3PiBokIHFtpXthkLiPoC1s1V1fWGw13cu6PR-SF7Tn_EKhQJjPCncL4PVtechzkIUek79WkJvFpxbsCdPVR4_dM-9PFKtD1GmU7d06xNbgF0ltmB3SVlCTjtw0KgPKONxWXQgvabBhvg",
+    "x-app-key:5nej5keguopj928ekcj3dne8p"
+]
+Date:  2020-01-07 08:02:47am : create Body:{
+    "amount": "2",
+    "currency": "BDT",
+    "merchantInvoiceNumber": "2020010700375",
+    "intent": "sale"
+}
+Date:  2020-01-07 08:02:48am : create result:"{\"paymentID\":\"83CD6R01578362568773\",\"createTime\":\"2020-01-07T02:02:48:868 GMT+0000\",\"orgLogo\":\"https:\/\/s3-ap-southeast-1.amazonaws.com\/merchantlogo.sandbox.bka.sh\/merchant-default-logo.png\",\"orgName\":\"TestCheckoutMerchant2\",\"transactionStatus\":\"Initiated\",\"amount\":\"2\",\"currency\":\"BDT\",\"intent\":\"sale\",\"merchantInvoiceNumber\":\"2020010700375\"}"

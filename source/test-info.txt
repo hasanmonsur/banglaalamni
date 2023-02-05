@@ -1,0 +1,7 @@
+  Checkout Demo: https://merchantdemo.sandbox.bka.sh/frontend/checkout/version/1.2.0-beta
+
+a.       Wallet number-01770618575
+
+b.       Pin-12121
+
+c.       OTP-123456

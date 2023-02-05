@@ -1,0 +1,107 @@
+  <script type="text/javascript">
+    var scriptLink="https://scripts.sandbox.bka.sh/versions/1.2.0-beta/checkout/bKash-checkout-sandbox.js"; 
+    //console.log(JSON.stringify(scriptLink));
+    var accessToken='';
+    
+    $(document).ready(function(){
+        $.ajax({
+            url: "token.php",
+            type: 'POST',
+            contentType: 'application/json',
+            success: function (data) {	
+                accessToken=JSON.stringify(data);
+            },
+			      error: function(){
+						console.log('error');
+                        
+            }
+        });        
+        var paymentConfig={
+            createCheckoutURL:"createpayment.php",
+            executeCheckoutURL:"executepayment.php",
+        };  
+
+        var paymentRequest;
+        
+            var totalamt=($("#totalamt").val()* 100).toFixed(2);
+            var tranid=$("#tranid").val();                   
+            paymentRequest = { amount:totalamt,intent:'sale',currency:'BDT',merchantInvoiceNumber: tranid,merchantAssociationInfo:'RBDA'};
+            console.log(JSON.stringify(paymentRequest));
+       
+
+      $.getScript(scriptLink).done(function(script){
+        console.log('scriptLink :: link success');    
+        bKash.init({
+            paymentMode: 'checkout',
+            paymentRequest: paymentRequest,
+            createRequest: function(request){
+                console.log('=> createRequest (request) :: ');
+                console.log(request);            
+                $.ajax({
+                    url: paymentConfig.createCheckoutURL+"?amount="+paymentRequest.amount+"&invoice="+paymentRequest.merchantInvoiceNumber,
+                    type:'GET',
+                    contentType: 'application/json',
+                    success: function(data) {
+                        console.log('got data from create  ..');
+                        console.log('data ::=>');
+                        console.log(JSON.stringify(data));                        
+                        var obj = JSON.parse(data);                        
+                        if(data && obj.paymentID != null){
+                            paymentID = obj.paymentID;
+                            bKash.create().onSuccess(obj);
+                        }
+                        else {
+							              console.log('error');
+                            bKash.create().onError();
+                        }
+                    },
+                    error: function(){
+						            console.log('error');
+                        bKash.create().onError();
+                    }
+                });
+            },            
+            executeRequestOnAuthorization: function(){
+                console.log('=> executeRequestOnAuthorization');
+                $.ajax({
+                    url: paymentConfig.executeCheckoutURL+"?paymentID="+paymentID+"&amount="+paymentRequest.amount+"&tranid="+paymentRequest.merchantInvoiceNumber,
+                    type: 'GET',
+                    contentType:'application/json',
+                    success: function(data){
+                        console.log('got data from execute  ..');
+                        console.log('data ::=>');
+                        console.log(JSON.stringify(data));
+                        //alert('[SUCCESS] data1 : ' + JSON.stringify(data));
+                        data = JSON.parse(data);
+                        if(data && data.paymentID != null){
+                            //alert('[SUCCESS] data2 : ' + JSON.stringify(data));
+                            //window.location.href = "success.html";   
+                            $("#tran_status").val('PAID'); 
+                            alert('Payment Successfull TranID : ' +paymentRequest.merchantInvoiceNumber );
+                           // bKash.execute().onError(); 
+                        }
+                        else {
+                            bKash.execute().onError();
+                        }
+                    },
+                    error: function(){
+                        bKash.execute().onError();
+                    }
+                });
+            }
+        });        
+
+       });
+
+      console.log("Right after init ");
+    });
+	
+	  function callReconfigure(val){
+        bKash.reconfigure(val);
+    }
+
+    function clickPayButton(){
+        $("#bKash_button").trigger('click');
+    }      
+
+  </script>

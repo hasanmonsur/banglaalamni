@@ -1,0 +1,13 @@
+Date:  2022-11-17 12:11:04am : raw result:{"memberid":"G20","convid":"202201","membername":"\u0997\u09be\u099c\u09c0 \u09ae\u09be\u09b9\u09ae\u09c1\u09a6 \u09b9\u09be\u09b8\u09be\u09a8|01710563521","gender":"male","dresssize":"0","feeamount":1700,"totalguest":"0","totalamount":1700,"mregistat":"0"}
+Date:  2022-11-17 12:11:04am : save result:{
+    "memberid": "G20",
+    "convid": "202201",
+    "membername": "\u0997\u09be\u099c\u09c0 \u09ae\u09be\u09b9\u09ae\u09c1\u09a6 \u09b9\u09be\u09b8\u09be\u09a8|01710563521",
+    "gender": "male",
+    "dresssize": "0",
+    "feeamount": 1700,
+    "totalguest": "0",
+    "totalamount": 1700,
+    "mregistat": "0"
+}--1>>
+Date:  2022-11-17 12:11:04am : save result03:1700>>1700

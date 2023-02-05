@@ -1,0 +1,47 @@
+https://cpanel.bangladeptalumniru.org/
+
+Rabiul Alam
+cPanel username- bangqyqq
+cPanel password	-  Rg2#SDvxFOcY
+
+
+https://bangladeptalumniru.org:2083/
+UserName: b2d0a1ru6
+PassWord: tUz%i3%~kkv,c.cp[#zTJbI[a9$UL]2.fDv)
+
+
+database:b2d0a1ru6_onlinepayment
+user: b2d0a1ru6_b2bSmicr
+pass:Smicr@2015#
+
+
+
+FTP:
+
+managerbda
+
+Dhaka23yTkl
+
+
+
+
+CREATE TABLE tbl_transaction_2020 
+SELECT * 
+FROM
+    tbl_transaction;
+
+delete from tbl_transaction;
+
+CREATE TABLE tbl_registration_2020 
+SELECT * 
+FROM
+    tbl_registration;
+
+delete from tbl_registration;
+
+
+CREATE TABLE tbl_member_student_2020 
+select *from tbl_member where mem_id like 'S%';
+
+delete from tbl_member where mem_id like 'S%';
+

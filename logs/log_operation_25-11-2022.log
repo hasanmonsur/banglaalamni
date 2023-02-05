@@ -1,0 +1,37 @@
+Date:  2022-11-25 08:23:39pm : Token url:"https:\/\/checkout.sandbox.bka.sh\/v1.2.0-beta\/checkout\/token\/grant"
+Date:  2022-11-25 08:23:39pm : Token Heder:[
+    "Content-Type:application\/json",
+    "password:test%#de23@msdao",
+    "username:testdemo"
+]
+Date:  2022-11-25 08:23:39pm : Token post:{
+    "app_key": "5nej5keguopj928ekcj3dne8p",
+    "app_secret": "1honf6u1c56mqcivtc9ffl960slp4v2756jle5925nbooa46ch62"
+}
+Date:  2022-11-25 08:23:40pm : Token result:"{\"id_token\": \"eyJraWQiOiJmalhJQmwxclFUXC9hM215MG9ScXpEdVZZWk5KXC9qRTNJOFBaeGZUY3hlamc9IiwiYWxnIjoiUlMyNTYifQ.eyJzdWIiOiI4ZGU4ZjBlMC1mY2RjLTQyNzMtYjY4YS1iNDAwOWNjZjc3ZDEiLCJhdWQiOiI2NmEwdGZpYTZvc2tkYjRhMDRyY24wNjNhOSIsImV2ZW50X2lkIjoiN2Q1NGZmMTItYmZmZC00NGRhLWI1YjItMmM0OGM4OTY3NDIxIiwidG9rZW5fdXNlIjoiaWQiLCJhdXRoX3RpbWUiOjE2NjkzODYyMjMsImlzcyI6Imh0dHBzOlwvXC9jb2duaXRvLWlkcC5hcC1zb3V0aGVhc3QtMS5hbWF6b25hd3MuY29tXC9hcC1zb3V0aGVhc3QtMV9rZjVCU05vUGUiLCJjb2duaXRvOnVzZXJuYW1lIjoidGVzdGRlbW8iLCJleHAiOjE2NjkzODk4MjMsImlhdCI6MTY2OTM4NjIyM30.RZ6m7I2Qq0jcbw_rA5iggOnLVsA9w1kZbXBspWzNZL_ZFEvOxsWmyHjwWiwJt-BoGsCG4IQMY_jjBjSjDklNNWdqghOq_3AR1Ik1UwAHPby-pqCaaiWhG218akeG0KUoXnTFnB9qZE9HKRmROfkSX_mtrlCA3-9Ztd75FDzC3P-TmeZ8IPk-ACLvtm10yekYGzZxP4DvI_3ooVQKVl1kutsmwCJplAMPx-MU4pKfcCnhl9-dC9jqesgmykESzlF2IKbJfCix_1w2ywYDfImvlZo4Ksq8C5bH8JYm_q2AZlJtWO27iojOm5xbK1ii92EO3ChdY_UT1ANA6PmbPYXxYA\", \"token_type\": \"Bearer\", \"expires_in\": 3600, \"refresh_token\": \"eyJjdHkiOiJKV1QiLCJlbmMiOiJBMjU2R0NNIiwiYWxnIjoiUlNBLU9BRVAifQ.hRbJnHUGKqbHQaEpglme_xUIcVTjvpzBGAszamAhv_7TNM374AmiAqBVfzW4CSGTU-_cgs28XPNO2ytB-PpvjMWdgsJoOKC4uevlZ9W4kEAnvIBcNMXzAMWFAbUMn1XgcYPK-UDAdVzL7ozlTOdwpBB22NKqaRWhgIH0t1HrNBQcNsID-nWOWTrGC2aZybQtRcbaI2BG8CT8fZnqgiwL_AZ1PFyxvuaZm9dMxMpLwvRL268lPYsDww83bzJc90fMUvnZmpO9xmPd5vIfu6KLovVePIC-mG5P91HaUyQ6HvZWKG0EQA4WtlzCYTfd-rdJTmQ8Dd7i18hUhEr8U7fmYA.b0cXf4ljOKXDRTYM._zTMXUDYN8U7jp6iElzJ-cs5SCwceXNyaGEJAvmybdx7l8PqNvdFqGGV00CmMmlL8qtnhTFmF_miJdtzVkqsnCH0wK4DBEIT9R3dqWzKXQMCfYK39_nEXZhgzdTQ1dAgBS89IwQhpAc6xEei7Ft3a26yomJgaYYAus6lQ4hCn4gsEMNEDRLvAWw0fUj7sIjEy3ML11e3kmflHGpWH5Z6dnrXdGYlYCtyFBZgXFI-A6YyYDDmYk5AeloV7pnSOCrZA10lvsNPZRSBx8OzA0X9pNzd1w7B_hE-l6Y6qwtCduOOh1Ul7AkXDi0BWvEjXH6h74xvJEYoUyJWTqxQ6zIHSN_eNpHqGQ5T7mVjxOMeTLmDWs4breudkOB3P1n1pZVZn8aFoW6kPNQRbwHn12_rDiS1ZCo-yNZrbUxxtZboP6afLxq0Lgmdhn4qlpC_h8BRIsh21uRNcCzJT7toyfXnlbZIHpKtft9ogcDtnJMb158KZmRXxF7KIjt7Z5oVG25AZZ1mCgaudeu_jkm3Bcq9CoAG92IQn2BeoKgu6qToecuWhrtjtCnpxBVaHDsvJ-0y0fyyCV3GGB62ePPo8-EGUlJn-kALaaBl-9EvlObJb_KhACLMqfhKX-DQk3EoNF1Y2jACdLmk6B73GqZuiIgj4uZstvRdaKLSGuxrcyaLCiaIyvIhHd8XcqVz64JWsz4GcZE_Z2tkNVhBvNIXT8Fm6lPtMlmJ_ax4felCcH-lNNz8lqpZwOH15ZzZHzGDnCVeHhESSuf6JWRuTqoH5GP4eRcBoAyY4a4wf7g8cuEZEhYtL0nbwCr7THptisDaO8-6vYbAK3t0mu9zCOqg9uAuB7O39b5huSjYbcg3GoAgMAHScJ4uLwgy1uZO1VmHvVv-dOFj-io1eLYqqBsvLp_wnsu1NoLFJRyr8xLS348vsYUpD7pRXNCaI-Ffef-lRAFSPTZQIp8qBa2LsjmYGP6zefDgHuc2uEO4Jhh7jp0IZk4ybpLhhUTdMzo0Su533dlMMKbq4FuAw3d_epObVO8hkIu-djbE6rhnsJ8Ld3jZjcvuF7mA3pHOtoqMWfKDNv9t7jZAPSTIeqA4IlGampXJ7LI8e55-A3UhXaW6vmLE0UgEXuty90ebB0OerpaDj0Kf-R3E_qucYJcu0oQimPhV_iE0teIvUSigMN_jncrGi95Mu8ttqMkyZM7Mvi8RVAplSU7V9VVDR2ZNR9ki1_SDFWLHvfEV19WT-eHxtZJuXHSvTybhv7yPQL-wqW_ZbZf3c_vukZXX85ACl8km2wI1yDizRQ.MI3h64ii67X7_6zBolanrQ\"}"
+Date:  2022-11-25 08:23:40pm : create url:"https:\/\/checkout.sandbox.bka.sh\/v1.2.0-beta\/checkout\/payment\/create"
+Date:  2022-11-25 08:23:40pm : create Heder:[
+    "Content-Type:application\/json",
+    "authorization:eyJraWQiOiJmalhJQmwxclFUXC9hM215MG9ScXpEdVZZWk5KXC9qRTNJOFBaeGZUY3hlamc9IiwiYWxnIjoiUlMyNTYifQ.eyJzdWIiOiI4ZGU4ZjBlMC1mY2RjLTQyNzMtYjY4YS1iNDAwOWNjZjc3ZDEiLCJhdWQiOiI2NmEwdGZpYTZvc2tkYjRhMDRyY24wNjNhOSIsImV2ZW50X2lkIjoiN2Q1NGZmMTItYmZmZC00NGRhLWI1YjItMmM0OGM4OTY3NDIxIiwidG9rZW5fdXNlIjoiaWQiLCJhdXRoX3RpbWUiOjE2NjkzODYyMjMsImlzcyI6Imh0dHBzOlwvXC9jb2duaXRvLWlkcC5hcC1zb3V0aGVhc3QtMS5hbWF6b25hd3MuY29tXC9hcC1zb3V0aGVhc3QtMV9rZjVCU05vUGUiLCJjb2duaXRvOnVzZXJuYW1lIjoidGVzdGRlbW8iLCJleHAiOjE2NjkzODk4MjMsImlhdCI6MTY2OTM4NjIyM30.RZ6m7I2Qq0jcbw_rA5iggOnLVsA9w1kZbXBspWzNZL_ZFEvOxsWmyHjwWiwJt-BoGsCG4IQMY_jjBjSjDklNNWdqghOq_3AR1Ik1UwAHPby-pqCaaiWhG218akeG0KUoXnTFnB9qZE9HKRmROfkSX_mtrlCA3-9Ztd75FDzC3P-TmeZ8IPk-ACLvtm10yekYGzZxP4DvI_3ooVQKVl1kutsmwCJplAMPx-MU4pKfcCnhl9-dC9jqesgmykESzlF2IKbJfCix_1w2ywYDfImvlZo4Ksq8C5bH8JYm_q2AZlJtWO27iojOm5xbK1ii92EO3ChdY_UT1ANA6PmbPYXxYA",
+    "x-app-key:5nej5keguopj928ekcj3dne8p"
+]
+Date:  2022-11-25 08:23:40pm : create Body:{
+    "amount": "4000",
+    "currency": "BDT",
+    "intent": "sale",
+    "merchantInvoiceNumber": "2022112500930"
+}
+Date:  2022-11-25 08:23:55pm : create result:"{\"paymentID\":\"6SYWKA01669386233076\",\"createTime\":\"2022-11-25T14:23:58:501 GMT+0000\",\"orgLogo\":\"https:\/\/s3-ap-southeast-1.amazonaws.com\/merchantlogo.sandbox.bka.sh\/merchant-default-logo.png\",\"orgName\":\"TestCheckoutMerchant2\",\"transactionStatus\":\"Initiated\",\"amount\":\"4000\",\"currency\":\"BDT\",\"intent\":\"sale\",\"merchantInvoiceNumber\":\"2022112500930\"}"
+Date:  2022-11-25 08:29:25pm : create url:"https:\/\/checkout.sandbox.bka.sh\/v1.2.0-beta\/checkout\/payment\/create"
+Date:  2022-11-25 08:29:25pm : create Heder:[
+    "Content-Type:application\/json",
+    "authorization:eyJraWQiOiJmalhJQmwxclFUXC9hM215MG9ScXpEdVZZWk5KXC9qRTNJOFBaeGZUY3hlamc9IiwiYWxnIjoiUlMyNTYifQ.eyJzdWIiOiI4ZGU4ZjBlMC1mY2RjLTQyNzMtYjY4YS1iNDAwOWNjZjc3ZDEiLCJhdWQiOiI2NmEwdGZpYTZvc2tkYjRhMDRyY24wNjNhOSIsImV2ZW50X2lkIjoiN2Q1NGZmMTItYmZmZC00NGRhLWI1YjItMmM0OGM4OTY3NDIxIiwidG9rZW5fdXNlIjoiaWQiLCJhdXRoX3RpbWUiOjE2NjkzODYyMjMsImlzcyI6Imh0dHBzOlwvXC9jb2duaXRvLWlkcC5hcC1zb3V0aGVhc3QtMS5hbWF6b25hd3MuY29tXC9hcC1zb3V0aGVhc3QtMV9rZjVCU05vUGUiLCJjb2duaXRvOnVzZXJuYW1lIjoidGVzdGRlbW8iLCJleHAiOjE2NjkzODk4MjMsImlhdCI6MTY2OTM4NjIyM30.RZ6m7I2Qq0jcbw_rA5iggOnLVsA9w1kZbXBspWzNZL_ZFEvOxsWmyHjwWiwJt-BoGsCG4IQMY_jjBjSjDklNNWdqghOq_3AR1Ik1UwAHPby-pqCaaiWhG218akeG0KUoXnTFnB9qZE9HKRmROfkSX_mtrlCA3-9Ztd75FDzC3P-TmeZ8IPk-ACLvtm10yekYGzZxP4DvI_3ooVQKVl1kutsmwCJplAMPx-MU4pKfcCnhl9-dC9jqesgmykESzlF2IKbJfCix_1w2ywYDfImvlZo4Ksq8C5bH8JYm_q2AZlJtWO27iojOm5xbK1ii92EO3ChdY_UT1ANA6PmbPYXxYA",
+    "x-app-key:5nej5keguopj928ekcj3dne8p"
+]
+Date:  2022-11-25 08:29:25pm : create Body:{
+    "amount": "4000",
+    "currency": "BDT",
+    "intent": "sale",
+    "merchantInvoiceNumber": "2022112500935"
+}
+Date:  2022-11-25 08:29:27pm : create result:"{\"paymentID\":\"AB3IHY61669386569664\",\"createTime\":\"2022-11-25T14:29:30:163 GMT+0000\",\"orgLogo\":\"https:\/\/s3-ap-southeast-1.amazonaws.com\/merchantlogo.sandbox.bka.sh\/merchant-default-logo.png\",\"orgName\":\"TestCheckoutMerchant2\",\"transactionStatus\":\"Initiated\",\"amount\":\"4000\",\"currency\":\"BDT\",\"intent\":\"sale\",\"merchantInvoiceNumber\":\"2022112500935\"}"

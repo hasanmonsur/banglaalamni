@@ -1,0 +1,703 @@
+Date:  2020-01-17 03:05:48pm : create url:"https:\/\/checkout.sandbox.bka.sh\/v1.2.0-beta\/checkout\/payment\/create"
+Date:  2020-01-17 03:05:48pm : create Heder:[
+    "Content-Type:application\/json",
+    "authorization:eyJraWQiOiJmalhJQmwxclFUXC9hM215MG9ScXpEdVZZWk5KXC9qRTNJOFBaeGZUY3hlamc9IiwiYWxnIjoiUlMyNTYifQ.eyJzdWIiOiI4ZGU4ZjBlMC1mY2RjLTQyNzMtYjY4YS1iNDAwOWNjZjc3ZDEiLCJhdWQiOiI1bmVqNWtlZ3VvcGo5Mjhla2NqM2RuZThwIiwiZXZlbnRfaWQiOiJiOWI2YjA3YS1mNjkzLTQ0NWItYWExMy1iZDZlZWYwNjFhMGIiLCJ0b2tlbl91c2UiOiJpZCIsImF1dGhfdGltZSI6MTU3OTI1MTI5MywiaXNzIjoiaHR0cHM6XC9cL2NvZ25pdG8taWRwLmFwLXNvdXRoZWFzdC0xLmFtYXpvbmF3cy5jb21cL2FwLXNvdXRoZWFzdC0xX2tmNUJTTm9QZSIsImNvZ25pdG86dXNlcm5hbWUiOiJ0ZXN0ZGVtbyIsImV4cCI6MTU3OTI1NDg5MywiaWF0IjoxNTc5MjUxMjkzfQ.I-7OtdIzMWPbyRgsWPmpbe7p8hTD_oTAoXHpBHdQSl4p1uerb5ioJeU6ko4cEC3tvOWPVwLNdTK2OI4olvQCvJDhFlQnKcvJ2Qu27PP_AKAXzZmmn7NufdUWtpDedQyZRwk5yY_8fkmQcTlSXy00QZibIFEjNbz5wp5v22EiSCSqfa_HhmKnoev8AFm7XIy3Lu7sycRKjLmc6tprNZTJCTym_QjNtCYdCusxnino0U2ChMlphI5_H1WxuuO3Zzs72qC0BYFW4iSWtSE4NBMLbDTvyHrHpUaoKrMnjfjnZHeV0E4OoXOCqCP-44fRkoQemVMVZOb9Z78NaXBIpTMVZg",
+    "x-app-key:5nej5keguopj928ekcj3dne8p"
+]
+Date:  2020-01-17 03:05:48pm : create Body:{
+    "amount": 2500,
+    "currency": "BDT",
+    "intent": "sale",
+    "merchantInvoiceNumber": "2020011700086"
+}
+Date:  2020-01-17 03:05:49pm : create result:"{\"paymentID\":\"C3UASKH1579251952061\",\"createTime\":\"2020-01-17T09:05:52:120 GMT+0000\",\"orgLogo\":\"https:\/\/s3-ap-southeast-1.amazonaws.com\/merchantlogo.sandbox.bka.sh\/merchant-default-logo.png\",\"orgName\":\"TestCheckoutMerchant2\",\"transactionStatus\":\"Initiated\",\"amount\":\"2500\",\"currency\":\"BDT\",\"intent\":\"sale\",\"merchantInvoiceNumber\":\"2020011700086\"}"
+Date:  2020-01-17 03:07:24pm : create url:"https:\/\/checkout.sandbox.bka.sh\/v1.2.0-beta\/checkout\/payment\/create"
+Date:  2020-01-17 03:07:24pm : create Heder:[
+    "Content-Type:application\/json",
+    "authorization:eyJraWQiOiJmalhJQmwxclFUXC9hM215MG9ScXpEdVZZWk5KXC9qRTNJOFBaeGZUY3hlamc9IiwiYWxnIjoiUlMyNTYifQ.eyJzdWIiOiI4ZGU4ZjBlMC1mY2RjLTQyNzMtYjY4YS1iNDAwOWNjZjc3ZDEiLCJhdWQiOiI1bmVqNWtlZ3VvcGo5Mjhla2NqM2RuZThwIiwiZXZlbnRfaWQiOiJiOWI2YjA3YS1mNjkzLTQ0NWItYWExMy1iZDZlZWYwNjFhMGIiLCJ0b2tlbl91c2UiOiJpZCIsImF1dGhfdGltZSI6MTU3OTI1MTI5MywiaXNzIjoiaHR0cHM6XC9cL2NvZ25pdG8taWRwLmFwLXNvdXRoZWFzdC0xLmFtYXpvbmF3cy5jb21cL2FwLXNvdXRoZWFzdC0xX2tmNUJTTm9QZSIsImNvZ25pdG86dXNlcm5hbWUiOiJ0ZXN0ZGVtbyIsImV4cCI6MTU3OTI1NDg5MywiaWF0IjoxNTc5MjUxMjkzfQ.I-7OtdIzMWPbyRgsWPmpbe7p8hTD_oTAoXHpBHdQSl4p1uerb5ioJeU6ko4cEC3tvOWPVwLNdTK2OI4olvQCvJDhFlQnKcvJ2Qu27PP_AKAXzZmmn7NufdUWtpDedQyZRwk5yY_8fkmQcTlSXy00QZibIFEjNbz5wp5v22EiSCSqfa_HhmKnoev8AFm7XIy3Lu7sycRKjLmc6tprNZTJCTym_QjNtCYdCusxnino0U2ChMlphI5_H1WxuuO3Zzs72qC0BYFW4iSWtSE4NBMLbDTvyHrHpUaoKrMnjfjnZHeV0E4OoXOCqCP-44fRkoQemVMVZOb9Z78NaXBIpTMVZg",
+    "x-app-key:5nej5keguopj928ekcj3dne8p"
+]
+Date:  2020-01-17 03:07:24pm : create Body:{
+    "amount": 0,
+    "currency": "BDT",
+    "intent": "sale",
+    "merchantInvoiceNumber": null
+}
+Date:  2020-01-17 03:07:26pm : create result:"{\"errorCode\":\"9999\",\"errorMessage\":\"System Error.\"}"
+Date:  2020-01-17 03:09:30pm : raw result:{"memberid":"99","convid":"202001","membername":"\u0995\u09ac\u09bf\u09a4\u09be \u0997\u09cb\u09b8\u09cd\u09ac\u09be\u09ae\u09c0 |5465456456","gender":"female","dresssize":"0","feeamount":2500,"totalguest":"0","totalamount":2500,"mregistat":"0"}
+Date:  2020-01-17 03:09:30pm : save result:{
+    "memberid": "99",
+    "convid": "202001",
+    "membername": "\u0995\u09ac\u09bf\u09a4\u09be \u0997\u09cb\u09b8\u09cd\u09ac\u09be\u09ae\u09c0 |5465456456",
+    "gender": "female",
+    "dresssize": "0",
+    "feeamount": 2500,
+    "totalguest": "0",
+    "totalamount": 2500,
+    "mregistat": "0"
+}--1>>
+Date:  2020-01-17 03:09:31pm : save result03:2500>>2500
+Date:  2020-01-17 03:09:41pm : create url:"https:\/\/checkout.sandbox.bka.sh\/v1.2.0-beta\/checkout\/payment\/create"
+Date:  2020-01-17 03:09:41pm : create Heder:[
+    "Content-Type:application\/json",
+    "authorization:eyJraWQiOiJmalhJQmwxclFUXC9hM215MG9ScXpEdVZZWk5KXC9qRTNJOFBaeGZUY3hlamc9IiwiYWxnIjoiUlMyNTYifQ.eyJzdWIiOiI4ZGU4ZjBlMC1mY2RjLTQyNzMtYjY4YS1iNDAwOWNjZjc3ZDEiLCJhdWQiOiI1bmVqNWtlZ3VvcGo5Mjhla2NqM2RuZThwIiwiZXZlbnRfaWQiOiJiOWI2YjA3YS1mNjkzLTQ0NWItYWExMy1iZDZlZWYwNjFhMGIiLCJ0b2tlbl91c2UiOiJpZCIsImF1dGhfdGltZSI6MTU3OTI1MTI5MywiaXNzIjoiaHR0cHM6XC9cL2NvZ25pdG8taWRwLmFwLXNvdXRoZWFzdC0xLmFtYXpvbmF3cy5jb21cL2FwLXNvdXRoZWFzdC0xX2tmNUJTTm9QZSIsImNvZ25pdG86dXNlcm5hbWUiOiJ0ZXN0ZGVtbyIsImV4cCI6MTU3OTI1NDg5MywiaWF0IjoxNTc5MjUxMjkzfQ.I-7OtdIzMWPbyRgsWPmpbe7p8hTD_oTAoXHpBHdQSl4p1uerb5ioJeU6ko4cEC3tvOWPVwLNdTK2OI4olvQCvJDhFlQnKcvJ2Qu27PP_AKAXzZmmn7NufdUWtpDedQyZRwk5yY_8fkmQcTlSXy00QZibIFEjNbz5wp5v22EiSCSqfa_HhmKnoev8AFm7XIy3Lu7sycRKjLmc6tprNZTJCTym_QjNtCYdCusxnino0U2ChMlphI5_H1WxuuO3Zzs72qC0BYFW4iSWtSE4NBMLbDTvyHrHpUaoKrMnjfjnZHeV0E4OoXOCqCP-44fRkoQemVMVZOb9Z78NaXBIpTMVZg",
+    "x-app-key:5nej5keguopj928ekcj3dne8p"
+]
+Date:  2020-01-17 03:09:41pm : create Body:{
+    "amount": 2500,
+    "currency": "BDT",
+    "intent": "sale",
+    "merchantInvoiceNumber": "2020011700087"
+}
+Date:  2020-01-17 03:09:43pm : create result:"{\"paymentID\":\"COPXNXF1579252185206\",\"createTime\":\"2020-01-17T09:09:45:305 GMT+0000\",\"orgLogo\":\"https:\/\/s3-ap-southeast-1.amazonaws.com\/merchantlogo.sandbox.bka.sh\/merchant-default-logo.png\",\"orgName\":\"TestCheckoutMerchant2\",\"transactionStatus\":\"Initiated\",\"amount\":\"2500\",\"currency\":\"BDT\",\"intent\":\"sale\",\"merchantInvoiceNumber\":\"2020011700087\"}"
+Date:  2020-01-17 03:09:56pm : create url:"https:\/\/checkout.sandbox.bka.sh\/v1.2.0-beta\/checkout\/payment\/create"
+Date:  2020-01-17 03:09:56pm : create Heder:[
+    "Content-Type:application\/json",
+    "authorization:eyJraWQiOiJmalhJQmwxclFUXC9hM215MG9ScXpEdVZZWk5KXC9qRTNJOFBaeGZUY3hlamc9IiwiYWxnIjoiUlMyNTYifQ.eyJzdWIiOiI4ZGU4ZjBlMC1mY2RjLTQyNzMtYjY4YS1iNDAwOWNjZjc3ZDEiLCJhdWQiOiI1bmVqNWtlZ3VvcGo5Mjhla2NqM2RuZThwIiwiZXZlbnRfaWQiOiJiOWI2YjA3YS1mNjkzLTQ0NWItYWExMy1iZDZlZWYwNjFhMGIiLCJ0b2tlbl91c2UiOiJpZCIsImF1dGhfdGltZSI6MTU3OTI1MTI5MywiaXNzIjoiaHR0cHM6XC9cL2NvZ25pdG8taWRwLmFwLXNvdXRoZWFzdC0xLmFtYXpvbmF3cy5jb21cL2FwLXNvdXRoZWFzdC0xX2tmNUJTTm9QZSIsImNvZ25pdG86dXNlcm5hbWUiOiJ0ZXN0ZGVtbyIsImV4cCI6MTU3OTI1NDg5MywiaWF0IjoxNTc5MjUxMjkzfQ.I-7OtdIzMWPbyRgsWPmpbe7p8hTD_oTAoXHpBHdQSl4p1uerb5ioJeU6ko4cEC3tvOWPVwLNdTK2OI4olvQCvJDhFlQnKcvJ2Qu27PP_AKAXzZmmn7NufdUWtpDedQyZRwk5yY_8fkmQcTlSXy00QZibIFEjNbz5wp5v22EiSCSqfa_HhmKnoev8AFm7XIy3Lu7sycRKjLmc6tprNZTJCTym_QjNtCYdCusxnino0U2ChMlphI5_H1WxuuO3Zzs72qC0BYFW4iSWtSE4NBMLbDTvyHrHpUaoKrMnjfjnZHeV0E4OoXOCqCP-44fRkoQemVMVZOb9Z78NaXBIpTMVZg",
+    "x-app-key:5nej5keguopj928ekcj3dne8p"
+]
+Date:  2020-01-17 03:09:56pm : create Body:{
+    "amount": "NaN",
+    "currency": "BDT",
+    "intent": "sale",
+    "merchantInvoiceNumber": "2020011700087"
+}
+Date:  2020-01-17 03:10:00pm : create result:"{\"errorCode\":\"9999\",\"errorMessage\":\"System Error.\"}"
+Date:  2020-01-17 03:11:44pm : create url:"https:\/\/checkout.sandbox.bka.sh\/v1.2.0-beta\/checkout\/payment\/create"
+Date:  2020-01-17 03:11:44pm : create Heder:[
+    "Content-Type:application\/json",
+    "authorization:eyJraWQiOiJmalhJQmwxclFUXC9hM215MG9ScXpEdVZZWk5KXC9qRTNJOFBaeGZUY3hlamc9IiwiYWxnIjoiUlMyNTYifQ.eyJzdWIiOiI4ZGU4ZjBlMC1mY2RjLTQyNzMtYjY4YS1iNDAwOWNjZjc3ZDEiLCJhdWQiOiI1bmVqNWtlZ3VvcGo5Mjhla2NqM2RuZThwIiwiZXZlbnRfaWQiOiJiOWI2YjA3YS1mNjkzLTQ0NWItYWExMy1iZDZlZWYwNjFhMGIiLCJ0b2tlbl91c2UiOiJpZCIsImF1dGhfdGltZSI6MTU3OTI1MTI5MywiaXNzIjoiaHR0cHM6XC9cL2NvZ25pdG8taWRwLmFwLXNvdXRoZWFzdC0xLmFtYXpvbmF3cy5jb21cL2FwLXNvdXRoZWFzdC0xX2tmNUJTTm9QZSIsImNvZ25pdG86dXNlcm5hbWUiOiJ0ZXN0ZGVtbyIsImV4cCI6MTU3OTI1NDg5MywiaWF0IjoxNTc5MjUxMjkzfQ.I-7OtdIzMWPbyRgsWPmpbe7p8hTD_oTAoXHpBHdQSl4p1uerb5ioJeU6ko4cEC3tvOWPVwLNdTK2OI4olvQCvJDhFlQnKcvJ2Qu27PP_AKAXzZmmn7NufdUWtpDedQyZRwk5yY_8fkmQcTlSXy00QZibIFEjNbz5wp5v22EiSCSqfa_HhmKnoev8AFm7XIy3Lu7sycRKjLmc6tprNZTJCTym_QjNtCYdCusxnino0U2ChMlphI5_H1WxuuO3Zzs72qC0BYFW4iSWtSE4NBMLbDTvyHrHpUaoKrMnjfjnZHeV0E4OoXOCqCP-44fRkoQemVMVZOb9Z78NaXBIpTMVZg",
+    "x-app-key:5nej5keguopj928ekcj3dne8p"
+]
+Date:  2020-01-17 03:11:44pm : create Body:{
+    "amount": 0,
+    "currency": "BDT",
+    "intent": "sale",
+    "merchantInvoiceNumber": null
+}
+Date:  2020-01-17 03:11:45pm : create result:"{\"errorCode\":\"9999\",\"errorMessage\":\"System Error.\"}"
+Date:  2020-01-17 03:12:12pm : raw result:{"memberid":"99","convid":"202001","membername":"\u0995\u09ac\u09bf\u09a4\u09be \u0997\u09cb\u09b8\u09cd\u09ac\u09be\u09ae\u09c0 |5465456456","gender":"female","dresssize":"0","feeamount":2500,"totalguest":"0","totalamount":2500,"mregistat":"0"}
+Date:  2020-01-17 03:12:12pm : save result:{
+    "memberid": "99",
+    "convid": "202001",
+    "membername": "\u0995\u09ac\u09bf\u09a4\u09be \u0997\u09cb\u09b8\u09cd\u09ac\u09be\u09ae\u09c0 |5465456456",
+    "gender": "female",
+    "dresssize": "0",
+    "feeamount": 2500,
+    "totalguest": "0",
+    "totalamount": 2500,
+    "mregistat": "0"
+}--1>>
+Date:  2020-01-17 03:12:12pm : save result03:2500>>1
+Date:  2020-01-17 03:12:30pm : create url:"https:\/\/checkout.sandbox.bka.sh\/v1.2.0-beta\/checkout\/payment\/create"
+Date:  2020-01-17 03:12:30pm : create Heder:[
+    "Content-Type:application\/json",
+    "authorization:eyJraWQiOiJmalhJQmwxclFUXC9hM215MG9ScXpEdVZZWk5KXC9qRTNJOFBaeGZUY3hlamc9IiwiYWxnIjoiUlMyNTYifQ.eyJzdWIiOiI4ZGU4ZjBlMC1mY2RjLTQyNzMtYjY4YS1iNDAwOWNjZjc3ZDEiLCJhdWQiOiI1bmVqNWtlZ3VvcGo5Mjhla2NqM2RuZThwIiwiZXZlbnRfaWQiOiJiOWI2YjA3YS1mNjkzLTQ0NWItYWExMy1iZDZlZWYwNjFhMGIiLCJ0b2tlbl91c2UiOiJpZCIsImF1dGhfdGltZSI6MTU3OTI1MTI5MywiaXNzIjoiaHR0cHM6XC9cL2NvZ25pdG8taWRwLmFwLXNvdXRoZWFzdC0xLmFtYXpvbmF3cy5jb21cL2FwLXNvdXRoZWFzdC0xX2tmNUJTTm9QZSIsImNvZ25pdG86dXNlcm5hbWUiOiJ0ZXN0ZGVtbyIsImV4cCI6MTU3OTI1NDg5MywiaWF0IjoxNTc5MjUxMjkzfQ.I-7OtdIzMWPbyRgsWPmpbe7p8hTD_oTAoXHpBHdQSl4p1uerb5ioJeU6ko4cEC3tvOWPVwLNdTK2OI4olvQCvJDhFlQnKcvJ2Qu27PP_AKAXzZmmn7NufdUWtpDedQyZRwk5yY_8fkmQcTlSXy00QZibIFEjNbz5wp5v22EiSCSqfa_HhmKnoev8AFm7XIy3Lu7sycRKjLmc6tprNZTJCTym_QjNtCYdCusxnino0U2ChMlphI5_H1WxuuO3Zzs72qC0BYFW4iSWtSE4NBMLbDTvyHrHpUaoKrMnjfjnZHeV0E4OoXOCqCP-44fRkoQemVMVZOb9Z78NaXBIpTMVZg",
+    "x-app-key:5nej5keguopj928ekcj3dne8p"
+]
+Date:  2020-01-17 03:12:30pm : create Body:{
+    "amount": "2500",
+    "currency": "BDT",
+    "intent": "sale",
+    "merchantInvoiceNumber": "2020011700088"
+}
+Date:  2020-01-17 03:12:34pm : create result:"{\"paymentID\":\"G149U9Z1579252354774\",\"createTime\":\"2020-01-17T09:12:34:887 GMT+0000\",\"orgLogo\":\"https:\/\/s3-ap-southeast-1.amazonaws.com\/merchantlogo.sandbox.bka.sh\/merchant-default-logo.png\",\"orgName\":\"TestCheckoutMerchant2\",\"transactionStatus\":\"Initiated\",\"amount\":\"2500\",\"currency\":\"BDT\",\"intent\":\"sale\",\"merchantInvoiceNumber\":\"2020011700088\"}"
+Date:  2020-01-17 03:13:28pm : create url:"https:\/\/checkout.sandbox.bka.sh\/v1.2.0-beta\/checkout\/payment\/create"
+Date:  2020-01-17 03:13:28pm : create Heder:[
+    "Content-Type:application\/json",
+    "authorization:eyJraWQiOiJmalhJQmwxclFUXC9hM215MG9ScXpEdVZZWk5KXC9qRTNJOFBaeGZUY3hlamc9IiwiYWxnIjoiUlMyNTYifQ.eyJzdWIiOiI4ZGU4ZjBlMC1mY2RjLTQyNzMtYjY4YS1iNDAwOWNjZjc3ZDEiLCJhdWQiOiI1bmVqNWtlZ3VvcGo5Mjhla2NqM2RuZThwIiwiZXZlbnRfaWQiOiJiOWI2YjA3YS1mNjkzLTQ0NWItYWExMy1iZDZlZWYwNjFhMGIiLCJ0b2tlbl91c2UiOiJpZCIsImF1dGhfdGltZSI6MTU3OTI1MTI5MywiaXNzIjoiaHR0cHM6XC9cL2NvZ25pdG8taWRwLmFwLXNvdXRoZWFzdC0xLmFtYXpvbmF3cy5jb21cL2FwLXNvdXRoZWFzdC0xX2tmNUJTTm9QZSIsImNvZ25pdG86dXNlcm5hbWUiOiJ0ZXN0ZGVtbyIsImV4cCI6MTU3OTI1NDg5MywiaWF0IjoxNTc5MjUxMjkzfQ.I-7OtdIzMWPbyRgsWPmpbe7p8hTD_oTAoXHpBHdQSl4p1uerb5ioJeU6ko4cEC3tvOWPVwLNdTK2OI4olvQCvJDhFlQnKcvJ2Qu27PP_AKAXzZmmn7NufdUWtpDedQyZRwk5yY_8fkmQcTlSXy00QZibIFEjNbz5wp5v22EiSCSqfa_HhmKnoev8AFm7XIy3Lu7sycRKjLmc6tprNZTJCTym_QjNtCYdCusxnino0U2ChMlphI5_H1WxuuO3Zzs72qC0BYFW4iSWtSE4NBMLbDTvyHrHpUaoKrMnjfjnZHeV0E4OoXOCqCP-44fRkoQemVMVZOb9Z78NaXBIpTMVZg",
+    "x-app-key:5nej5keguopj928ekcj3dne8p"
+]
+Date:  2020-01-17 03:13:28pm : create Body:{
+    "amount": "NaN",
+    "currency": "BDT",
+    "intent": "sale",
+    "merchantInvoiceNumber": "2020011700087"
+}
+Date:  2020-01-17 03:13:31pm : create result:"{\"errorCode\":\"9999\",\"errorMessage\":\"System Error.\"}"
+Date:  2020-01-17 03:13:56pm : raw result:{"memberid":"99","convid":"202001","membername":"\u0995\u09ac\u09bf\u09a4\u09be \u0997\u09cb\u09b8\u09cd\u09ac\u09be\u09ae\u09c0 |01710563521","gender":"female","dresssize":"0","feeamount":2500,"totalguest":"0","totalamount":2500,"mregistat":"0"}
+Date:  2020-01-17 03:13:56pm : save result:{
+    "memberid": "99",
+    "convid": "202001",
+    "membername": "\u0995\u09ac\u09bf\u09a4\u09be \u0997\u09cb\u09b8\u09cd\u09ac\u09be\u09ae\u09c0 |01710563521",
+    "gender": "female",
+    "dresssize": "0",
+    "feeamount": 2500,
+    "totalguest": "0",
+    "totalamount": 2500,
+    "mregistat": "0"
+}--1>>
+Date:  2020-01-17 03:13:56pm : save result03:2500>>2500
+Date:  2020-01-17 03:14:00pm : create url:"https:\/\/checkout.sandbox.bka.sh\/v1.2.0-beta\/checkout\/payment\/create"
+Date:  2020-01-17 03:14:00pm : create Heder:[
+    "Content-Type:application\/json",
+    "authorization:eyJraWQiOiJmalhJQmwxclFUXC9hM215MG9ScXpEdVZZWk5KXC9qRTNJOFBaeGZUY3hlamc9IiwiYWxnIjoiUlMyNTYifQ.eyJzdWIiOiI4ZGU4ZjBlMC1mY2RjLTQyNzMtYjY4YS1iNDAwOWNjZjc3ZDEiLCJhdWQiOiI1bmVqNWtlZ3VvcGo5Mjhla2NqM2RuZThwIiwiZXZlbnRfaWQiOiJiOWI2YjA3YS1mNjkzLTQ0NWItYWExMy1iZDZlZWYwNjFhMGIiLCJ0b2tlbl91c2UiOiJpZCIsImF1dGhfdGltZSI6MTU3OTI1MTI5MywiaXNzIjoiaHR0cHM6XC9cL2NvZ25pdG8taWRwLmFwLXNvdXRoZWFzdC0xLmFtYXpvbmF3cy5jb21cL2FwLXNvdXRoZWFzdC0xX2tmNUJTTm9QZSIsImNvZ25pdG86dXNlcm5hbWUiOiJ0ZXN0ZGVtbyIsImV4cCI6MTU3OTI1NDg5MywiaWF0IjoxNTc5MjUxMjkzfQ.I-7OtdIzMWPbyRgsWPmpbe7p8hTD_oTAoXHpBHdQSl4p1uerb5ioJeU6ko4cEC3tvOWPVwLNdTK2OI4olvQCvJDhFlQnKcvJ2Qu27PP_AKAXzZmmn7NufdUWtpDedQyZRwk5yY_8fkmQcTlSXy00QZibIFEjNbz5wp5v22EiSCSqfa_HhmKnoev8AFm7XIy3Lu7sycRKjLmc6tprNZTJCTym_QjNtCYdCusxnino0U2ChMlphI5_H1WxuuO3Zzs72qC0BYFW4iSWtSE4NBMLbDTvyHrHpUaoKrMnjfjnZHeV0E4OoXOCqCP-44fRkoQemVMVZOb9Z78NaXBIpTMVZg",
+    "x-app-key:5nej5keguopj928ekcj3dne8p"
+]
+Date:  2020-01-17 03:14:00pm : create Body:{
+    "amount": 2500,
+    "currency": "BDT",
+    "intent": "sale",
+    "merchantInvoiceNumber": "2020011700089"
+}
+Date:  2020-01-17 03:14:01pm : create result:"{\"paymentID\":\"K3UX8UD1579252443619\",\"createTime\":\"2020-01-17T09:14:03:739 GMT+0000\",\"orgLogo\":\"https:\/\/s3-ap-southeast-1.amazonaws.com\/merchantlogo.sandbox.bka.sh\/merchant-default-logo.png\",\"orgName\":\"TestCheckoutMerchant2\",\"transactionStatus\":\"Initiated\",\"amount\":\"2500\",\"currency\":\"BDT\",\"intent\":\"sale\",\"merchantInvoiceNumber\":\"2020011700089\"}"
+Date:  2020-01-17 03:15:18pm : raw result:{"memberid":"99","convid":"202001","membername":"\u0995\u09ac\u09bf\u09a4\u09be \u0997\u09cb\u09b8\u09cd\u09ac\u09be\u09ae\u09c0 |01710563521","gender":"female","dresssize":"0","feeamount":2500,"totalguest":"0","totalamount":2500,"mregistat":"0"}
+Date:  2020-01-17 03:15:18pm : save result:{
+    "memberid": "99",
+    "convid": "202001",
+    "membername": "\u0995\u09ac\u09bf\u09a4\u09be \u0997\u09cb\u09b8\u09cd\u09ac\u09be\u09ae\u09c0 |01710563521",
+    "gender": "female",
+    "dresssize": "0",
+    "feeamount": 2500,
+    "totalguest": "0",
+    "totalamount": 2500,
+    "mregistat": "0"
+}--1>>
+Date:  2020-01-17 03:15:18pm : save result03:2500>>2500
+Date:  2020-01-17 03:15:34pm : create url:"https:\/\/checkout.sandbox.bka.sh\/v1.2.0-beta\/checkout\/payment\/create"
+Date:  2020-01-17 03:15:34pm : create Heder:[
+    "Content-Type:application\/json",
+    "authorization:eyJraWQiOiJmalhJQmwxclFUXC9hM215MG9ScXpEdVZZWk5KXC9qRTNJOFBaeGZUY3hlamc9IiwiYWxnIjoiUlMyNTYifQ.eyJzdWIiOiI4ZGU4ZjBlMC1mY2RjLTQyNzMtYjY4YS1iNDAwOWNjZjc3ZDEiLCJhdWQiOiI1bmVqNWtlZ3VvcGo5Mjhla2NqM2RuZThwIiwiZXZlbnRfaWQiOiJiOWI2YjA3YS1mNjkzLTQ0NWItYWExMy1iZDZlZWYwNjFhMGIiLCJ0b2tlbl91c2UiOiJpZCIsImF1dGhfdGltZSI6MTU3OTI1MTI5MywiaXNzIjoiaHR0cHM6XC9cL2NvZ25pdG8taWRwLmFwLXNvdXRoZWFzdC0xLmFtYXpvbmF3cy5jb21cL2FwLXNvdXRoZWFzdC0xX2tmNUJTTm9QZSIsImNvZ25pdG86dXNlcm5hbWUiOiJ0ZXN0ZGVtbyIsImV4cCI6MTU3OTI1NDg5MywiaWF0IjoxNTc5MjUxMjkzfQ.I-7OtdIzMWPbyRgsWPmpbe7p8hTD_oTAoXHpBHdQSl4p1uerb5ioJeU6ko4cEC3tvOWPVwLNdTK2OI4olvQCvJDhFlQnKcvJ2Qu27PP_AKAXzZmmn7NufdUWtpDedQyZRwk5yY_8fkmQcTlSXy00QZibIFEjNbz5wp5v22EiSCSqfa_HhmKnoev8AFm7XIy3Lu7sycRKjLmc6tprNZTJCTym_QjNtCYdCusxnino0U2ChMlphI5_H1WxuuO3Zzs72qC0BYFW4iSWtSE4NBMLbDTvyHrHpUaoKrMnjfjnZHeV0E4OoXOCqCP-44fRkoQemVMVZOb9Z78NaXBIpTMVZg",
+    "x-app-key:5nej5keguopj928ekcj3dne8p"
+]
+Date:  2020-01-17 03:15:34pm : create Body:{
+    "amount": 2500,
+    "currency": "BDT",
+    "intent": "sale",
+    "merchantInvoiceNumber": "2020011700090"
+}
+Date:  2020-01-17 03:15:35pm : create result:"{\"paymentID\":\"J0YZ2YK1579252537155\",\"createTime\":\"2020-01-17T09:15:37:315 GMT+0000\",\"orgLogo\":\"https:\/\/s3-ap-southeast-1.amazonaws.com\/merchantlogo.sandbox.bka.sh\/merchant-default-logo.png\",\"orgName\":\"TestCheckoutMerchant2\",\"transactionStatus\":\"Initiated\",\"amount\":\"2500\",\"currency\":\"BDT\",\"intent\":\"sale\",\"merchantInvoiceNumber\":\"2020011700090\"}"
+Date:  2020-01-17 03:15:56pm : create url:"https:\/\/checkout.sandbox.bka.sh\/v1.2.0-beta\/checkout\/payment\/create"
+Date:  2020-01-17 03:15:56pm : create Heder:[
+    "Content-Type:application\/json",
+    "authorization:eyJraWQiOiJmalhJQmwxclFUXC9hM215MG9ScXpEdVZZWk5KXC9qRTNJOFBaeGZUY3hlamc9IiwiYWxnIjoiUlMyNTYifQ.eyJzdWIiOiI4ZGU4ZjBlMC1mY2RjLTQyNzMtYjY4YS1iNDAwOWNjZjc3ZDEiLCJhdWQiOiI1bmVqNWtlZ3VvcGo5Mjhla2NqM2RuZThwIiwiZXZlbnRfaWQiOiJiOWI2YjA3YS1mNjkzLTQ0NWItYWExMy1iZDZlZWYwNjFhMGIiLCJ0b2tlbl91c2UiOiJpZCIsImF1dGhfdGltZSI6MTU3OTI1MTI5MywiaXNzIjoiaHR0cHM6XC9cL2NvZ25pdG8taWRwLmFwLXNvdXRoZWFzdC0xLmFtYXpvbmF3cy5jb21cL2FwLXNvdXRoZWFzdC0xX2tmNUJTTm9QZSIsImNvZ25pdG86dXNlcm5hbWUiOiJ0ZXN0ZGVtbyIsImV4cCI6MTU3OTI1NDg5MywiaWF0IjoxNTc5MjUxMjkzfQ.I-7OtdIzMWPbyRgsWPmpbe7p8hTD_oTAoXHpBHdQSl4p1uerb5ioJeU6ko4cEC3tvOWPVwLNdTK2OI4olvQCvJDhFlQnKcvJ2Qu27PP_AKAXzZmmn7NufdUWtpDedQyZRwk5yY_8fkmQcTlSXy00QZibIFEjNbz5wp5v22EiSCSqfa_HhmKnoev8AFm7XIy3Lu7sycRKjLmc6tprNZTJCTym_QjNtCYdCusxnino0U2ChMlphI5_H1WxuuO3Zzs72qC0BYFW4iSWtSE4NBMLbDTvyHrHpUaoKrMnjfjnZHeV0E4OoXOCqCP-44fRkoQemVMVZOb9Z78NaXBIpTMVZg",
+    "x-app-key:5nej5keguopj928ekcj3dne8p"
+]
+Date:  2020-01-17 03:15:56pm : create Body:{
+    "amount": "NaN",
+    "currency": "BDT",
+    "intent": "sale",
+    "merchantInvoiceNumber": "2020011700090"
+}
+Date:  2020-01-17 03:16:00pm : create result:"{\"errorCode\":\"9999\",\"errorMessage\":\"System Error.\"}"
+Date:  2020-01-17 03:16:25pm : raw result:{"memberid":"99","convid":"202001","membername":"\u0995\u09ac\u09bf\u09a4\u09be \u0997\u09cb\u09b8\u09cd\u09ac\u09be\u09ae\u09c0 |01710563521","gender":"female","dresssize":"0","feeamount":2500,"totalguest":"0","totalamount":2500,"mregistat":"0"}
+Date:  2020-01-17 03:16:25pm : save result:{
+    "memberid": "99",
+    "convid": "202001",
+    "membername": "\u0995\u09ac\u09bf\u09a4\u09be \u0997\u09cb\u09b8\u09cd\u09ac\u09be\u09ae\u09c0 |01710563521",
+    "gender": "female",
+    "dresssize": "0",
+    "feeamount": 2500,
+    "totalguest": "0",
+    "totalamount": 2500,
+    "mregistat": "0"
+}--1>>
+Date:  2020-01-17 03:16:25pm : save result03:2500>>2500
+Date:  2020-01-17 03:16:27pm : create url:"https:\/\/checkout.sandbox.bka.sh\/v1.2.0-beta\/checkout\/payment\/create"
+Date:  2020-01-17 03:16:27pm : create Heder:[
+    "Content-Type:application\/json",
+    "authorization:eyJraWQiOiJmalhJQmwxclFUXC9hM215MG9ScXpEdVZZWk5KXC9qRTNJOFBaeGZUY3hlamc9IiwiYWxnIjoiUlMyNTYifQ.eyJzdWIiOiI4ZGU4ZjBlMC1mY2RjLTQyNzMtYjY4YS1iNDAwOWNjZjc3ZDEiLCJhdWQiOiI1bmVqNWtlZ3VvcGo5Mjhla2NqM2RuZThwIiwiZXZlbnRfaWQiOiJiOWI2YjA3YS1mNjkzLTQ0NWItYWExMy1iZDZlZWYwNjFhMGIiLCJ0b2tlbl91c2UiOiJpZCIsImF1dGhfdGltZSI6MTU3OTI1MTI5MywiaXNzIjoiaHR0cHM6XC9cL2NvZ25pdG8taWRwLmFwLXNvdXRoZWFzdC0xLmFtYXpvbmF3cy5jb21cL2FwLXNvdXRoZWFzdC0xX2tmNUJTTm9QZSIsImNvZ25pdG86dXNlcm5hbWUiOiJ0ZXN0ZGVtbyIsImV4cCI6MTU3OTI1NDg5MywiaWF0IjoxNTc5MjUxMjkzfQ.I-7OtdIzMWPbyRgsWPmpbe7p8hTD_oTAoXHpBHdQSl4p1uerb5ioJeU6ko4cEC3tvOWPVwLNdTK2OI4olvQCvJDhFlQnKcvJ2Qu27PP_AKAXzZmmn7NufdUWtpDedQyZRwk5yY_8fkmQcTlSXy00QZibIFEjNbz5wp5v22EiSCSqfa_HhmKnoev8AFm7XIy3Lu7sycRKjLmc6tprNZTJCTym_QjNtCYdCusxnino0U2ChMlphI5_H1WxuuO3Zzs72qC0BYFW4iSWtSE4NBMLbDTvyHrHpUaoKrMnjfjnZHeV0E4OoXOCqCP-44fRkoQemVMVZOb9Z78NaXBIpTMVZg",
+    "x-app-key:5nej5keguopj928ekcj3dne8p"
+]
+Date:  2020-01-17 03:16:27pm : create Body:{
+    "amount": 2500,
+    "currency": "BDT",
+    "intent": "sale",
+    "merchantInvoiceNumber": "2020011700091"
+}
+Date:  2020-01-17 03:16:33pm : create result:"{\"paymentID\":\"WG29PGJ1579252593618\",\"createTime\":\"2020-01-17T09:16:33:728 GMT+0000\",\"orgLogo\":\"https:\/\/s3-ap-southeast-1.amazonaws.com\/merchantlogo.sandbox.bka.sh\/merchant-default-logo.png\",\"orgName\":\"TestCheckoutMerchant2\",\"transactionStatus\":\"Initiated\",\"amount\":\"2500\",\"currency\":\"BDT\",\"intent\":\"sale\",\"merchantInvoiceNumber\":\"2020011700091\"}"
+Date:  2020-01-17 03:22:41pm : raw result:{"memberid":"99","convid":"202001","membername":"\u0995\u09ac\u09bf\u09a4\u09be \u0997\u09cb\u09b8\u09cd\u09ac\u09be\u09ae\u09c0 |01710563521","gender":"female","dresssize":"0","feeamount":3,"totalguest":"0","totalamount":3,"mregistat":"0"}
+Date:  2020-01-17 03:22:41pm : save result:{
+    "memberid": "99",
+    "convid": "202001",
+    "membername": "\u0995\u09ac\u09bf\u09a4\u09be \u0997\u09cb\u09b8\u09cd\u09ac\u09be\u09ae\u09c0 |01710563521",
+    "gender": "female",
+    "dresssize": "0",
+    "feeamount": 3,
+    "totalguest": "0",
+    "totalamount": 3,
+    "mregistat": "0"
+}--1>>
+Date:  2020-01-17 03:22:41pm : save result03:3>>3
+Date:  2020-01-17 03:22:50pm : create url:"https:\/\/checkout.sandbox.bka.sh\/v1.2.0-beta\/checkout\/payment\/create"
+Date:  2020-01-17 03:22:50pm : create Heder:[
+    "Content-Type:application\/json",
+    "authorization:eyJraWQiOiJmalhJQmwxclFUXC9hM215MG9ScXpEdVZZWk5KXC9qRTNJOFBaeGZUY3hlamc9IiwiYWxnIjoiUlMyNTYifQ.eyJzdWIiOiI4ZGU4ZjBlMC1mY2RjLTQyNzMtYjY4YS1iNDAwOWNjZjc3ZDEiLCJhdWQiOiI1bmVqNWtlZ3VvcGo5Mjhla2NqM2RuZThwIiwiZXZlbnRfaWQiOiJiOWI2YjA3YS1mNjkzLTQ0NWItYWExMy1iZDZlZWYwNjFhMGIiLCJ0b2tlbl91c2UiOiJpZCIsImF1dGhfdGltZSI6MTU3OTI1MTI5MywiaXNzIjoiaHR0cHM6XC9cL2NvZ25pdG8taWRwLmFwLXNvdXRoZWFzdC0xLmFtYXpvbmF3cy5jb21cL2FwLXNvdXRoZWFzdC0xX2tmNUJTTm9QZSIsImNvZ25pdG86dXNlcm5hbWUiOiJ0ZXN0ZGVtbyIsImV4cCI6MTU3OTI1NDg5MywiaWF0IjoxNTc5MjUxMjkzfQ.I-7OtdIzMWPbyRgsWPmpbe7p8hTD_oTAoXHpBHdQSl4p1uerb5ioJeU6ko4cEC3tvOWPVwLNdTK2OI4olvQCvJDhFlQnKcvJ2Qu27PP_AKAXzZmmn7NufdUWtpDedQyZRwk5yY_8fkmQcTlSXy00QZibIFEjNbz5wp5v22EiSCSqfa_HhmKnoev8AFm7XIy3Lu7sycRKjLmc6tprNZTJCTym_QjNtCYdCusxnino0U2ChMlphI5_H1WxuuO3Zzs72qC0BYFW4iSWtSE4NBMLbDTvyHrHpUaoKrMnjfjnZHeV0E4OoXOCqCP-44fRkoQemVMVZOb9Z78NaXBIpTMVZg",
+    "x-app-key:5nej5keguopj928ekcj3dne8p"
+]
+Date:  2020-01-17 03:22:50pm : create Body:{
+    "amount": "3",
+    "currency": "BDT",
+    "intent": "sale",
+    "merchantInvoiceNumber": "2020011700092"
+}
+Date:  2020-01-17 03:22:54pm : create result:"{\"paymentID\":\"3P9VERH1579252976320\",\"createTime\":\"2020-01-17T09:22:56:433 GMT+0000\",\"orgLogo\":\"https:\/\/s3-ap-southeast-1.amazonaws.com\/merchantlogo.sandbox.bka.sh\/merchant-default-logo.png\",\"orgName\":\"TestCheckoutMerchant2\",\"transactionStatus\":\"Initiated\",\"amount\":\"3\",\"currency\":\"BDT\",\"intent\":\"sale\",\"merchantInvoiceNumber\":\"2020011700092\"}"
+Date:  2020-01-17 03:27:09pm : raw result:{"memberid":"99","convid":"202001","membername":"\u0995\u09ac\u09bf\u09a4\u09be \u0997\u09cb\u09b8\u09cd\u09ac\u09be\u09ae\u09c0 |01710563521","gender":"female","dresssize":"0","feeamount":3,"totalguest":"0","totalamount":3,"mregistat":"0"}
+Date:  2020-01-17 03:27:09pm : save result:{
+    "memberid": "99",
+    "convid": "202001",
+    "membername": "\u0995\u09ac\u09bf\u09a4\u09be \u0997\u09cb\u09b8\u09cd\u09ac\u09be\u09ae\u09c0 |01710563521",
+    "gender": "female",
+    "dresssize": "0",
+    "feeamount": 3,
+    "totalguest": "0",
+    "totalamount": 3,
+    "mregistat": "0"
+}--1>>
+Date:  2020-01-17 03:27:09pm : save result03:3>>3
+Date:  2020-01-17 03:27:16pm : create url:"https:\/\/checkout.sandbox.bka.sh\/v1.2.0-beta\/checkout\/payment\/create"
+Date:  2020-01-17 03:27:16pm : create Heder:[
+    "Content-Type:application\/json",
+    "authorization:eyJraWQiOiJmalhJQmwxclFUXC9hM215MG9ScXpEdVZZWk5KXC9qRTNJOFBaeGZUY3hlamc9IiwiYWxnIjoiUlMyNTYifQ.eyJzdWIiOiI4ZGU4ZjBlMC1mY2RjLTQyNzMtYjY4YS1iNDAwOWNjZjc3ZDEiLCJhdWQiOiI1bmVqNWtlZ3VvcGo5Mjhla2NqM2RuZThwIiwiZXZlbnRfaWQiOiJiOWI2YjA3YS1mNjkzLTQ0NWItYWExMy1iZDZlZWYwNjFhMGIiLCJ0b2tlbl91c2UiOiJpZCIsImF1dGhfdGltZSI6MTU3OTI1MTI5MywiaXNzIjoiaHR0cHM6XC9cL2NvZ25pdG8taWRwLmFwLXNvdXRoZWFzdC0xLmFtYXpvbmF3cy5jb21cL2FwLXNvdXRoZWFzdC0xX2tmNUJTTm9QZSIsImNvZ25pdG86dXNlcm5hbWUiOiJ0ZXN0ZGVtbyIsImV4cCI6MTU3OTI1NDg5MywiaWF0IjoxNTc5MjUxMjkzfQ.I-7OtdIzMWPbyRgsWPmpbe7p8hTD_oTAoXHpBHdQSl4p1uerb5ioJeU6ko4cEC3tvOWPVwLNdTK2OI4olvQCvJDhFlQnKcvJ2Qu27PP_AKAXzZmmn7NufdUWtpDedQyZRwk5yY_8fkmQcTlSXy00QZibIFEjNbz5wp5v22EiSCSqfa_HhmKnoev8AFm7XIy3Lu7sycRKjLmc6tprNZTJCTym_QjNtCYdCusxnino0U2ChMlphI5_H1WxuuO3Zzs72qC0BYFW4iSWtSE4NBMLbDTvyHrHpUaoKrMnjfjnZHeV0E4OoXOCqCP-44fRkoQemVMVZOb9Z78NaXBIpTMVZg",
+    "x-app-key:5nej5keguopj928ekcj3dne8p"
+]
+Date:  2020-01-17 03:27:16pm : create Body:{
+    "amount": "3",
+    "currency": "BDT",
+    "intent": "sale",
+    "merchantInvoiceNumber": "2020011700093"
+}
+Date:  2020-01-17 03:27:17pm : create result:"{\"paymentID\":\"ZGZ95391579253239284\",\"createTime\":\"2020-01-17T09:27:19:503 GMT+0000\",\"orgLogo\":\"https:\/\/s3-ap-southeast-1.amazonaws.com\/merchantlogo.sandbox.bka.sh\/merchant-default-logo.png\",\"orgName\":\"TestCheckoutMerchant2\",\"transactionStatus\":\"Initiated\",\"amount\":\"3\",\"currency\":\"BDT\",\"intent\":\"sale\",\"merchantInvoiceNumber\":\"2020011700093\"}"
+Date:  2020-01-17 03:27:25pm : create url:"https:\/\/checkout.sandbox.bka.sh\/v1.2.0-beta\/checkout\/payment\/create"
+Date:  2020-01-17 03:27:25pm : create Heder:[
+    "Content-Type:application\/json",
+    "authorization:eyJraWQiOiJmalhJQmwxclFUXC9hM215MG9ScXpEdVZZWk5KXC9qRTNJOFBaeGZUY3hlamc9IiwiYWxnIjoiUlMyNTYifQ.eyJzdWIiOiI4ZGU4ZjBlMC1mY2RjLTQyNzMtYjY4YS1iNDAwOWNjZjc3ZDEiLCJhdWQiOiI1bmVqNWtlZ3VvcGo5Mjhla2NqM2RuZThwIiwiZXZlbnRfaWQiOiJiOWI2YjA3YS1mNjkzLTQ0NWItYWExMy1iZDZlZWYwNjFhMGIiLCJ0b2tlbl91c2UiOiJpZCIsImF1dGhfdGltZSI6MTU3OTI1MTI5MywiaXNzIjoiaHR0cHM6XC9cL2NvZ25pdG8taWRwLmFwLXNvdXRoZWFzdC0xLmFtYXpvbmF3cy5jb21cL2FwLXNvdXRoZWFzdC0xX2tmNUJTTm9QZSIsImNvZ25pdG86dXNlcm5hbWUiOiJ0ZXN0ZGVtbyIsImV4cCI6MTU3OTI1NDg5MywiaWF0IjoxNTc5MjUxMjkzfQ.I-7OtdIzMWPbyRgsWPmpbe7p8hTD_oTAoXHpBHdQSl4p1uerb5ioJeU6ko4cEC3tvOWPVwLNdTK2OI4olvQCvJDhFlQnKcvJ2Qu27PP_AKAXzZmmn7NufdUWtpDedQyZRwk5yY_8fkmQcTlSXy00QZibIFEjNbz5wp5v22EiSCSqfa_HhmKnoev8AFm7XIy3Lu7sycRKjLmc6tprNZTJCTym_QjNtCYdCusxnino0U2ChMlphI5_H1WxuuO3Zzs72qC0BYFW4iSWtSE4NBMLbDTvyHrHpUaoKrMnjfjnZHeV0E4OoXOCqCP-44fRkoQemVMVZOb9Z78NaXBIpTMVZg",
+    "x-app-key:5nej5keguopj928ekcj3dne8p"
+]
+Date:  2020-01-17 03:27:25pm : create Body:{
+    "amount": 0,
+    "currency": "BDT",
+    "intent": "sale",
+    "merchantInvoiceNumber": "2020011700093"
+}
+Date:  2020-01-17 03:27:26pm : create result:"{\"errorCode\":\"9999\",\"errorMessage\":\"System Error.\"}"
+Date:  2020-01-17 03:27:31pm : create url:"https:\/\/checkout.sandbox.bka.sh\/v1.2.0-beta\/checkout\/payment\/create"
+Date:  2020-01-17 03:27:31pm : create Heder:[
+    "Content-Type:application\/json",
+    "authorization:eyJraWQiOiJmalhJQmwxclFUXC9hM215MG9ScXpEdVZZWk5KXC9qRTNJOFBaeGZUY3hlamc9IiwiYWxnIjoiUlMyNTYifQ.eyJzdWIiOiI4ZGU4ZjBlMC1mY2RjLTQyNzMtYjY4YS1iNDAwOWNjZjc3ZDEiLCJhdWQiOiI1bmVqNWtlZ3VvcGo5Mjhla2NqM2RuZThwIiwiZXZlbnRfaWQiOiJiOWI2YjA3YS1mNjkzLTQ0NWItYWExMy1iZDZlZWYwNjFhMGIiLCJ0b2tlbl91c2UiOiJpZCIsImF1dGhfdGltZSI6MTU3OTI1MTI5MywiaXNzIjoiaHR0cHM6XC9cL2NvZ25pdG8taWRwLmFwLXNvdXRoZWFzdC0xLmFtYXpvbmF3cy5jb21cL2FwLXNvdXRoZWFzdC0xX2tmNUJTTm9QZSIsImNvZ25pdG86dXNlcm5hbWUiOiJ0ZXN0ZGVtbyIsImV4cCI6MTU3OTI1NDg5MywiaWF0IjoxNTc5MjUxMjkzfQ.I-7OtdIzMWPbyRgsWPmpbe7p8hTD_oTAoXHpBHdQSl4p1uerb5ioJeU6ko4cEC3tvOWPVwLNdTK2OI4olvQCvJDhFlQnKcvJ2Qu27PP_AKAXzZmmn7NufdUWtpDedQyZRwk5yY_8fkmQcTlSXy00QZibIFEjNbz5wp5v22EiSCSqfa_HhmKnoev8AFm7XIy3Lu7sycRKjLmc6tprNZTJCTym_QjNtCYdCusxnino0U2ChMlphI5_H1WxuuO3Zzs72qC0BYFW4iSWtSE4NBMLbDTvyHrHpUaoKrMnjfjnZHeV0E4OoXOCqCP-44fRkoQemVMVZOb9Z78NaXBIpTMVZg",
+    "x-app-key:5nej5keguopj928ekcj3dne8p"
+]
+Date:  2020-01-17 03:27:31pm : create Body:{
+    "amount": 0,
+    "currency": "BDT",
+    "intent": "sale",
+    "merchantInvoiceNumber": "2020011700093"
+}
+Date:  2020-01-17 03:27:33pm : create result:"{\"errorCode\":\"9999\",\"errorMessage\":\"System Error.\"}"
+Date:  2020-01-17 03:29:26pm : raw result:{"memberid":"99","convid":"202001","membername":"\u0995\u09ac\u09bf\u09a4\u09be \u0997\u09cb\u09b8\u09cd\u09ac\u09be\u09ae\u09c0 |01710563521","gender":"female","dresssize":"0","feeamount":3,"totalguest":"0","totalamount":3,"mregistat":"0"}
+Date:  2020-01-17 03:29:26pm : save result:{
+    "memberid": "99",
+    "convid": "202001",
+    "membername": "\u0995\u09ac\u09bf\u09a4\u09be \u0997\u09cb\u09b8\u09cd\u09ac\u09be\u09ae\u09c0 |01710563521",
+    "gender": "female",
+    "dresssize": "0",
+    "feeamount": 3,
+    "totalguest": "0",
+    "totalamount": 3,
+    "mregistat": "0"
+}--1>>
+Date:  2020-01-17 03:29:26pm : save result03:3>>3
+Date:  2020-01-17 03:29:31pm : create url:"https:\/\/checkout.sandbox.bka.sh\/v1.2.0-beta\/checkout\/payment\/create"
+Date:  2020-01-17 03:29:31pm : create Heder:[
+    "Content-Type:application\/json",
+    "authorization:eyJraWQiOiJmalhJQmwxclFUXC9hM215MG9ScXpEdVZZWk5KXC9qRTNJOFBaeGZUY3hlamc9IiwiYWxnIjoiUlMyNTYifQ.eyJzdWIiOiI4ZGU4ZjBlMC1mY2RjLTQyNzMtYjY4YS1iNDAwOWNjZjc3ZDEiLCJhdWQiOiI1bmVqNWtlZ3VvcGo5Mjhla2NqM2RuZThwIiwiZXZlbnRfaWQiOiJiOWI2YjA3YS1mNjkzLTQ0NWItYWExMy1iZDZlZWYwNjFhMGIiLCJ0b2tlbl91c2UiOiJpZCIsImF1dGhfdGltZSI6MTU3OTI1MTI5MywiaXNzIjoiaHR0cHM6XC9cL2NvZ25pdG8taWRwLmFwLXNvdXRoZWFzdC0xLmFtYXpvbmF3cy5jb21cL2FwLXNvdXRoZWFzdC0xX2tmNUJTTm9QZSIsImNvZ25pdG86dXNlcm5hbWUiOiJ0ZXN0ZGVtbyIsImV4cCI6MTU3OTI1NDg5MywiaWF0IjoxNTc5MjUxMjkzfQ.I-7OtdIzMWPbyRgsWPmpbe7p8hTD_oTAoXHpBHdQSl4p1uerb5ioJeU6ko4cEC3tvOWPVwLNdTK2OI4olvQCvJDhFlQnKcvJ2Qu27PP_AKAXzZmmn7NufdUWtpDedQyZRwk5yY_8fkmQcTlSXy00QZibIFEjNbz5wp5v22EiSCSqfa_HhmKnoev8AFm7XIy3Lu7sycRKjLmc6tprNZTJCTym_QjNtCYdCusxnino0U2ChMlphI5_H1WxuuO3Zzs72qC0BYFW4iSWtSE4NBMLbDTvyHrHpUaoKrMnjfjnZHeV0E4OoXOCqCP-44fRkoQemVMVZOb9Z78NaXBIpTMVZg",
+    "x-app-key:5nej5keguopj928ekcj3dne8p"
+]
+Date:  2020-01-17 03:29:31pm : create Body:{
+    "amount": "3",
+    "currency": "BDT",
+    "intent": "sale",
+    "merchantInvoiceNumber": "2020011700094"
+}
+Date:  2020-01-17 03:29:32pm : create result:"{\"paymentID\":\"BPAZRPL1579253374584\",\"createTime\":\"2020-01-17T09:29:34:665 GMT+0000\",\"orgLogo\":\"https:\/\/s3-ap-southeast-1.amazonaws.com\/merchantlogo.sandbox.bka.sh\/merchant-default-logo.png\",\"orgName\":\"TestCheckoutMerchant2\",\"transactionStatus\":\"Initiated\",\"amount\":\"3\",\"currency\":\"BDT\",\"intent\":\"sale\",\"merchantInvoiceNumber\":\"2020011700094\"}"
+Date:  2020-01-17 03:29:45pm : create url:"https:\/\/checkout.sandbox.bka.sh\/v1.2.0-beta\/checkout\/payment\/create"
+Date:  2020-01-17 03:29:45pm : create Heder:[
+    "Content-Type:application\/json",
+    "authorization:eyJraWQiOiJmalhJQmwxclFUXC9hM215MG9ScXpEdVZZWk5KXC9qRTNJOFBaeGZUY3hlamc9IiwiYWxnIjoiUlMyNTYifQ.eyJzdWIiOiI4ZGU4ZjBlMC1mY2RjLTQyNzMtYjY4YS1iNDAwOWNjZjc3ZDEiLCJhdWQiOiI1bmVqNWtlZ3VvcGo5Mjhla2NqM2RuZThwIiwiZXZlbnRfaWQiOiJiOWI2YjA3YS1mNjkzLTQ0NWItYWExMy1iZDZlZWYwNjFhMGIiLCJ0b2tlbl91c2UiOiJpZCIsImF1dGhfdGltZSI6MTU3OTI1MTI5MywiaXNzIjoiaHR0cHM6XC9cL2NvZ25pdG8taWRwLmFwLXNvdXRoZWFzdC0xLmFtYXpvbmF3cy5jb21cL2FwLXNvdXRoZWFzdC0xX2tmNUJTTm9QZSIsImNvZ25pdG86dXNlcm5hbWUiOiJ0ZXN0ZGVtbyIsImV4cCI6MTU3OTI1NDg5MywiaWF0IjoxNTc5MjUxMjkzfQ.I-7OtdIzMWPbyRgsWPmpbe7p8hTD_oTAoXHpBHdQSl4p1uerb5ioJeU6ko4cEC3tvOWPVwLNdTK2OI4olvQCvJDhFlQnKcvJ2Qu27PP_AKAXzZmmn7NufdUWtpDedQyZRwk5yY_8fkmQcTlSXy00QZibIFEjNbz5wp5v22EiSCSqfa_HhmKnoev8AFm7XIy3Lu7sycRKjLmc6tprNZTJCTym_QjNtCYdCusxnino0U2ChMlphI5_H1WxuuO3Zzs72qC0BYFW4iSWtSE4NBMLbDTvyHrHpUaoKrMnjfjnZHeV0E4OoXOCqCP-44fRkoQemVMVZOb9Z78NaXBIpTMVZg",
+    "x-app-key:5nej5keguopj928ekcj3dne8p"
+]
+Date:  2020-01-17 03:29:45pm : create Body:{
+    "amount": 0,
+    "currency": "BDT",
+    "intent": "sale",
+    "merchantInvoiceNumber": "2020011700094"
+}
+Date:  2020-01-17 03:29:46pm : create result:"{\"errorCode\":\"9999\",\"errorMessage\":\"System Error.\"}"
+Date:  2020-01-17 03:30:58pm : raw result:{"memberid":"99","convid":"202001","membername":"\u0995\u09ac\u09bf\u09a4\u09be \u0997\u09cb\u09b8\u09cd\u09ac\u09be\u09ae\u09c0 |01710563521","gender":"female","dresssize":"0","feeamount":3,"totalguest":"0","totalamount":3,"mregistat":"0"}
+Date:  2020-01-17 03:30:58pm : save result:{
+    "memberid": "99",
+    "convid": "202001",
+    "membername": "\u0995\u09ac\u09bf\u09a4\u09be \u0997\u09cb\u09b8\u09cd\u09ac\u09be\u09ae\u09c0 |01710563521",
+    "gender": "female",
+    "dresssize": "0",
+    "feeamount": 3,
+    "totalguest": "0",
+    "totalamount": 3,
+    "mregistat": "0"
+}--1>>
+Date:  2020-01-17 03:30:58pm : save result03:3>>3
+Date:  2020-01-17 03:31:00pm : create url:"https:\/\/checkout.sandbox.bka.sh\/v1.2.0-beta\/checkout\/payment\/create"
+Date:  2020-01-17 03:31:00pm : create Heder:[
+    "Content-Type:application\/json",
+    "authorization:eyJraWQiOiJmalhJQmwxclFUXC9hM215MG9ScXpEdVZZWk5KXC9qRTNJOFBaeGZUY3hlamc9IiwiYWxnIjoiUlMyNTYifQ.eyJzdWIiOiI4ZGU4ZjBlMC1mY2RjLTQyNzMtYjY4YS1iNDAwOWNjZjc3ZDEiLCJhdWQiOiI1bmVqNWtlZ3VvcGo5Mjhla2NqM2RuZThwIiwiZXZlbnRfaWQiOiJiOWI2YjA3YS1mNjkzLTQ0NWItYWExMy1iZDZlZWYwNjFhMGIiLCJ0b2tlbl91c2UiOiJpZCIsImF1dGhfdGltZSI6MTU3OTI1MTI5MywiaXNzIjoiaHR0cHM6XC9cL2NvZ25pdG8taWRwLmFwLXNvdXRoZWFzdC0xLmFtYXpvbmF3cy5jb21cL2FwLXNvdXRoZWFzdC0xX2tmNUJTTm9QZSIsImNvZ25pdG86dXNlcm5hbWUiOiJ0ZXN0ZGVtbyIsImV4cCI6MTU3OTI1NDg5MywiaWF0IjoxNTc5MjUxMjkzfQ.I-7OtdIzMWPbyRgsWPmpbe7p8hTD_oTAoXHpBHdQSl4p1uerb5ioJeU6ko4cEC3tvOWPVwLNdTK2OI4olvQCvJDhFlQnKcvJ2Qu27PP_AKAXzZmmn7NufdUWtpDedQyZRwk5yY_8fkmQcTlSXy00QZibIFEjNbz5wp5v22EiSCSqfa_HhmKnoev8AFm7XIy3Lu7sycRKjLmc6tprNZTJCTym_QjNtCYdCusxnino0U2ChMlphI5_H1WxuuO3Zzs72qC0BYFW4iSWtSE4NBMLbDTvyHrHpUaoKrMnjfjnZHeV0E4OoXOCqCP-44fRkoQemVMVZOb9Z78NaXBIpTMVZg",
+    "x-app-key:5nej5keguopj928ekcj3dne8p"
+]
+Date:  2020-01-17 03:31:00pm : create Body:{
+    "amount": "3",
+    "currency": "BDT",
+    "intent": "sale",
+    "merchantInvoiceNumber": "2020011700095"
+}
+Date:  2020-01-17 03:31:01pm : create result:"{\"paymentID\":\"R6KP6RO1579253464039\",\"createTime\":\"2020-01-17T09:31:04:207 GMT+0000\",\"orgLogo\":\"https:\/\/s3-ap-southeast-1.amazonaws.com\/merchantlogo.sandbox.bka.sh\/merchant-default-logo.png\",\"orgName\":\"TestCheckoutMerchant2\",\"transactionStatus\":\"Initiated\",\"amount\":\"3\",\"currency\":\"BDT\",\"intent\":\"sale\",\"merchantInvoiceNumber\":\"2020011700095\"}"
+Date:  2020-01-17 03:31:06pm : create url:"https:\/\/checkout.sandbox.bka.sh\/v1.2.0-beta\/checkout\/payment\/create"
+Date:  2020-01-17 03:31:06pm : create Heder:[
+    "Content-Type:application\/json",
+    "authorization:eyJraWQiOiJmalhJQmwxclFUXC9hM215MG9ScXpEdVZZWk5KXC9qRTNJOFBaeGZUY3hlamc9IiwiYWxnIjoiUlMyNTYifQ.eyJzdWIiOiI4ZGU4ZjBlMC1mY2RjLTQyNzMtYjY4YS1iNDAwOWNjZjc3ZDEiLCJhdWQiOiI1bmVqNWtlZ3VvcGo5Mjhla2NqM2RuZThwIiwiZXZlbnRfaWQiOiJiOWI2YjA3YS1mNjkzLTQ0NWItYWExMy1iZDZlZWYwNjFhMGIiLCJ0b2tlbl91c2UiOiJpZCIsImF1dGhfdGltZSI6MTU3OTI1MTI5MywiaXNzIjoiaHR0cHM6XC9cL2NvZ25pdG8taWRwLmFwLXNvdXRoZWFzdC0xLmFtYXpvbmF3cy5jb21cL2FwLXNvdXRoZWFzdC0xX2tmNUJTTm9QZSIsImNvZ25pdG86dXNlcm5hbWUiOiJ0ZXN0ZGVtbyIsImV4cCI6MTU3OTI1NDg5MywiaWF0IjoxNTc5MjUxMjkzfQ.I-7OtdIzMWPbyRgsWPmpbe7p8hTD_oTAoXHpBHdQSl4p1uerb5ioJeU6ko4cEC3tvOWPVwLNdTK2OI4olvQCvJDhFlQnKcvJ2Qu27PP_AKAXzZmmn7NufdUWtpDedQyZRwk5yY_8fkmQcTlSXy00QZibIFEjNbz5wp5v22EiSCSqfa_HhmKnoev8AFm7XIy3Lu7sycRKjLmc6tprNZTJCTym_QjNtCYdCusxnino0U2ChMlphI5_H1WxuuO3Zzs72qC0BYFW4iSWtSE4NBMLbDTvyHrHpUaoKrMnjfjnZHeV0E4OoXOCqCP-44fRkoQemVMVZOb9Z78NaXBIpTMVZg",
+    "x-app-key:5nej5keguopj928ekcj3dne8p"
+]
+Date:  2020-01-17 03:31:06pm : create Body:{
+    "amount": "3",
+    "currency": "BDT",
+    "intent": "sale",
+    "merchantInvoiceNumber": "2020011700095"
+}
+Date:  2020-01-17 03:31:08pm : create result:"{\"paymentID\":\"VTPLFRR1579253470211\",\"createTime\":\"2020-01-17T09:31:10:286 GMT+0000\",\"orgLogo\":\"https:\/\/s3-ap-southeast-1.amazonaws.com\/merchantlogo.sandbox.bka.sh\/merchant-default-logo.png\",\"orgName\":\"TestCheckoutMerchant2\",\"transactionStatus\":\"Initiated\",\"amount\":\"3\",\"currency\":\"BDT\",\"intent\":\"sale\",\"merchantInvoiceNumber\":\"2020011700095\"}"
+Date:  2020-01-17 03:31:17pm : create url:"https:\/\/checkout.sandbox.bka.sh\/v1.2.0-beta\/checkout\/payment\/create"
+Date:  2020-01-17 03:31:17pm : create Heder:[
+    "Content-Type:application\/json",
+    "authorization:eyJraWQiOiJmalhJQmwxclFUXC9hM215MG9ScXpEdVZZWk5KXC9qRTNJOFBaeGZUY3hlamc9IiwiYWxnIjoiUlMyNTYifQ.eyJzdWIiOiI4ZGU4ZjBlMC1mY2RjLTQyNzMtYjY4YS1iNDAwOWNjZjc3ZDEiLCJhdWQiOiI1bmVqNWtlZ3VvcGo5Mjhla2NqM2RuZThwIiwiZXZlbnRfaWQiOiJiOWI2YjA3YS1mNjkzLTQ0NWItYWExMy1iZDZlZWYwNjFhMGIiLCJ0b2tlbl91c2UiOiJpZCIsImF1dGhfdGltZSI6MTU3OTI1MTI5MywiaXNzIjoiaHR0cHM6XC9cL2NvZ25pdG8taWRwLmFwLXNvdXRoZWFzdC0xLmFtYXpvbmF3cy5jb21cL2FwLXNvdXRoZWFzdC0xX2tmNUJTTm9QZSIsImNvZ25pdG86dXNlcm5hbWUiOiJ0ZXN0ZGVtbyIsImV4cCI6MTU3OTI1NDg5MywiaWF0IjoxNTc5MjUxMjkzfQ.I-7OtdIzMWPbyRgsWPmpbe7p8hTD_oTAoXHpBHdQSl4p1uerb5ioJeU6ko4cEC3tvOWPVwLNdTK2OI4olvQCvJDhFlQnKcvJ2Qu27PP_AKAXzZmmn7NufdUWtpDedQyZRwk5yY_8fkmQcTlSXy00QZibIFEjNbz5wp5v22EiSCSqfa_HhmKnoev8AFm7XIy3Lu7sycRKjLmc6tprNZTJCTym_QjNtCYdCusxnino0U2ChMlphI5_H1WxuuO3Zzs72qC0BYFW4iSWtSE4NBMLbDTvyHrHpUaoKrMnjfjnZHeV0E4OoXOCqCP-44fRkoQemVMVZOb9Z78NaXBIpTMVZg",
+    "x-app-key:5nej5keguopj928ekcj3dne8p"
+]
+Date:  2020-01-17 03:31:17pm : create Body:{
+    "amount": "3",
+    "currency": "BDT",
+    "intent": "sale",
+    "merchantInvoiceNumber": "2020011700095"
+}
+Date:  2020-01-17 03:31:17pm : create result:"{\"paymentID\":\"6YS7E5L1579253480049\",\"createTime\":\"2020-01-17T09:31:20:200 GMT+0000\",\"orgLogo\":\"https:\/\/s3-ap-southeast-1.amazonaws.com\/merchantlogo.sandbox.bka.sh\/merchant-default-logo.png\",\"orgName\":\"TestCheckoutMerchant2\",\"transactionStatus\":\"Initiated\",\"amount\":\"3\",\"currency\":\"BDT\",\"intent\":\"sale\",\"merchantInvoiceNumber\":\"2020011700095\"}"
+Date:  2020-01-17 03:32:56pm : raw result:{"memberid":"99","convid":"202001","membername":"\u0995\u09ac\u09bf\u09a4\u09be \u0997\u09cb\u09b8\u09cd\u09ac\u09be\u09ae\u09c0 |01710563521","gender":"female","dresssize":"0","feeamount":3,"totalguest":"0","totalamount":3,"mregistat":"0"}
+Date:  2020-01-17 03:32:56pm : save result:{
+    "memberid": "99",
+    "convid": "202001",
+    "membername": "\u0995\u09ac\u09bf\u09a4\u09be \u0997\u09cb\u09b8\u09cd\u09ac\u09be\u09ae\u09c0 |01710563521",
+    "gender": "female",
+    "dresssize": "0",
+    "feeamount": 3,
+    "totalguest": "0",
+    "totalamount": 3,
+    "mregistat": "0"
+}--1>>
+Date:  2020-01-17 03:32:56pm : save result03:3>>3
+Date:  2020-01-17 03:33:01pm : create url:"https:\/\/checkout.sandbox.bka.sh\/v1.2.0-beta\/checkout\/payment\/create"
+Date:  2020-01-17 03:33:01pm : create Heder:[
+    "Content-Type:application\/json",
+    "authorization:eyJraWQiOiJmalhJQmwxclFUXC9hM215MG9ScXpEdVZZWk5KXC9qRTNJOFBaeGZUY3hlamc9IiwiYWxnIjoiUlMyNTYifQ.eyJzdWIiOiI4ZGU4ZjBlMC1mY2RjLTQyNzMtYjY4YS1iNDAwOWNjZjc3ZDEiLCJhdWQiOiI1bmVqNWtlZ3VvcGo5Mjhla2NqM2RuZThwIiwiZXZlbnRfaWQiOiJiOWI2YjA3YS1mNjkzLTQ0NWItYWExMy1iZDZlZWYwNjFhMGIiLCJ0b2tlbl91c2UiOiJpZCIsImF1dGhfdGltZSI6MTU3OTI1MTI5MywiaXNzIjoiaHR0cHM6XC9cL2NvZ25pdG8taWRwLmFwLXNvdXRoZWFzdC0xLmFtYXpvbmF3cy5jb21cL2FwLXNvdXRoZWFzdC0xX2tmNUJTTm9QZSIsImNvZ25pdG86dXNlcm5hbWUiOiJ0ZXN0ZGVtbyIsImV4cCI6MTU3OTI1NDg5MywiaWF0IjoxNTc5MjUxMjkzfQ.I-7OtdIzMWPbyRgsWPmpbe7p8hTD_oTAoXHpBHdQSl4p1uerb5ioJeU6ko4cEC3tvOWPVwLNdTK2OI4olvQCvJDhFlQnKcvJ2Qu27PP_AKAXzZmmn7NufdUWtpDedQyZRwk5yY_8fkmQcTlSXy00QZibIFEjNbz5wp5v22EiSCSqfa_HhmKnoev8AFm7XIy3Lu7sycRKjLmc6tprNZTJCTym_QjNtCYdCusxnino0U2ChMlphI5_H1WxuuO3Zzs72qC0BYFW4iSWtSE4NBMLbDTvyHrHpUaoKrMnjfjnZHeV0E4OoXOCqCP-44fRkoQemVMVZOb9Z78NaXBIpTMVZg",
+    "x-app-key:5nej5keguopj928ekcj3dne8p"
+]
+Date:  2020-01-17 03:33:01pm : create Body:{
+    "amount": "3",
+    "currency": "BDT",
+    "intent": "sale",
+    "merchantInvoiceNumber": "2020011700096"
+}
+Date:  2020-01-17 03:33:02pm : create result:"{\"paymentID\":\"9279AV61579253585006\",\"createTime\":\"2020-01-17T09:33:05:067 GMT+0000\",\"orgLogo\":\"https:\/\/s3-ap-southeast-1.amazonaws.com\/merchantlogo.sandbox.bka.sh\/merchant-default-logo.png\",\"orgName\":\"TestCheckoutMerchant2\",\"transactionStatus\":\"Initiated\",\"amount\":\"3\",\"currency\":\"BDT\",\"intent\":\"sale\",\"merchantInvoiceNumber\":\"2020011700096\"}"
+Date:  2020-01-17 03:33:09pm : create url:"https:\/\/checkout.sandbox.bka.sh\/v1.2.0-beta\/checkout\/payment\/create"
+Date:  2020-01-17 03:33:09pm : create Heder:[
+    "Content-Type:application\/json",
+    "authorization:eyJraWQiOiJmalhJQmwxclFUXC9hM215MG9ScXpEdVZZWk5KXC9qRTNJOFBaeGZUY3hlamc9IiwiYWxnIjoiUlMyNTYifQ.eyJzdWIiOiI4ZGU4ZjBlMC1mY2RjLTQyNzMtYjY4YS1iNDAwOWNjZjc3ZDEiLCJhdWQiOiI1bmVqNWtlZ3VvcGo5Mjhla2NqM2RuZThwIiwiZXZlbnRfaWQiOiJiOWI2YjA3YS1mNjkzLTQ0NWItYWExMy1iZDZlZWYwNjFhMGIiLCJ0b2tlbl91c2UiOiJpZCIsImF1dGhfdGltZSI6MTU3OTI1MTI5MywiaXNzIjoiaHR0cHM6XC9cL2NvZ25pdG8taWRwLmFwLXNvdXRoZWFzdC0xLmFtYXpvbmF3cy5jb21cL2FwLXNvdXRoZWFzdC0xX2tmNUJTTm9QZSIsImNvZ25pdG86dXNlcm5hbWUiOiJ0ZXN0ZGVtbyIsImV4cCI6MTU3OTI1NDg5MywiaWF0IjoxNTc5MjUxMjkzfQ.I-7OtdIzMWPbyRgsWPmpbe7p8hTD_oTAoXHpBHdQSl4p1uerb5ioJeU6ko4cEC3tvOWPVwLNdTK2OI4olvQCvJDhFlQnKcvJ2Qu27PP_AKAXzZmmn7NufdUWtpDedQyZRwk5yY_8fkmQcTlSXy00QZibIFEjNbz5wp5v22EiSCSqfa_HhmKnoev8AFm7XIy3Lu7sycRKjLmc6tprNZTJCTym_QjNtCYdCusxnino0U2ChMlphI5_H1WxuuO3Zzs72qC0BYFW4iSWtSE4NBMLbDTvyHrHpUaoKrMnjfjnZHeV0E4OoXOCqCP-44fRkoQemVMVZOb9Z78NaXBIpTMVZg",
+    "x-app-key:5nej5keguopj928ekcj3dne8p"
+]
+Date:  2020-01-17 03:33:09pm : create Body:{
+    "amount": "3",
+    "currency": "BDT",
+    "intent": "sale",
+    "merchantInvoiceNumber": "2020011700096"
+}
+Date:  2020-01-17 03:33:09pm : create result:"{\"paymentID\":\"P5DOOYZ1579253591766\",\"createTime\":\"2020-01-17T09:33:11:827 GMT+0000\",\"orgLogo\":\"https:\/\/s3-ap-southeast-1.amazonaws.com\/merchantlogo.sandbox.bka.sh\/merchant-default-logo.png\",\"orgName\":\"TestCheckoutMerchant2\",\"transactionStatus\":\"Initiated\",\"amount\":\"3\",\"currency\":\"BDT\",\"intent\":\"sale\",\"merchantInvoiceNumber\":\"2020011700096\"}"
+Date:  2020-01-17 03:34:57pm : raw result:{"memberid":"99","convid":"202001","membername":"\u0995\u09ac\u09bf\u09a4\u09be \u0997\u09cb\u09b8\u09cd\u09ac\u09be\u09ae\u09c0 |01710563521","gender":"female","dresssize":"0","feeamount":2500,"totalguest":"0","totalamount":2500,"mregistat":"0"}
+Date:  2020-01-17 03:34:57pm : save result:{
+    "memberid": "99",
+    "convid": "202001",
+    "membername": "\u0995\u09ac\u09bf\u09a4\u09be \u0997\u09cb\u09b8\u09cd\u09ac\u09be\u09ae\u09c0 |01710563521",
+    "gender": "female",
+    "dresssize": "0",
+    "feeamount": 2500,
+    "totalguest": "0",
+    "totalamount": 2500,
+    "mregistat": "0"
+}--1>>
+Date:  2020-01-17 03:34:57pm : save result03:2500>>2500
+Date:  2020-01-17 03:34:59pm : create url:"https:\/\/checkout.sandbox.bka.sh\/v1.2.0-beta\/checkout\/payment\/create"
+Date:  2020-01-17 03:34:59pm : create Heder:[
+    "Content-Type:application\/json",
+    "authorization:eyJraWQiOiJmalhJQmwxclFUXC9hM215MG9ScXpEdVZZWk5KXC9qRTNJOFBaeGZUY3hlamc9IiwiYWxnIjoiUlMyNTYifQ.eyJzdWIiOiI4ZGU4ZjBlMC1mY2RjLTQyNzMtYjY4YS1iNDAwOWNjZjc3ZDEiLCJhdWQiOiI1bmVqNWtlZ3VvcGo5Mjhla2NqM2RuZThwIiwiZXZlbnRfaWQiOiJiOWI2YjA3YS1mNjkzLTQ0NWItYWExMy1iZDZlZWYwNjFhMGIiLCJ0b2tlbl91c2UiOiJpZCIsImF1dGhfdGltZSI6MTU3OTI1MTI5MywiaXNzIjoiaHR0cHM6XC9cL2NvZ25pdG8taWRwLmFwLXNvdXRoZWFzdC0xLmFtYXpvbmF3cy5jb21cL2FwLXNvdXRoZWFzdC0xX2tmNUJTTm9QZSIsImNvZ25pdG86dXNlcm5hbWUiOiJ0ZXN0ZGVtbyIsImV4cCI6MTU3OTI1NDg5MywiaWF0IjoxNTc5MjUxMjkzfQ.I-7OtdIzMWPbyRgsWPmpbe7p8hTD_oTAoXHpBHdQSl4p1uerb5ioJeU6ko4cEC3tvOWPVwLNdTK2OI4olvQCvJDhFlQnKcvJ2Qu27PP_AKAXzZmmn7NufdUWtpDedQyZRwk5yY_8fkmQcTlSXy00QZibIFEjNbz5wp5v22EiSCSqfa_HhmKnoev8AFm7XIy3Lu7sycRKjLmc6tprNZTJCTym_QjNtCYdCusxnino0U2ChMlphI5_H1WxuuO3Zzs72qC0BYFW4iSWtSE4NBMLbDTvyHrHpUaoKrMnjfjnZHeV0E4OoXOCqCP-44fRkoQemVMVZOb9Z78NaXBIpTMVZg",
+    "x-app-key:5nej5keguopj928ekcj3dne8p"
+]
+Date:  2020-01-17 03:34:59pm : create Body:{
+    "amount": 2500,
+    "currency": "BDT",
+    "intent": "sale",
+    "merchantInvoiceNumber": "2020011700097"
+}
+Date:  2020-01-17 03:35:00pm : create result:"{\"paymentID\":\"UCERKN11579253702690\",\"createTime\":\"2020-01-17T09:35:02:741 GMT+0000\",\"orgLogo\":\"https:\/\/s3-ap-southeast-1.amazonaws.com\/merchantlogo.sandbox.bka.sh\/merchant-default-logo.png\",\"orgName\":\"TestCheckoutMerchant2\",\"transactionStatus\":\"Initiated\",\"amount\":\"2500\",\"currency\":\"BDT\",\"intent\":\"sale\",\"merchantInvoiceNumber\":\"2020011700097\"}"
+Date:  2020-01-17 03:35:20pm : create url:"https:\/\/checkout.sandbox.bka.sh\/v1.2.0-beta\/checkout\/payment\/create"
+Date:  2020-01-17 03:35:20pm : create Heder:[
+    "Content-Type:application\/json",
+    "authorization:eyJraWQiOiJmalhJQmwxclFUXC9hM215MG9ScXpEdVZZWk5KXC9qRTNJOFBaeGZUY3hlamc9IiwiYWxnIjoiUlMyNTYifQ.eyJzdWIiOiI4ZGU4ZjBlMC1mY2RjLTQyNzMtYjY4YS1iNDAwOWNjZjc3ZDEiLCJhdWQiOiI1bmVqNWtlZ3VvcGo5Mjhla2NqM2RuZThwIiwiZXZlbnRfaWQiOiJiOWI2YjA3YS1mNjkzLTQ0NWItYWExMy1iZDZlZWYwNjFhMGIiLCJ0b2tlbl91c2UiOiJpZCIsImF1dGhfdGltZSI6MTU3OTI1MTI5MywiaXNzIjoiaHR0cHM6XC9cL2NvZ25pdG8taWRwLmFwLXNvdXRoZWFzdC0xLmFtYXpvbmF3cy5jb21cL2FwLXNvdXRoZWFzdC0xX2tmNUJTTm9QZSIsImNvZ25pdG86dXNlcm5hbWUiOiJ0ZXN0ZGVtbyIsImV4cCI6MTU3OTI1NDg5MywiaWF0IjoxNTc5MjUxMjkzfQ.I-7OtdIzMWPbyRgsWPmpbe7p8hTD_oTAoXHpBHdQSl4p1uerb5ioJeU6ko4cEC3tvOWPVwLNdTK2OI4olvQCvJDhFlQnKcvJ2Qu27PP_AKAXzZmmn7NufdUWtpDedQyZRwk5yY_8fkmQcTlSXy00QZibIFEjNbz5wp5v22EiSCSqfa_HhmKnoev8AFm7XIy3Lu7sycRKjLmc6tprNZTJCTym_QjNtCYdCusxnino0U2ChMlphI5_H1WxuuO3Zzs72qC0BYFW4iSWtSE4NBMLbDTvyHrHpUaoKrMnjfjnZHeV0E4OoXOCqCP-44fRkoQemVMVZOb9Z78NaXBIpTMVZg",
+    "x-app-key:5nej5keguopj928ekcj3dne8p"
+]
+Date:  2020-01-17 03:35:20pm : create Body:{
+    "amount": 0,
+    "currency": "BDT",
+    "intent": "sale",
+    "merchantInvoiceNumber": "2020011700088"
+}
+Date:  2020-01-17 03:35:20pm : create result:"{\"errorCode\":\"9999\",\"errorMessage\":\"System Error.\"}"
+Date:  2020-01-17 03:35:42pm : raw result:{"memberid":"99","convid":"202001","membername":"\u0995\u09ac\u09bf\u09a4\u09be \u0997\u09cb\u09b8\u09cd\u09ac\u09be\u09ae\u09c0 |5465456456","gender":"female","dresssize":"0","feeamount":2500,"totalguest":"0","totalamount":2500,"mregistat":"0"}
+Date:  2020-01-17 03:35:42pm : save result:{
+    "memberid": "99",
+    "convid": "202001",
+    "membername": "\u0995\u09ac\u09bf\u09a4\u09be \u0997\u09cb\u09b8\u09cd\u09ac\u09be\u09ae\u09c0 |5465456456",
+    "gender": "female",
+    "dresssize": "0",
+    "feeamount": 2500,
+    "totalguest": "0",
+    "totalamount": 2500,
+    "mregistat": "0"
+}--1>>
+Date:  2020-01-17 03:35:42pm : save result03:2500>>1
+Date:  2020-01-17 03:35:50pm : create url:"https:\/\/checkout.sandbox.bka.sh\/v1.2.0-beta\/checkout\/payment\/create"
+Date:  2020-01-17 03:35:50pm : create Heder:[
+    "Content-Type:application\/json",
+    "authorization:eyJraWQiOiJmalhJQmwxclFUXC9hM215MG9ScXpEdVZZWk5KXC9qRTNJOFBaeGZUY3hlamc9IiwiYWxnIjoiUlMyNTYifQ.eyJzdWIiOiI4ZGU4ZjBlMC1mY2RjLTQyNzMtYjY4YS1iNDAwOWNjZjc3ZDEiLCJhdWQiOiI1bmVqNWtlZ3VvcGo5Mjhla2NqM2RuZThwIiwiZXZlbnRfaWQiOiJiOWI2YjA3YS1mNjkzLTQ0NWItYWExMy1iZDZlZWYwNjFhMGIiLCJ0b2tlbl91c2UiOiJpZCIsImF1dGhfdGltZSI6MTU3OTI1MTI5MywiaXNzIjoiaHR0cHM6XC9cL2NvZ25pdG8taWRwLmFwLXNvdXRoZWFzdC0xLmFtYXpvbmF3cy5jb21cL2FwLXNvdXRoZWFzdC0xX2tmNUJTTm9QZSIsImNvZ25pdG86dXNlcm5hbWUiOiJ0ZXN0ZGVtbyIsImV4cCI6MTU3OTI1NDg5MywiaWF0IjoxNTc5MjUxMjkzfQ.I-7OtdIzMWPbyRgsWPmpbe7p8hTD_oTAoXHpBHdQSl4p1uerb5ioJeU6ko4cEC3tvOWPVwLNdTK2OI4olvQCvJDhFlQnKcvJ2Qu27PP_AKAXzZmmn7NufdUWtpDedQyZRwk5yY_8fkmQcTlSXy00QZibIFEjNbz5wp5v22EiSCSqfa_HhmKnoev8AFm7XIy3Lu7sycRKjLmc6tprNZTJCTym_QjNtCYdCusxnino0U2ChMlphI5_H1WxuuO3Zzs72qC0BYFW4iSWtSE4NBMLbDTvyHrHpUaoKrMnjfjnZHeV0E4OoXOCqCP-44fRkoQemVMVZOb9Z78NaXBIpTMVZg",
+    "x-app-key:5nej5keguopj928ekcj3dne8p"
+]
+Date:  2020-01-17 03:35:50pm : create Body:{
+    "amount": "2500",
+    "currency": "BDT",
+    "intent": "sale",
+    "merchantInvoiceNumber": "2020011700098"
+}
+Date:  2020-01-17 03:35:50pm : create result:"{\"paymentID\":\"RAA9ZA51579253753178\",\"createTime\":\"2020-01-17T09:35:53:225 GMT+0000\",\"orgLogo\":\"https:\/\/s3-ap-southeast-1.amazonaws.com\/merchantlogo.sandbox.bka.sh\/merchant-default-logo.png\",\"orgName\":\"TestCheckoutMerchant2\",\"transactionStatus\":\"Initiated\",\"amount\":\"2500\",\"currency\":\"BDT\",\"intent\":\"sale\",\"merchantInvoiceNumber\":\"2020011700098\"}"
+Date:  2020-01-17 03:52:59pm : raw result:{"memberid":"99","convid":"202001","membername":"\u0995\u09ac\u09bf\u09a4\u09be \u0997\u09cb\u09b8\u09cd\u09ac\u09be\u09ae\u09c0 |01710563521","gender":"female","dresssize":"0","feeamount":3,"totalguest":"0","totalamount":3,"mregistat":"0"}
+Date:  2020-01-17 03:52:59pm : save result:{
+    "memberid": "99",
+    "convid": "202001",
+    "membername": "\u0995\u09ac\u09bf\u09a4\u09be \u0997\u09cb\u09b8\u09cd\u09ac\u09be\u09ae\u09c0 |01710563521",
+    "gender": "female",
+    "dresssize": "0",
+    "feeamount": 3,
+    "totalguest": "0",
+    "totalamount": 3,
+    "mregistat": "0"
+}--1>>
+Date:  2020-01-17 03:52:59pm : save result03:3>>3
+Date:  2020-01-17 03:53:16pm : raw result:{"memberid":"99","convid":"202001","membername":"\u0995\u09ac\u09bf\u09a4\u09be \u0997\u09cb\u09b8\u09cd\u09ac\u09be\u09ae\u09c0 |01710563521","gender":"female","dresssize":"0","feeamount":2500,"totalguest":"0","totalamount":2500,"mregistat":"0"}
+Date:  2020-01-17 03:53:16pm : save result:{
+    "memberid": "99",
+    "convid": "202001",
+    "membername": "\u0995\u09ac\u09bf\u09a4\u09be \u0997\u09cb\u09b8\u09cd\u09ac\u09be\u09ae\u09c0 |01710563521",
+    "gender": "female",
+    "dresssize": "0",
+    "feeamount": 2500,
+    "totalguest": "0",
+    "totalamount": 2500,
+    "mregistat": "0"
+}--1>>
+Date:  2020-01-17 03:53:16pm : save result03:2500>>2500
+Date:  2020-01-17 04:01:04pm : raw result:{"memberid":"99","convid":"202001","membername":"\u0995\u09ac\u09bf\u09a4\u09be \u0997\u09cb\u09b8\u09cd\u09ac\u09be\u09ae\u09c0 |01710563521","gender":"female","dresssize":"0","feeamount":2500,"totalguest":"0","totalamount":2500,"mregistat":"0"}
+Date:  2020-01-17 04:01:04pm : save result:{
+    "memberid": "99",
+    "convid": "202001",
+    "membername": "\u0995\u09ac\u09bf\u09a4\u09be \u0997\u09cb\u09b8\u09cd\u09ac\u09be\u09ae\u09c0 |01710563521",
+    "gender": "female",
+    "dresssize": "0",
+    "feeamount": 2500,
+    "totalguest": "0",
+    "totalamount": 2500,
+    "mregistat": "0"
+}--1>>
+Date:  2020-01-17 04:01:04pm : save result03:2500>>2500
+Date:  2020-01-17 04:02:57pm : raw result:{"memberid":"99","convid":"202001","membername":"\u0995\u09ac\u09bf\u09a4\u09be \u0997\u09cb\u09b8\u09cd\u09ac\u09be\u09ae\u09c0 |01710563521","gender":"female","dresssize":"0","feeamount":2500,"totalguest":"0","totalamount":2500,"mregistat":"0"}
+Date:  2020-01-17 04:02:57pm : save result:{
+    "memberid": "99",
+    "convid": "202001",
+    "membername": "\u0995\u09ac\u09bf\u09a4\u09be \u0997\u09cb\u09b8\u09cd\u09ac\u09be\u09ae\u09c0 |01710563521",
+    "gender": "female",
+    "dresssize": "0",
+    "feeamount": 2500,
+    "totalguest": "0",
+    "totalamount": 2500,
+    "mregistat": "0"
+}--1>>
+Date:  2020-01-17 04:02:57pm : save result03:2500>>2500
+Date:  2020-01-17 04:03:57pm : raw result:{"memberid":"99","convid":"202001","membername":"\u0995\u09ac\u09bf\u09a4\u09be \u0997\u09cb\u09b8\u09cd\u09ac\u09be\u09ae\u09c0 |01710563521","gender":"female","dresssize":"0","feeamount":2500,"totalguest":"0","totalamount":2500,"mregistat":"0"}
+Date:  2020-01-17 04:03:57pm : save result:{
+    "memberid": "99",
+    "convid": "202001",
+    "membername": "\u0995\u09ac\u09bf\u09a4\u09be \u0997\u09cb\u09b8\u09cd\u09ac\u09be\u09ae\u09c0 |01710563521",
+    "gender": "female",
+    "dresssize": "0",
+    "feeamount": 2500,
+    "totalguest": "0",
+    "totalamount": 2500,
+    "mregistat": "0"
+}--1>>
+Date:  2020-01-17 04:03:57pm : save result03:2500>>2500
+Date:  2020-01-17 04:04:02pm : Token url:"https:\/\/checkout.sandbox.bka.sh\/v1.2.0-beta\/checkout\/token\/grant"
+Date:  2020-01-17 04:04:02pm : Token Heder:[
+    "Content-Type:application\/json",
+    "password:test%#de23@msdao",
+    "username:testdemo"
+]
+Date:  2020-01-17 04:04:02pm : Token post:{
+    "app_key": "5nej5keguopj928ekcj3dne8p",
+    "app_secret": "1honf6u1c56mqcivtc9ffl960slp4v2756jle5925nbooa46ch62"
+}
+Date:  2020-01-17 04:04:03pm : Token result:"{\"token_type\": \"Bearer\", \"id_token\": \"eyJraWQiOiJmalhJQmwxclFUXC9hM215MG9ScXpEdVZZWk5KXC9qRTNJOFBaeGZUY3hlamc9IiwiYWxnIjoiUlMyNTYifQ.eyJzdWIiOiI4ZGU4ZjBlMC1mY2RjLTQyNzMtYjY4YS1iNDAwOWNjZjc3ZDEiLCJhdWQiOiI1bmVqNWtlZ3VvcGo5Mjhla2NqM2RuZThwIiwiZXZlbnRfaWQiOiI0OGFkYmUxZi1lZGM5LTQyOGMtODMxMC0xN2U2NjJkODY2NjUiLCJ0b2tlbl91c2UiOiJpZCIsImF1dGhfdGltZSI6MTU3OTI1NTQ0NSwiaXNzIjoiaHR0cHM6XC9cL2NvZ25pdG8taWRwLmFwLXNvdXRoZWFzdC0xLmFtYXpvbmF3cy5jb21cL2FwLXNvdXRoZWFzdC0xX2tmNUJTTm9QZSIsImNvZ25pdG86dXNlcm5hbWUiOiJ0ZXN0ZGVtbyIsImV4cCI6MTU3OTI1OTA0NSwiaWF0IjoxNTc5MjU1NDQ1fQ.XUwirzL4ASlNazrfWGeIeOmhATtW2_TLhOHeLGJGtr62HVI-E2geIAI_SN1JZsKSo8IYjIi7joQJBfQmhv3bDc7T6NBkF-qDKk7A7lmoX8TTsDhf8Tp6jCWnvrF9LLkcHly-WqJLMB8cT7frMNmbT_SUnNEkXwOhRCRYMc3nZ81CPhDgWbFmrCU9yPu2WqXz6l4X9-7RBTbbF-S0vy3Fnw45Bj3znbNJ8lBdAehoXwx4v_gWrr9jvh_-qR9KsxEJl-kedMDHADetTPbizVGPjuAG4fYaV-LP2_KuvIqVrS-eAgbkgiAZqvWnbz1gcuDLWYAHRd2K5SIqHsDEIyT9cw\", \"expires_in\": 3600, \"refresh_token\": \"eyJjdHkiOiJKV1QiLCJlbmMiOiJBMjU2R0NNIiwiYWxnIjoiUlNBLU9BRVAifQ.AT6sW9ULrrVEg-BWtXuReJ8PiIi8ji8rqDSXp9MGmSSkYqHw3PeNibb97ksfNW5rq7ud2JofpaPiStewponDG1wWp6jK6cvgi5qfcB9AawaBbMAi5sLc5M9m2Sw8ROm3QF7Ie7r81u0YdespyEHhjs4eTsINBBlDNq4m9vAVNRGcNBvt9DIBMicxIyG_IgpFfzLtXN5QX8H2YX_MADiDGrQSCdi-4P8dixrIVz-afJ8tfW2FqjzxHF1psR6p5gbguYnAPqOwOvzdXQCEYrj78BkacUj-JptA1Xld7xYY7w-zF9ToOyuB3i921ujs13zhMczA0AxYTlKs4jj9-m0UZQ.HjhUmwI-9to05jov.OVZXfUjQhmfOOG3JYeKiXVoiycpTqKvwrBw4W-Slv5aAErYxVskPREifIyJ3sH0MoPaxkhKtXgaP-by6dMzxTcan6qftTOV9hzQOCr6FW9QJ4_4f8GBXEhF5gBlWnaGnzPtzpy3P_iMzGDP2odf3Cc7O08RKvZwRcPBztu4LzMctjCvSFlgZavSLNmWLSWVKZ9tnq5uZsGc9avXv24PJlv1Pi_c0PP6zUcwca0ahyZBU84hKILGFg2uJXRNWiXg6ocioRv8gKp4ICU_jA11fzTsFbo4i3oofTL7OnvfHESg5BoIe2SGMR7d1BAKJ9NlGMuVOUBWjtgNoD4xrfELpzdqnkXYDQwC6Go9dXBQLDAJYLCLOf_uOIwk8i4x3y5qbrwKraiMxf5KOI1zcgDZ54b3eiqjEUveV3h16WiU7dJCA0e0FU-AoCjeT7N163hY6O6S0hd8bN4tqFiNholWH-OGBXPT-GsD9LtEKh0cWK0CcHe5icya3tSIuXYnZ8oEjNe7gKoklBu9DHCJWWI_XybXQuXWPjD-Mo9T_2bmu0npxYBbtUyxD_OpSDvUHyhuDQzlHXtg4c4VbW-osqO2yfSbg5TUqaeIEXuf8Oz7mtPTjzTMsaplqTjocGpvBJHjEZme36pab3CHjb5IYWzzapgTv5zDEDQ2ZOuCUSWs0QvKgekvJizyv1HZTX7J3ROiMeTquwK4g8swveIQSlFMiUZlsoi4sBLJ9vKSwX5uYf0X5BZGnLlS_RSlehM-BEM6g7AZPTgvy1ejfcpbFRn1qbq3q0jV4X8OMzRyAcHSSrrTOzyJ5Zw95tStWiDVNHG46qomt4L7HUC-o2EbsK653o4kS3i0AtwAJUQNmi-XY6eik6qEiUmRv1re-mIBoZ85qi6-Fd2jm6nogjubFbqDSzKPxDnvyFYZFqI_zyCTw4pDb-jqj1MY75KgdY-A9j_xDmIVpyBfvU36FKmyIs80qNEYTtDXXIrCuRLnpWaRaFOdPxvlW80LAan8Ymet8W75wiJekoI9aoEVKqtPCLaDmtwpQ-SGD94762IaDbX6_ZZN_RZp--mJJ9887nfvZX2NBRq85e9fUwp_kQU8hvoVLF_edj777n3XjHQRh_KKEHv3X3mFhm1NjEFgXqJ0H9BN5DYzI4_wJQ47GFaXoiJ6aBWDqfygWCbY2nqHudyXeMjR7-vRSjn8akd-1w5PcBg7DT82UM-LtJHlGP4S4VHpLcQ0aiLbZo4Ssn2h-ESPOvkG1cSVNpL9nIBdFgnoO_4akY8QT__FJgEDXtVSvnclwkV-I.c7YwVAcImUaut0BJN_KEkA\"}"
+Date:  2020-01-17 04:04:03pm : create url:"https:\/\/checkout.sandbox.bka.sh\/v1.2.0-beta\/checkout\/payment\/create"
+Date:  2020-01-17 04:04:03pm : create Heder:[
+    "Content-Type:application\/json",
+    "authorization:eyJraWQiOiJmalhJQmwxclFUXC9hM215MG9ScXpEdVZZWk5KXC9qRTNJOFBaeGZUY3hlamc9IiwiYWxnIjoiUlMyNTYifQ.eyJzdWIiOiI4ZGU4ZjBlMC1mY2RjLTQyNzMtYjY4YS1iNDAwOWNjZjc3ZDEiLCJhdWQiOiI1bmVqNWtlZ3VvcGo5Mjhla2NqM2RuZThwIiwiZXZlbnRfaWQiOiI0OGFkYmUxZi1lZGM5LTQyOGMtODMxMC0xN2U2NjJkODY2NjUiLCJ0b2tlbl91c2UiOiJpZCIsImF1dGhfdGltZSI6MTU3OTI1NTQ0NSwiaXNzIjoiaHR0cHM6XC9cL2NvZ25pdG8taWRwLmFwLXNvdXRoZWFzdC0xLmFtYXpvbmF3cy5jb21cL2FwLXNvdXRoZWFzdC0xX2tmNUJTTm9QZSIsImNvZ25pdG86dXNlcm5hbWUiOiJ0ZXN0ZGVtbyIsImV4cCI6MTU3OTI1OTA0NSwiaWF0IjoxNTc5MjU1NDQ1fQ.XUwirzL4ASlNazrfWGeIeOmhATtW2_TLhOHeLGJGtr62HVI-E2geIAI_SN1JZsKSo8IYjIi7joQJBfQmhv3bDc7T6NBkF-qDKk7A7lmoX8TTsDhf8Tp6jCWnvrF9LLkcHly-WqJLMB8cT7frMNmbT_SUnNEkXwOhRCRYMc3nZ81CPhDgWbFmrCU9yPu2WqXz6l4X9-7RBTbbF-S0vy3Fnw45Bj3znbNJ8lBdAehoXwx4v_gWrr9jvh_-qR9KsxEJl-kedMDHADetTPbizVGPjuAG4fYaV-LP2_KuvIqVrS-eAgbkgiAZqvWnbz1gcuDLWYAHRd2K5SIqHsDEIyT9cw",
+    "x-app-key:5nej5keguopj928ekcj3dne8p"
+]
+Date:  2020-01-17 04:04:03pm : create Body:{
+    "amount": 2500,
+    "currency": "BDT",
+    "intent": "sale",
+    "merchantInvoiceNumber": "2020011700103"
+}
+Date:  2020-01-17 04:04:04pm : create result:"{\"paymentID\":\"NU85YGB1579255446310\",\"createTime\":\"2020-01-17T10:04:06:363 GMT+0000\",\"orgLogo\":\"https:\/\/s3-ap-southeast-1.amazonaws.com\/merchantlogo.sandbox.bka.sh\/merchant-default-logo.png\",\"orgName\":\"TestCheckoutMerchant2\",\"transactionStatus\":\"Initiated\",\"amount\":\"2500\",\"currency\":\"BDT\",\"intent\":\"sale\",\"merchantInvoiceNumber\":\"2020011700103\"}"
+Date:  2020-01-17 04:07:45pm : raw result:{"memberid":"99","convid":"202001","membername":"\u0995\u09ac\u09bf\u09a4\u09be \u0997\u09cb\u09b8\u09cd\u09ac\u09be\u09ae\u09c0 |01710563521","gender":"female","dresssize":"0","feeamount":2500,"totalguest":"0","totalamount":2500,"mregistat":"0"}
+Date:  2020-01-17 04:07:45pm : save result:{
+    "memberid": "99",
+    "convid": "202001",
+    "membername": "\u0995\u09ac\u09bf\u09a4\u09be \u0997\u09cb\u09b8\u09cd\u09ac\u09be\u09ae\u09c0 |01710563521",
+    "gender": "female",
+    "dresssize": "0",
+    "feeamount": 2500,
+    "totalguest": "0",
+    "totalamount": 2500,
+    "mregistat": "0"
+}--1>>
+Date:  2020-01-17 04:07:45pm : save result03:2500>>2500
+Date:  2020-01-17 04:07:48pm : create url:"https:\/\/checkout.sandbox.bka.sh\/v1.2.0-beta\/checkout\/payment\/create"
+Date:  2020-01-17 04:07:48pm : create Heder:[
+    "Content-Type:application\/json",
+    "authorization:eyJraWQiOiJmalhJQmwxclFUXC9hM215MG9ScXpEdVZZWk5KXC9qRTNJOFBaeGZUY3hlamc9IiwiYWxnIjoiUlMyNTYifQ.eyJzdWIiOiI4ZGU4ZjBlMC1mY2RjLTQyNzMtYjY4YS1iNDAwOWNjZjc3ZDEiLCJhdWQiOiI1bmVqNWtlZ3VvcGo5Mjhla2NqM2RuZThwIiwiZXZlbnRfaWQiOiI0OGFkYmUxZi1lZGM5LTQyOGMtODMxMC0xN2U2NjJkODY2NjUiLCJ0b2tlbl91c2UiOiJpZCIsImF1dGhfdGltZSI6MTU3OTI1NTQ0NSwiaXNzIjoiaHR0cHM6XC9cL2NvZ25pdG8taWRwLmFwLXNvdXRoZWFzdC0xLmFtYXpvbmF3cy5jb21cL2FwLXNvdXRoZWFzdC0xX2tmNUJTTm9QZSIsImNvZ25pdG86dXNlcm5hbWUiOiJ0ZXN0ZGVtbyIsImV4cCI6MTU3OTI1OTA0NSwiaWF0IjoxNTc5MjU1NDQ1fQ.XUwirzL4ASlNazrfWGeIeOmhATtW2_TLhOHeLGJGtr62HVI-E2geIAI_SN1JZsKSo8IYjIi7joQJBfQmhv3bDc7T6NBkF-qDKk7A7lmoX8TTsDhf8Tp6jCWnvrF9LLkcHly-WqJLMB8cT7frMNmbT_SUnNEkXwOhRCRYMc3nZ81CPhDgWbFmrCU9yPu2WqXz6l4X9-7RBTbbF-S0vy3Fnw45Bj3znbNJ8lBdAehoXwx4v_gWrr9jvh_-qR9KsxEJl-kedMDHADetTPbizVGPjuAG4fYaV-LP2_KuvIqVrS-eAgbkgiAZqvWnbz1gcuDLWYAHRd2K5SIqHsDEIyT9cw",
+    "x-app-key:5nej5keguopj928ekcj3dne8p"
+]
+Date:  2020-01-17 04:07:48pm : create Body:{
+    "amount": "2500",
+    "currency": "BDT",
+    "intent": "sale",
+    "merchantInvoiceNumber": "2020011700104"
+}
+Date:  2020-01-17 04:07:49pm : create result:"{\"paymentID\":\"DRZJFDP1579255671319\",\"createTime\":\"2020-01-17T10:07:51:369 GMT+0000\",\"orgLogo\":\"https:\/\/s3-ap-southeast-1.amazonaws.com\/merchantlogo.sandbox.bka.sh\/merchant-default-logo.png\",\"orgName\":\"TestCheckoutMerchant2\",\"transactionStatus\":\"Initiated\",\"amount\":\"2500\",\"currency\":\"BDT\",\"intent\":\"sale\",\"merchantInvoiceNumber\":\"2020011700104\"}"
+Date:  2020-01-17 04:16:08pm : raw result:{"memberid":"99","convid":"202001","membername":"\u0995\u09ac\u09bf\u09a4\u09be \u0997\u09cb\u09b8\u09cd\u09ac\u09be\u09ae\u09c0 |01710563521","gender":"female","dresssize":"0","feeamount":2500,"totalguest":"0","totalamount":2500,"mregistat":"0"}
+Date:  2020-01-17 04:16:08pm : save result:{
+    "memberid": "99",
+    "convid": "202001",
+    "membername": "\u0995\u09ac\u09bf\u09a4\u09be \u0997\u09cb\u09b8\u09cd\u09ac\u09be\u09ae\u09c0 |01710563521",
+    "gender": "female",
+    "dresssize": "0",
+    "feeamount": 2500,
+    "totalguest": "0",
+    "totalamount": 2500,
+    "mregistat": "0"
+}--1>>
+Date:  2020-01-17 04:16:08pm : save result03:2500>>2500
+Date:  2020-01-17 04:20:42pm : raw result:{"memberid":"99","convid":"202001","membername":"\u0995\u09ac\u09bf\u09a4\u09be \u0997\u09cb\u09b8\u09cd\u09ac\u09be\u09ae\u09c0 |01710563521","gender":"female","dresssize":"0","feeamount":2500,"totalguest":"0","totalamount":2500,"mregistat":"0"}
+Date:  2020-01-17 04:20:42pm : save result:{
+    "memberid": "99",
+    "convid": "202001",
+    "membername": "\u0995\u09ac\u09bf\u09a4\u09be \u0997\u09cb\u09b8\u09cd\u09ac\u09be\u09ae\u09c0 |01710563521",
+    "gender": "female",
+    "dresssize": "0",
+    "feeamount": 2500,
+    "totalguest": "0",
+    "totalamount": 2500,
+    "mregistat": "0"
+}--1>>
+Date:  2020-01-17 04:20:43pm : save result03:2500>>2500
+Date:  2020-01-17 04:29:00pm : raw result:{"memberid":"99","convid":"202001","membername":"\u0995\u09ac\u09bf\u09a4\u09be \u0997\u09cb\u09b8\u09cd\u09ac\u09be\u09ae\u09c0 |01710563521","gender":"female","dresssize":"0","feeamount":2500,"totalguest":"0","totalamount":2500,"mregistat":"0"}
+Date:  2020-01-17 04:29:00pm : save result:{
+    "memberid": "99",
+    "convid": "202001",
+    "membername": "\u0995\u09ac\u09bf\u09a4\u09be \u0997\u09cb\u09b8\u09cd\u09ac\u09be\u09ae\u09c0 |01710563521",
+    "gender": "female",
+    "dresssize": "0",
+    "feeamount": 2500,
+    "totalguest": "0",
+    "totalamount": 2500,
+    "mregistat": "0"
+}--1>>
+Date:  2020-01-17 04:29:01pm : save result03:2500>>2500
+Date:  2020-01-17 04:29:06pm : create url:"https:\/\/checkout.sandbox.bka.sh\/v1.2.0-beta\/checkout\/payment\/create"
+Date:  2020-01-17 04:29:06pm : create Heder:[
+    "Content-Type:application\/json",
+    "authorization:eyJraWQiOiJmalhJQmwxclFUXC9hM215MG9ScXpEdVZZWk5KXC9qRTNJOFBaeGZUY3hlamc9IiwiYWxnIjoiUlMyNTYifQ.eyJzdWIiOiI4ZGU4ZjBlMC1mY2RjLTQyNzMtYjY4YS1iNDAwOWNjZjc3ZDEiLCJhdWQiOiI1bmVqNWtlZ3VvcGo5Mjhla2NqM2RuZThwIiwiZXZlbnRfaWQiOiI0OGFkYmUxZi1lZGM5LTQyOGMtODMxMC0xN2U2NjJkODY2NjUiLCJ0b2tlbl91c2UiOiJpZCIsImF1dGhfdGltZSI6MTU3OTI1NTQ0NSwiaXNzIjoiaHR0cHM6XC9cL2NvZ25pdG8taWRwLmFwLXNvdXRoZWFzdC0xLmFtYXpvbmF3cy5jb21cL2FwLXNvdXRoZWFzdC0xX2tmNUJTTm9QZSIsImNvZ25pdG86dXNlcm5hbWUiOiJ0ZXN0ZGVtbyIsImV4cCI6MTU3OTI1OTA0NSwiaWF0IjoxNTc5MjU1NDQ1fQ.XUwirzL4ASlNazrfWGeIeOmhATtW2_TLhOHeLGJGtr62HVI-E2geIAI_SN1JZsKSo8IYjIi7joQJBfQmhv3bDc7T6NBkF-qDKk7A7lmoX8TTsDhf8Tp6jCWnvrF9LLkcHly-WqJLMB8cT7frMNmbT_SUnNEkXwOhRCRYMc3nZ81CPhDgWbFmrCU9yPu2WqXz6l4X9-7RBTbbF-S0vy3Fnw45Bj3znbNJ8lBdAehoXwx4v_gWrr9jvh_-qR9KsxEJl-kedMDHADetTPbizVGPjuAG4fYaV-LP2_KuvIqVrS-eAgbkgiAZqvWnbz1gcuDLWYAHRd2K5SIqHsDEIyT9cw",
+    "x-app-key:5nej5keguopj928ekcj3dne8p"
+]
+Date:  2020-01-17 04:29:06pm : create Body:{
+    "amount": "2500",
+    "currency": "BDT",
+    "intent": "sale",
+    "merchantInvoiceNumber": "2020011700107"
+}
+Date:  2020-01-17 04:29:06pm : create result:"{\"paymentID\":\"WPHAJ1A1579256949185\",\"createTime\":\"2020-01-17T10:29:09:243 GMT+0000\",\"orgLogo\":\"https:\/\/s3-ap-southeast-1.amazonaws.com\/merchantlogo.sandbox.bka.sh\/merchant-default-logo.png\",\"orgName\":\"TestCheckoutMerchant2\",\"transactionStatus\":\"Initiated\",\"amount\":\"2500\",\"currency\":\"BDT\",\"intent\":\"sale\",\"merchantInvoiceNumber\":\"2020011700107\"}"
+Date:  2020-01-17 04:38:20pm : raw result:{"memberid":"99","convid":"202001","membername":"\u0995\u09ac\u09bf\u09a4\u09be \u0997\u09cb\u09b8\u09cd\u09ac\u09be\u09ae\u09c0 |01710563521","gender":"female","dresssize":"0","feeamount":2500,"totalguest":"0","totalamount":2500,"mregistat":"0"}
+Date:  2020-01-17 04:38:20pm : save result:{
+    "memberid": "99",
+    "convid": "202001",
+    "membername": "\u0995\u09ac\u09bf\u09a4\u09be \u0997\u09cb\u09b8\u09cd\u09ac\u09be\u09ae\u09c0 |01710563521",
+    "gender": "female",
+    "dresssize": "0",
+    "feeamount": 2500,
+    "totalguest": "0",
+    "totalamount": 2500,
+    "mregistat": "0"
+}--1>>
+Date:  2020-01-17 04:38:20pm : save result03:2500>>2500
+Date:  2020-01-17 04:38:23pm : Token url:"https:\/\/checkout.sandbox.bka.sh\/v1.2.0-beta\/checkout\/token\/grant"
+Date:  2020-01-17 04:38:23pm : Token Heder:[
+    "Content-Type:application\/json",
+    "password:test%#de23@msdao",
+    "username:testdemo"
+]
+Date:  2020-01-17 04:38:23pm : Token post:{
+    "app_key": "5nej5keguopj928ekcj3dne8p",
+    "app_secret": "1honf6u1c56mqcivtc9ffl960slp4v2756jle5925nbooa46ch62"
+}
+Date:  2020-01-17 04:38:24pm : Token result:"{\"token_type\": \"Bearer\", \"id_token\": \"eyJraWQiOiJmalhJQmwxclFUXC9hM215MG9ScXpEdVZZWk5KXC9qRTNJOFBaeGZUY3hlamc9IiwiYWxnIjoiUlMyNTYifQ.eyJzdWIiOiI4ZGU4ZjBlMC1mY2RjLTQyNzMtYjY4YS1iNDAwOWNjZjc3ZDEiLCJhdWQiOiI1bmVqNWtlZ3VvcGo5Mjhla2NqM2RuZThwIiwiZXZlbnRfaWQiOiJhYjA3ZTIyZC0zZjE0LTQxMzEtODA3OC1mNTc3MWM4ODA0NTgiLCJ0b2tlbl91c2UiOiJpZCIsImF1dGhfdGltZSI6MTU3OTI1NzUwNiwiaXNzIjoiaHR0cHM6XC9cL2NvZ25pdG8taWRwLmFwLXNvdXRoZWFzdC0xLmFtYXpvbmF3cy5jb21cL2FwLXNvdXRoZWFzdC0xX2tmNUJTTm9QZSIsImNvZ25pdG86dXNlcm5hbWUiOiJ0ZXN0ZGVtbyIsImV4cCI6MTU3OTI2MTEwNiwiaWF0IjoxNTc5MjU3NTA2fQ.QwbHOZPeLYbq7zMEaJKkfv2laxLJTtOa9H2DwT-G0DWrIwaW4V9JNmdYUhR-16P1Qc7r7n8_5-uArpiHYm9th9W72AvSf1ZM3-HRbEa6c8ngvHjqAp8i8xTI5TYxlcM2evRwpraNuLQiWY5sUrIBCFCFR0XJSc_iROh0HLrDbYh_UWzYhLRTYpN8GkhK4z4E5uD3xw_urEQfNP54fZNlmxnEFpfTauqc1C_qllcTECKpDBITt29Yzd3lgxL2--QM1K9oPOjZZaWC-rOfsZyYhapPwuSW9H0yIFDDFwEN_sPhTU-ZDxzkA3X1AFeR6wfl5B7qghZXlo60RNPY-Ja08g\", \"expires_in\": 3600, \"refresh_token\": \"eyJjdHkiOiJKV1QiLCJlbmMiOiJBMjU2R0NNIiwiYWxnIjoiUlNBLU9BRVAifQ.VO1NzNdGl8EGZ4BarbCtR6tUVAGjZ-i4Q-8qJ3wABW8Zb01Im5g2SR8xSjuIeg6W2tcqzd2tTH5hUDFlfjG1-QjWR6KMEyRxIoAtkVd1IOr-rS6c8tEXHntD7QQ7xCAWDuva59JGTtL5mb41LX7F3yT5_WLJ0GRRh9vebVftXizmCcvHDMTEODS_Eehob5LfrcBM5xF2C5I7KTEkU1fo1MnAXz8F1PLGwRxcPT3i6JHQ61jNnY_R5c78wPwRIDS_Nefca74RbQVQ3BOYH3mimb-vXZ5fDwUJHvR9Zp_Ar_RTMPOa6uhDRuxNgB9i3osL8HvgAWdedBQWscChJVJqXw.DKP-1AJ9Z29NmmmU.1Ov9WoBH7jCQGUYm81Y0lWyO8ZORy4QsXKgA1OTeI6N_ne_g5RSGrlpc_Hq5r35y8UP8pCha_PI2d4VEt2v_VJpWg5K1gULceOkrNmGMNcBPQIaUEBf6mkwoArZMHhC0exG5-WP3j3ivl_rtOMgkbmMc7nIp9Yux5tiCeijdz3pc-tsQ-8cAoaXgTHTbh_VDqOHoG5uTYfI6_6hwJFIXMLqSD6AGpKTWgQldSjQI9pMcLEjl44JYbSlpqulzvKESL0PHewxp54oQNhdfHfLybCrGYlVW6op7bN9KZxBY7dHLSssklACRdvFD-5rFR4poPHb9iPRlY1L1kACu1yaMY9pHCk3rbNVGkRv5gzSHhMCNAyW-Iahwagv0fidWN4-OO_C5gGpuXpd4Itheq5-FS2drqFBpt5Nzh5A_cMRxlDHLoQtONU8pOBxQ4vd8yjZE2R6yVMyoEtcT1FbTn4H6VU5w0nHXn6-fnyyv0iP8uQf9Np0DE6s3vrXqUlF2v5t452aufiiMsw-REv2hN5sCQFUQj92i0z7lPUPgza24ExR6w7ZYNgUNmP0k5RxH-tVoSXqup585b8R79_nGxIC6SWOuYiUXZUTHFLi2IVOBaXEySuZLAHMdN8EtqjAotLWpypLXod2b-j7iDKX6cLNbeWA6aAosw07Y-zmEI2CLuZWp7OcWffoNxVpJr3wMzJvyPu3ADqu3UVjwq6ARFU22wCVcGatNMyK5I_6MEdBbAP8R67rleZydqzTCsOqwFYlWE5bzKF4Ducy7BheUPTFDvdBUv7JTT0PkMr2HvTQV6VwRVkvdeUTn0LO37vt9V8QsvDKMS61HEeL5hYM01RHoOdlIV5vuWBbX7fD-5tyEqJT8LwCPF7N_5mfjPilT3XqYkrjRTPje7XUo6VDBjFFaK_efzLJ6g4t3S5zgV6aDoP-1BmfFDISHgBL2-PVNQvbi9YEMj8h54Y71I2MICy-p9owpnS0yQMiWeE-FS1GFVzDJW5qsq2d9C5DS027-uexym-4hIdY--zvzveTUfH-rH4BcWD_ITJktktsMEyGdVOHdbcikxNjsu25F_n1sonZcwQNRexWFrZcBVc2CYDcCUKgVwrBYxAXLND5ZXQ4Yv_V2vH4CkAfTkJGPKTRA_zVgjwWMhFQtFleMkzUQ8XmvCF2Wd-he_kBiH6jzi1qIGA9YgSFHWilO_BCiS_6miJ4fIvRsN6VHb51gzteSQmz-1axEfDu_S-qz8UHSqYXIq_QsCvfmb_0-u0dFYko1tkLJjCrtgm5RKEW0RiEDtaNZNOYd.vW-1J4tZQ_E6OJAPMA6lCA\"}"
+Date:  2020-01-17 04:38:24pm : create url:"https:\/\/checkout.sandbox.bka.sh\/v1.2.0-beta\/checkout\/payment\/create"
+Date:  2020-01-17 04:38:24pm : create Heder:[
+    "Content-Type:application\/json",
+    "authorization:eyJraWQiOiJmalhJQmwxclFUXC9hM215MG9ScXpEdVZZWk5KXC9qRTNJOFBaeGZUY3hlamc9IiwiYWxnIjoiUlMyNTYifQ.eyJzdWIiOiI4ZGU4ZjBlMC1mY2RjLTQyNzMtYjY4YS1iNDAwOWNjZjc3ZDEiLCJhdWQiOiI1bmVqNWtlZ3VvcGo5Mjhla2NqM2RuZThwIiwiZXZlbnRfaWQiOiJhYjA3ZTIyZC0zZjE0LTQxMzEtODA3OC1mNTc3MWM4ODA0NTgiLCJ0b2tlbl91c2UiOiJpZCIsImF1dGhfdGltZSI6MTU3OTI1NzUwNiwiaXNzIjoiaHR0cHM6XC9cL2NvZ25pdG8taWRwLmFwLXNvdXRoZWFzdC0xLmFtYXpvbmF3cy5jb21cL2FwLXNvdXRoZWFzdC0xX2tmNUJTTm9QZSIsImNvZ25pdG86dXNlcm5hbWUiOiJ0ZXN0ZGVtbyIsImV4cCI6MTU3OTI2MTEwNiwiaWF0IjoxNTc5MjU3NTA2fQ.QwbHOZPeLYbq7zMEaJKkfv2laxLJTtOa9H2DwT-G0DWrIwaW4V9JNmdYUhR-16P1Qc7r7n8_5-uArpiHYm9th9W72AvSf1ZM3-HRbEa6c8ngvHjqAp8i8xTI5TYxlcM2evRwpraNuLQiWY5sUrIBCFCFR0XJSc_iROh0HLrDbYh_UWzYhLRTYpN8GkhK4z4E5uD3xw_urEQfNP54fZNlmxnEFpfTauqc1C_qllcTECKpDBITt29Yzd3lgxL2--QM1K9oPOjZZaWC-rOfsZyYhapPwuSW9H0yIFDDFwEN_sPhTU-ZDxzkA3X1AFeR6wfl5B7qghZXlo60RNPY-Ja08g",
+    "x-app-key:5nej5keguopj928ekcj3dne8p"
+]
+Date:  2020-01-17 04:38:24pm : create Body:{
+    "amount": "2500",
+    "currency": "BDT",
+    "intent": "sale",
+    "merchantInvoiceNumber": "2020011700108"
+}
+Date:  2020-01-17 04:38:24pm : create result:"{\"paymentID\":\"D2907A91579257506864\",\"createTime\":\"2020-01-17T10:38:26:900 GMT+0000\",\"orgLogo\":\"https:\/\/s3-ap-southeast-1.amazonaws.com\/merchantlogo.sandbox.bka.sh\/merchant-default-logo.png\",\"orgName\":\"TestCheckoutMerchant2\",\"transactionStatus\":\"Initiated\",\"amount\":\"2500\",\"currency\":\"BDT\",\"intent\":\"sale\",\"merchantInvoiceNumber\":\"2020011700108\"}"
+Date:  2020-01-17 04:38:45pm : execute url:https://checkout.sandbox.bka.sh/v1.2.0-beta/checkout/payment/execute/D2907A91579257506864
+Date:  2020-01-17 04:38:45pm : execute Heder:[
+    "Content-Type:application\/json",
+    "authorization:eyJraWQiOiJmalhJQmwxclFUXC9hM215MG9ScXpEdVZZWk5KXC9qRTNJOFBaeGZUY3hlamc9IiwiYWxnIjoiUlMyNTYifQ.eyJzdWIiOiI4ZGU4ZjBlMC1mY2RjLTQyNzMtYjY4YS1iNDAwOWNjZjc3ZDEiLCJhdWQiOiI1bmVqNWtlZ3VvcGo5Mjhla2NqM2RuZThwIiwiZXZlbnRfaWQiOiJhYjA3ZTIyZC0zZjE0LTQxMzEtODA3OC1mNTc3MWM4ODA0NTgiLCJ0b2tlbl91c2UiOiJpZCIsImF1dGhfdGltZSI6MTU3OTI1NzUwNiwiaXNzIjoiaHR0cHM6XC9cL2NvZ25pdG8taWRwLmFwLXNvdXRoZWFzdC0xLmFtYXpvbmF3cy5jb21cL2FwLXNvdXRoZWFzdC0xX2tmNUJTTm9QZSIsImNvZ25pdG86dXNlcm5hbWUiOiJ0ZXN0ZGVtbyIsImV4cCI6MTU3OTI2MTEwNiwiaWF0IjoxNTc5MjU3NTA2fQ.QwbHOZPeLYbq7zMEaJKkfv2laxLJTtOa9H2DwT-G0DWrIwaW4V9JNmdYUhR-16P1Qc7r7n8_5-uArpiHYm9th9W72AvSf1ZM3-HRbEa6c8ngvHjqAp8i8xTI5TYxlcM2evRwpraNuLQiWY5sUrIBCFCFR0XJSc_iROh0HLrDbYh_UWzYhLRTYpN8GkhK4z4E5uD3xw_urEQfNP54fZNlmxnEFpfTauqc1C_qllcTECKpDBITt29Yzd3lgxL2--QM1K9oPOjZZaWC-rOfsZyYhapPwuSW9H0yIFDDFwEN_sPhTU-ZDxzkA3X1AFeR6wfl5B7qghZXlo60RNPY-Ja08g",
+    "x-app-key:5nej5keguopj928ekcj3dne8p"
+]
+Date:  2020-01-17 04:38:53pm : execute result:"{\"paymentID\":\"D2907A91579257506864\",\"createTime\":\"2020-01-17T10:38:26:900 GMT+0000\",\"updateTime\":\"2020-01-17T10:38:55:342 GMT+0000\",\"trxID\":\"7AH101U145\",\"transactionStatus\":\"Completed\",\"amount\":\"2500\",\"currency\":\"BDT\",\"intent\":\"sale\",\"merchantInvoiceNumber\":\"2020011700108\"}"
+Date:  2020-01-17 04:38:53pm : execute result02:{
+    "paymentID": "D2907A91579257506864",
+    "createTime": "2020-01-17T10:38:26:900 GMT+0000",
+    "updateTime": "2020-01-17T10:38:55:342 GMT+0000",
+    "trxID": "7AH101U145",
+    "transactionStatus": "Completed",
+    "amount": "2500",
+    "currency": "BDT",
+    "intent": "sale",
+    "merchantInvoiceNumber": "2020011700108"
+}

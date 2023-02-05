@@ -1,0 +1,299 @@
+Date:  2020-01-16 12:00:34am : Token url:"https:\/\/checkout.pay.bka.sh\/v1.2.0-beta\/checkout\/token\/grant"
+Date:  2020-01-16 12:00:34am : Token Heder:[
+    "Content-Type:application\/json",
+    "password:y@mnT614CcVL",
+    "username:BBARAJSHAHIUNI"
+]
+Date:  2020-01-16 12:00:34am : Token post:{
+    "app_key": "1g6t71ru2fjm1e9g3c5lhd5sm3",
+    "app_secret": "1r95mm8tdmjl7uo2e237r290hc0l7tutjffv62g3uu41a8ogpi4v"
+}
+Date:  2020-01-16 12:00:35am : Token result:"{\"token_type\": \"Bearer\", \"id_token\": \"eyJraWQiOiI4aEo0YWZHMHRPQ2huSzBCT1FhTWZ4RUhEWmJRMU8wTGo0NStjUnZzRWJJPSIsImFsZyI6IlJTMjU2In0.eyJzdWIiOiIwNDc2YzVmNy02YzMxLTQ5MWItODU4Ny04YzcyY2FjMmU5NDQiLCJhdWQiOiIxZzZ0NzFydTJmam0xZTlnM2M1bGhkNXNtMyIsImV2ZW50X2lkIjoiZTJmNzcwYjYtNmNmYy00MmFjLWI1ODctNmRlZWQ3MDk3YTJhIiwidG9rZW5fdXNlIjoiaWQiLCJhdXRoX3RpbWUiOjE1NzkxMTEyMzUsImlzcyI6Imh0dHBzOlwvXC9jb2duaXRvLWlkcC5hcC1zb3V0aGVhc3QtMS5hbWF6b25hd3MuY29tXC9hcC1zb3V0aGVhc3QtMV9xcUZqUTFTQloiLCJjb2duaXRvOnVzZXJuYW1lIjoiQkJBUkFKU0hBSElVTkkiLCJleHAiOjE1NzkxMTQ4MzUsImlhdCI6MTU3OTExMTIzNX0.GOvNyzENQyIapx1VxEF2QJpQONZKutR3P9U11Y1GIkLV8hjpssaURqXuv2SJOtUA8h9DfUKWcNmVgiRwy849aAZnRCbF9wp1Q0eWyhKTq9KHI6CoXR1cZnhPEyvsuPumwgBMZDFPgT61_O2ocT2orfVLi7GD2rvrDycTqc_SkKlLqOkF73d37zl5bsGgISqfdZl8mYQ2ZwU70saJrJF6WIP53g3TWuFBcZXNHV1qIx6AUK5vdTEDNAdu5qyIurasYzCnBUWChZjHEp_nOSRWw95FvnK0r7S0j-n2_ZiVVuOXqVDAi31s8w5S3nVTCrfRg_RZ0EfTWk2IN98FPOrD2Q\", \"expires_in\": 3600, \"refresh_token\": \"eyJjdHkiOiJKV1QiLCJlbmMiOiJBMjU2R0NNIiwiYWxnIjoiUlNBLU9BRVAifQ.ZjInwzQJvxsz-_rEDwk_Fv-OldNgtAVOLXX-sVyao9eNHl-2J8BERG9zfRWOiZSmNSBN5-IxXmGQRHOvmtnXoBLr3_i0so2JS0sCm_KkV7yObckbpr_TwB8iM456fkUKm2ZjL4jFa488HdMUZF5-2ecI1R-d2fVUK8Oja6ayJfqqkzd0AFZKCDD2OnUFFgqaYlwJa9QjUGUuTHr4X84VGvHlEKmW_56gOaWKS1SsvHJ5AD_C7bazw3isG8mXbM1AJ2p57nv8UZTftMHLGpEitKy2nyQXst26RR4MzhDrc821nLmwrJHkzd8d_YceY5X--Qrjt-gsTnxSG_XY6U-WPg.1P_XMNk56hv9Lqc4.xWFvyo5hIPE7RYlHANLp0Hk6uC5BnOuul8MgJJNg201JQc8BUyhldyfCE6DOBnnD-dhB6iO_A1gMQkl2IHBiBKI5wv_9Nu3_bw9l0309ZxwjO1Jm_wH_jJZ66HQ94iOXsMwXFd7VTt76U2QS6uFHv0qQbbbrvD35BIHFRj9esIBc6U5Ms9f4bbV0QCQd6uoSxtCo0_jDCNxkd8_2KFqkK-8LxAJaai4zIu4PxR_uFoTph7XOh1AfX5GfIYnSGIRKfgsTzabcF2jkTDoml0HGN-tLZ7_RFItkIKASaYvSj7-afImFSG1HyLUO9wkWSo5EWliqyi6oTgcwhkkfBwzuC3qlQesgAt61QKxLaTqEgqVIERA19b5PRoVsTCERLq7J8u5HxeNRIyf3wceyorrusgPMcpAQs0LuO-GbR4zfLPgMz2X4-HZ8rib-HB_Pw6fjaB0wTC7bCfUzRtRjZlYX2mplxxqeBLNu-9xJWRsxE819Sdc4dVSmSlf4b4IrgRTWgsCShmP-TeKXtuFCzAkS3lFoADM_zAJ-RCYlQ8hvtHp9xU8bPDE42QASuKA9pqzepG9oqBdp6pmVsqGG66JEDige7bV4sQyO9NqsZ4EJF4MxuAMLY5A_2S1NhoWzM7iTNLjcFz43LYoHYQHnUgX3QNDLcYfgtkYMYFCF-0xjFTR-MiHoWOo1Mu-Rp2yIMSgGbTPqUWfkqtM2T2tccVo_K2PHIxEar-woMetkYq9yZqhZKcXr36dQ-NzaKjoVpqrcFPE6pLhq4p6KfHfJl-JIAfNv0a12f_Ik3KwmN4cTT5oZJKFGoa2kfrSh63SCugQewkx7zvBA7oMpSyhyWgw_cxt02O3WNTS8pG6ppULtbV4OkyXR57jc4fYrwDDDNsbOV6Dz14CG0jk28gWxJwPO9jhEhgSrGTX5eY_05SJu_N2r-gSWwQY-_dG7-cG7fW4QiwKOJyfyZLEYYQBk6YFfDjsCJnxA0lPukOwKSf4BrE2213EpwmhUBwdi6hO6NaGOWWHKhNBZuFNscyH86Qp5ds0w-E7JqDOwmcsmWXTP4A7cC3kyVVmyt2m7p96J9gOgjv3DZ4RnCTEPPlZAcvUrgrYWlMd0gU7oEh0ViguMCRw9RwXyk544SR6cY6yI6CDBCcA6SihMhvogOqAlFZHT1I-cxFY8GpiutMocksSSpJWwstz4pQ2xXpVkqemLnu-vkgsZ-mvC29LQQOOjG_5Aj42cW13Se5SC9EBamXXZGyD5T4dnCdGqToDwTpjg4BPicc1OYlA98FgiTK80CPyRZ8PevDY4GgP4V0VG8w.M9ngRilKbdlTveHsXq5TOg\"}"
+Date:  2020-01-16 12:00:35am : create url:"https:\/\/checkout.pay.bka.sh\/v1.2.0-beta\/checkout\/payment\/create"
+Date:  2020-01-16 12:00:35am : create Heder:[
+    "Content-Type:application\/json",
+    "authorization:eyJraWQiOiI4aEo0YWZHMHRPQ2huSzBCT1FhTWZ4RUhEWmJRMU8wTGo0NStjUnZzRWJJPSIsImFsZyI6IlJTMjU2In0.eyJzdWIiOiIwNDc2YzVmNy02YzMxLTQ5MWItODU4Ny04YzcyY2FjMmU5NDQiLCJhdWQiOiIxZzZ0NzFydTJmam0xZTlnM2M1bGhkNXNtMyIsImV2ZW50X2lkIjoiZTJmNzcwYjYtNmNmYy00MmFjLWI1ODctNmRlZWQ3MDk3YTJhIiwidG9rZW5fdXNlIjoiaWQiLCJhdXRoX3RpbWUiOjE1NzkxMTEyMzUsImlzcyI6Imh0dHBzOlwvXC9jb2duaXRvLWlkcC5hcC1zb3V0aGVhc3QtMS5hbWF6b25hd3MuY29tXC9hcC1zb3V0aGVhc3QtMV9xcUZqUTFTQloiLCJjb2duaXRvOnVzZXJuYW1lIjoiQkJBUkFKU0hBSElVTkkiLCJleHAiOjE1NzkxMTQ4MzUsImlhdCI6MTU3OTExMTIzNX0.GOvNyzENQyIapx1VxEF2QJpQONZKutR3P9U11Y1GIkLV8hjpssaURqXuv2SJOtUA8h9DfUKWcNmVgiRwy849aAZnRCbF9wp1Q0eWyhKTq9KHI6CoXR1cZnhPEyvsuPumwgBMZDFPgT61_O2ocT2orfVLi7GD2rvrDycTqc_SkKlLqOkF73d37zl5bsGgISqfdZl8mYQ2ZwU70saJrJF6WIP53g3TWuFBcZXNHV1qIx6AUK5vdTEDNAdu5qyIurasYzCnBUWChZjHEp_nOSRWw95FvnK0r7S0j-n2_ZiVVuOXqVDAi31s8w5S3nVTCrfRg_RZ0EfTWk2IN98FPOrD2Q",
+    "x-app-key:1g6t71ru2fjm1e9g3c5lhd5sm3"
+]
+Date:  2020-01-16 12:00:35am : create Body:{
+    "amount": "3",
+    "currency": "BDT",
+    "merchantInvoiceNumber": "2020011500060",
+    "intent": "sale"
+}
+Date:  2020-01-16 12:00:36am : create result:"{\"paymentID\":\"D73O8MR1579111236313\",\"createTime\":\"2020-01-15T18:00:36:397 GMT+0000\",\"orgLogo\":\"BBARAJSHAHIUNI.png\",\"orgName\":\"Bangla Bivag Alumni,RU\",\"transactionStatus\":\"Initiated\",\"amount\":\"3\",\"currency\":\"BDT\",\"intent\":\"sale\",\"merchantInvoiceNumber\":\"2020011500060\"}"
+Date:  2020-01-16 12:03:52am : create url:"https:\/\/checkout.pay.bka.sh\/v1.2.0-beta\/checkout\/payment\/create"
+Date:  2020-01-16 12:03:52am : create Heder:[
+    "Content-Type:application\/json",
+    "authorization:eyJraWQiOiI4aEo0YWZHMHRPQ2huSzBCT1FhTWZ4RUhEWmJRMU8wTGo0NStjUnZzRWJJPSIsImFsZyI6IlJTMjU2In0.eyJzdWIiOiIwNDc2YzVmNy02YzMxLTQ5MWItODU4Ny04YzcyY2FjMmU5NDQiLCJhdWQiOiIxZzZ0NzFydTJmam0xZTlnM2M1bGhkNXNtMyIsImV2ZW50X2lkIjoiZTJmNzcwYjYtNmNmYy00MmFjLWI1ODctNmRlZWQ3MDk3YTJhIiwidG9rZW5fdXNlIjoiaWQiLCJhdXRoX3RpbWUiOjE1NzkxMTEyMzUsImlzcyI6Imh0dHBzOlwvXC9jb2duaXRvLWlkcC5hcC1zb3V0aGVhc3QtMS5hbWF6b25hd3MuY29tXC9hcC1zb3V0aGVhc3QtMV9xcUZqUTFTQloiLCJjb2duaXRvOnVzZXJuYW1lIjoiQkJBUkFKU0hBSElVTkkiLCJleHAiOjE1NzkxMTQ4MzUsImlhdCI6MTU3OTExMTIzNX0.GOvNyzENQyIapx1VxEF2QJpQONZKutR3P9U11Y1GIkLV8hjpssaURqXuv2SJOtUA8h9DfUKWcNmVgiRwy849aAZnRCbF9wp1Q0eWyhKTq9KHI6CoXR1cZnhPEyvsuPumwgBMZDFPgT61_O2ocT2orfVLi7GD2rvrDycTqc_SkKlLqOkF73d37zl5bsGgISqfdZl8mYQ2ZwU70saJrJF6WIP53g3TWuFBcZXNHV1qIx6AUK5vdTEDNAdu5qyIurasYzCnBUWChZjHEp_nOSRWw95FvnK0r7S0j-n2_ZiVVuOXqVDAi31s8w5S3nVTCrfRg_RZ0EfTWk2IN98FPOrD2Q",
+    "x-app-key:1g6t71ru2fjm1e9g3c5lhd5sm3"
+]
+Date:  2020-01-16 12:03:52am : create Body:{
+    "amount": "3",
+    "currency": "BDT",
+    "intent": "sale",
+    "merchantInvoiceNumber": "2020011500061"
+}
+Date:  2020-01-16 12:03:52am : create result:"{\"paymentID\":\"QEP44LH1579111432752\",\"createTime\":\"2020-01-15T18:03:52:782 GMT+0000\",\"orgLogo\":\"BBARAJSHAHIUNI.png\",\"orgName\":\"Bangla Bivag Alumni,RU\",\"transactionStatus\":\"Initiated\",\"amount\":\"3\",\"currency\":\"BDT\",\"intent\":\"sale\",\"merchantInvoiceNumber\":\"2020011500061\"}"
+Date:  2020-01-16 10:37:26am : Token url:"https:\/\/checkout.pay.bka.sh\/v1.2.0-beta\/checkout\/token\/grant"
+Date:  2020-01-16 10:37:26am : Token Heder:[
+    "Content-Type:application\/json",
+    "password:y@mnT614CcVL",
+    "username:BBARAJSHAHIUNI"
+]
+Date:  2020-01-16 10:37:26am : Token post:{
+    "app_key": "1g6t71ru2fjm1e9g3c5lhd5sm3",
+    "app_secret": "1r95mm8tdmjl7uo2e237r290hc0l7tutjffv62g3uu41a8ogpi4v"
+}
+Date:  2020-01-16 10:37:27am : Token result:"{\"token_type\": \"Bearer\", \"id_token\": \"eyJraWQiOiI4aEo0YWZHMHRPQ2huSzBCT1FhTWZ4RUhEWmJRMU8wTGo0NStjUnZzRWJJPSIsImFsZyI6IlJTMjU2In0.eyJzdWIiOiIwNDc2YzVmNy02YzMxLTQ5MWItODU4Ny04YzcyY2FjMmU5NDQiLCJhdWQiOiIxZzZ0NzFydTJmam0xZTlnM2M1bGhkNXNtMyIsImV2ZW50X2lkIjoiNzJkYTgxYTEtZjc0NS00ZmY0LTk4ZmItNTJhZDhiMGI5N2I1IiwidG9rZW5fdXNlIjoiaWQiLCJhdXRoX3RpbWUiOjE1NzkxNDk0NDcsImlzcyI6Imh0dHBzOlwvXC9jb2duaXRvLWlkcC5hcC1zb3V0aGVhc3QtMS5hbWF6b25hd3MuY29tXC9hcC1zb3V0aGVhc3QtMV9xcUZqUTFTQloiLCJjb2duaXRvOnVzZXJuYW1lIjoiQkJBUkFKU0hBSElVTkkiLCJleHAiOjE1NzkxNTMwNDcsImlhdCI6MTU3OTE0OTQ0N30.b52C3yYfyCtCGRIhrUB9zwCYuNNVd1eHlmPtgiK9yewoNJib1P0zhh3mfb3oEenwomhbYOVaPomOsisM_1H84HVDl74asMVuRYui6PqketW5yGBa11MTx0wOawi4_WnrVs5FlxRrVx2T1IswBnyiCRUYLU3-295xvqu9RRv9mnhrf26EtwfIj2sRBS6kmtp9R3xW-4gqY5AjcV3JDXuaZHA5Fyzz0xBwrWbzM4UGDtBCs7iEHNXIuj05ohegcyIbrTLmznEku_cadpRvlBS1cuhZDI0zedUtuQaD3ZTh7EipEZO8H-lYVA1GtyttmkKaCulUxyayRwVUuvQ_Rd6xEg\", \"expires_in\": 3600, \"refresh_token\": \"eyJjdHkiOiJKV1QiLCJlbmMiOiJBMjU2R0NNIiwiYWxnIjoiUlNBLU9BRVAifQ.bbG1UQ_OH6pkZHEVKqjsINpWKUDHokieCf5Jt_fHEpBaJlzxVsUuHcATer1Wl_z3ohb8UCt4Z9XrjAkRjwnU228UaMhMznzOXqcsDU-CQ3VnFBDvx4JbKetIyQ-ji0opdj6I9GFbKtVvV0dHhJDbzo4ekdI89D9a--_qkIQYrEZ_z939sutbqdAexcP4V-3XNdLJ8sWwBV9vO0OqanE-Vcl4A2bKt9v5tjVlrdsnUgbzA9XdGEMgM939bwNgBobmsRQ155m-miLggwqTLQK_0DqIheTeitxUC1Uz_qNOXDc3pNfhua7rn-Oc8pyQutAIkGtsVKKyCNz9TnHhnM6G8Q.1Ewi60wNa5gIUoRm.Is6Vwvp2ATtddByKPMY57B0ZKf_hkwgPwT7lxZyso7IH5K1UlIZOTuwOaBd6ZS4BU57GgTFYoxezca5TOzXqbkow9ohGAD_e5yDtInQcJsjLZHvyZFXa9Mg6i6Kg2rwkqgRajK9YwAbEx6I9i26F6LAlG2eryirwNfD3hNw27Lv-tfGgyAXiltj0ZPv8vVJMLtFGRX1y9o-82UhJBRkdf3Rm7fAHQl-O9l6QA6FznsIMXV2hTi7eHV2Ap5rs8IY-u8vBg7ocXcR0Uew6pvtgp8qj86z79aceHyG1Rb87utv_h-54UI8wiQrZqoT-C2TVaLLxwZhoqNu73MaWuETbPTe3D63aNjKO3tRU_AYzRTDLQXJwtdAo2YOmt8X51iS_cOeIlDKxhATrSondj-QUaDIr1Y8FITsYHZjvWntXg22FkGTjIQvy0ASbc7Qu2CCtNub5RRu7B8_DINRGmM7UxrL6Mq3Vjg9RJcZKr-tUOUMWb7lycYeT5LPdWovuFXqq6J_jcICPwS34LQtMlRMtbC-qHXmJu6_n22aKFHHBGokQ-2uQ5koz3tV9rvP1Nmd89sYD-KEg47-y_FbWYo1as8YAS4kS6fiBsYMvQsFksAQY71IsSh8Plxh3BFQwI4eet8RtI2AW6_Bpw23mAm2uoUJX5P8poUDUrfojFWvo2Ra_9IJLSj0z53WbD8LuBtb-lOsC2-cxuGryqo0B2NqxZr17SvS8Z0pTVCxyTvcw1L4LTWFKOT_JA4kd0zw2PpRf99etlOa8sa8jrkCBSa9KGnOZisb8YOUL1BXdaqihUNKmg110R2kACw6-mUbcDnwZIartOUtMsyNgRtzgieHUgYFrkSBLkOqJlQ4mHelk07A0iqg0UWwxZjnJgqg0TFVarHQP8fZSQcT3S4Y86-V7U9et8Qt28cn9slZQ7ZO7TN-AvA_mx_T6jJuskCmPUYVFF1oRkjXiMwO_1Iy6NoYgn1xSLK-KNcEgXjNU05GXHjq9ztP6ZEWkSOXPzAPEpcvwdhh_HEWAvQyyBjuX65fPw9Ah0w5PHOb4fhKAitbVvFkiLz38etcQC2-IXahntW5JkN-nbhS-OQBjHex_BRUjgsRmIju-7rgAe13NBliuNi0Tq1I6mh_oIRxOD1uAzjxTRlgiMKb073izGhrtQ4hUL3pYJQG4Q64hF0Tob3yXMH2MIWS3QTovCTaxsQppecBxzqrBllLTxJkd4u8z7jZmjIQZGGZkal3RbyPhlLwZ2TAme0dKi0-q3IbLV5a7zp0nooyHXBWbq0tSXf6raVbXC3zVg4S6k29P8i4-Rw.-eWd1m8FQr5Bps_e4BYJqw\"}"
+Date:  2020-01-16 10:37:27am : create url:"https:\/\/checkout.pay.bka.sh\/v1.2.0-beta\/checkout\/payment\/create"
+Date:  2020-01-16 10:37:27am : create Heder:[
+    "Content-Type:application\/json",
+    "authorization:eyJraWQiOiI4aEo0YWZHMHRPQ2huSzBCT1FhTWZ4RUhEWmJRMU8wTGo0NStjUnZzRWJJPSIsImFsZyI6IlJTMjU2In0.eyJzdWIiOiIwNDc2YzVmNy02YzMxLTQ5MWItODU4Ny04YzcyY2FjMmU5NDQiLCJhdWQiOiIxZzZ0NzFydTJmam0xZTlnM2M1bGhkNXNtMyIsImV2ZW50X2lkIjoiNzJkYTgxYTEtZjc0NS00ZmY0LTk4ZmItNTJhZDhiMGI5N2I1IiwidG9rZW5fdXNlIjoiaWQiLCJhdXRoX3RpbWUiOjE1NzkxNDk0NDcsImlzcyI6Imh0dHBzOlwvXC9jb2duaXRvLWlkcC5hcC1zb3V0aGVhc3QtMS5hbWF6b25hd3MuY29tXC9hcC1zb3V0aGVhc3QtMV9xcUZqUTFTQloiLCJjb2duaXRvOnVzZXJuYW1lIjoiQkJBUkFKU0hBSElVTkkiLCJleHAiOjE1NzkxNTMwNDcsImlhdCI6MTU3OTE0OTQ0N30.b52C3yYfyCtCGRIhrUB9zwCYuNNVd1eHlmPtgiK9yewoNJib1P0zhh3mfb3oEenwomhbYOVaPomOsisM_1H84HVDl74asMVuRYui6PqketW5yGBa11MTx0wOawi4_WnrVs5FlxRrVx2T1IswBnyiCRUYLU3-295xvqu9RRv9mnhrf26EtwfIj2sRBS6kmtp9R3xW-4gqY5AjcV3JDXuaZHA5Fyzz0xBwrWbzM4UGDtBCs7iEHNXIuj05ohegcyIbrTLmznEku_cadpRvlBS1cuhZDI0zedUtuQaD3ZTh7EipEZO8H-lYVA1GtyttmkKaCulUxyayRwVUuvQ_Rd6xEg",
+    "x-app-key:1g6t71ru2fjm1e9g3c5lhd5sm3"
+]
+Date:  2020-01-16 10:37:27am : create Body:{
+    "amount": "3",
+    "currency": "BDT",
+    "intent": "sale",
+    "merchantInvoiceNumber": "2020011600062"
+}
+Date:  2020-01-16 10:37:28am : create result:"{\"paymentID\":\"EO4X3O61579149448437\",\"createTime\":\"2020-01-16T04:37:28:473 GMT+0000\",\"orgLogo\":\"BBARAJSHAHIUNI.png\",\"orgName\":\"Bangla Bivag Alumni,RU\",\"transactionStatus\":\"Initiated\",\"amount\":\"3\",\"currency\":\"BDT\",\"intent\":\"sale\",\"merchantInvoiceNumber\":\"2020011600062\"}"
+Date:  2020-01-16 03:35:18pm : Token url:"https:\/\/checkout.pay.bka.sh\/v1.2.0-beta\/checkout\/token\/grant"
+Date:  2020-01-16 03:35:18pm : Token Heder:[
+    "Content-Type:application\/json",
+    "password:y@mnT614CcVL",
+    "username:BBARAJSHAHIUNI"
+]
+Date:  2020-01-16 03:35:18pm : Token post:{
+    "app_key": "1g6t71ru2fjm1e9g3c5lhd5sm3",
+    "app_secret": "1r95mm8tdmjl7uo2e237r290hc0l7tutjffv62g3uu41a8ogpi4v"
+}
+Date:  2020-01-16 03:35:19pm : Token result:"{\"token_type\": \"Bearer\", \"id_token\": \"eyJraWQiOiI4aEo0YWZHMHRPQ2huSzBCT1FhTWZ4RUhEWmJRMU8wTGo0NStjUnZzRWJJPSIsImFsZyI6IlJTMjU2In0.eyJzdWIiOiIwNDc2YzVmNy02YzMxLTQ5MWItODU4Ny04YzcyY2FjMmU5NDQiLCJhdWQiOiIxZzZ0NzFydTJmam0xZTlnM2M1bGhkNXNtMyIsImV2ZW50X2lkIjoiZTE5YjgxYTYtNzQ4Ni00ZWUzLWE0NDItZjAzY2ZkYmIzODYxIiwidG9rZW5fdXNlIjoiaWQiLCJhdXRoX3RpbWUiOjE1NzkxNjczMTksImlzcyI6Imh0dHBzOlwvXC9jb2duaXRvLWlkcC5hcC1zb3V0aGVhc3QtMS5hbWF6b25hd3MuY29tXC9hcC1zb3V0aGVhc3QtMV9xcUZqUTFTQloiLCJjb2duaXRvOnVzZXJuYW1lIjoiQkJBUkFKU0hBSElVTkkiLCJleHAiOjE1NzkxNzA5MTksImlhdCI6MTU3OTE2NzMxOX0.Zsjl-x9yp48-D8HYdRSesSnoxHtTo5T8vwuZbtpisbWkkKFdZmCDa_19hqQuZc9BSFP-ae2zLKbOHfYIVGvPgH1zDGq22fFvNYsRIDmqSUSLpUGj7DK6DFGw4upw83HUEJppKt7vn_jeRevxRaGxMvf6mwwFBAQ-f8p0kvozWiDX0ipXaTcIA3WQPpbOzP5YHCd67Hu74ZalCBEURnfiE_EAalG2Ois7RvRPyx_41tIM3A2xIkTzZFn2mtnzVMjnlMOGRPBXYeebMylbT_kKyGc27Bkf3naG-Hw_ia7rKQiUctuRxedPtoDVO_0fv6fHPSau0eDR6vFdVzHfQIyM4w\", \"expires_in\": 3600, \"refresh_token\": \"eyJjdHkiOiJKV1QiLCJlbmMiOiJBMjU2R0NNIiwiYWxnIjoiUlNBLU9BRVAifQ.hXdlFUzrr0F1OVrVkmfhVJd9lR7zKY2SgHaUfYj1pOW3tMBiGYIBglskIJymXrG6311QlMarbtClH8qSLadvSF0tta7Bdjl-w5Y1p6N1X1924Hh0_zqSYL6dBMR1g6L4iCPt2LilNgobMFVGj5trd9EU68poOm6_0Fs3fHZGhw3cgIh01CBCqDM1_9N8D8mqWsqyvkRnmyt0jq9HT_WE6BjihllD2sBvN109ERnBKSKJI9ket8LLrmmXPWNERNB9KjifnNXOehhQMhAWMToQIkeVeqvpbm_d9aSQ-dkLP1YPehEOiv7iDjF2rOrIx3eaoqk_0Tm_ekWkzr6f2y1T7w.sIZ9YG8X1IIjZm4_.X3Ys-wwzDTj805oXWC48RDIkOQ5VGPgJt2W4mjK-Y7b4p7i5V6eyJf7MRBIryGMSLjCly38Fk7hAcy2Y4zoWO8HWorOb6s9Klgaxugykdj-EtYIxOS_JQ_VsiXslnAaFW6LGuBr0hI7hn9l8Sszb68qbnhylX0XW6Irgip8YWAraaJJ1I5i-j55bt0ZdCmFFtykEg1-S69zWvp-QMPVW4ISLTpW2Da904l9d0vOylXiTzdZVIgDWaH_SQIErGvWaWTBDwwe3Qh8ldtMC6zdURFkKcLYj3cE2lKHrEhzQnqZ6zaRfNSF960CNuv0-h8xGXJW5bjd3Ij0GGwwX0oluBKN131Bqi3SgXrON5ycQdXZXQhit9cAJGqyzSvU22XY13o8XbVKqxi3mvKIlTb0BwrOsMulHxaPYJkK91_NZIu1FroubKyuJN0gjWYS6xC5cYcZPT0Xb14we0Wg0ttOCnXqR9mvVT87itDFqmB8Hl7pZWhkGStYpOIHDdnBJLCHJzD7SShggW2FJWz_L60Ug25kcfzH2-Fb2F3LP8ex6YINSqCR8aK7A89M7_SU-_X-_1BOmwpIhh-vkP7gbAQH3zFlgRFs2zWNPmFQ018SHB48Bx3rQcfyBKuxQlKrlwkH7Uc72-rSPedUKOSw7NNbeeudAbIHOxn2r3ANGd0_JIf4045WMpkcTE1jCh8MDWsQy13oqiEL2Ct0tLTnN7_uU0gbz5AxyWgwQxT1kLanYvbDXou4rCqHGwUSqF66xMKg_SthZuio8YeLzGJH2AFzKBhBD8hN9VfVlpsRdEcE8Tv5XQydw5pdCAAMOLOIoRHeAOEcn_wfQNjFfPJy43SSQ6ZqTmkc-ri2qENsUuF9m9XCuDJFQA5KU424dsQwP0aVwerEe4kzvDK4A8mjVKMqub5x0pSPKgUrjnd02EUkbZYG6h9Znh-v47hLHYziSc8YrRsFDhMjteSiiitmG4EWl0HcBd5zsAPocZVM1GMm8pN9PJUxsCn-NObGMHNReXgTHshaB1vLXBrw9DUxhHj5CTo8_xj1dk5PV81cK9aP1438YWYeqGLcKHW1cnHraOrfwp6m8dEi86sDG5atH4az0iySzPvzbFmjKWC1Y17CJJCJyUoXBNoUcGjks6yFa5p8d_w88KCVhFutent4FO59P8R3JE6O9B7ylEvCistMk4lFg6wIw4iOpjBuQgWNSJoRJfM8znj9LqQs8oJqoNBMaT0iCtYnwC2iUcHJUOgkEJadLxUksM_Osy7-5ZzvmSLPT3vxVrK0X5pCwYlxdA0Oh1gNGC5DbFAKYMSY13Q.6v-yPqHA3XEqmLnJktrY2Q\"}"
+Date:  2020-01-16 03:35:19pm : create url:"https:\/\/checkout.pay.bka.sh\/v1.2.0-beta\/checkout\/payment\/create"
+Date:  2020-01-16 03:35:19pm : create Heder:[
+    "Content-Type:application\/json",
+    "authorization:eyJraWQiOiI4aEo0YWZHMHRPQ2huSzBCT1FhTWZ4RUhEWmJRMU8wTGo0NStjUnZzRWJJPSIsImFsZyI6IlJTMjU2In0.eyJzdWIiOiIwNDc2YzVmNy02YzMxLTQ5MWItODU4Ny04YzcyY2FjMmU5NDQiLCJhdWQiOiIxZzZ0NzFydTJmam0xZTlnM2M1bGhkNXNtMyIsImV2ZW50X2lkIjoiZTE5YjgxYTYtNzQ4Ni00ZWUzLWE0NDItZjAzY2ZkYmIzODYxIiwidG9rZW5fdXNlIjoiaWQiLCJhdXRoX3RpbWUiOjE1NzkxNjczMTksImlzcyI6Imh0dHBzOlwvXC9jb2duaXRvLWlkcC5hcC1zb3V0aGVhc3QtMS5hbWF6b25hd3MuY29tXC9hcC1zb3V0aGVhc3QtMV9xcUZqUTFTQloiLCJjb2duaXRvOnVzZXJuYW1lIjoiQkJBUkFKU0hBSElVTkkiLCJleHAiOjE1NzkxNzA5MTksImlhdCI6MTU3OTE2NzMxOX0.Zsjl-x9yp48-D8HYdRSesSnoxHtTo5T8vwuZbtpisbWkkKFdZmCDa_19hqQuZc9BSFP-ae2zLKbOHfYIVGvPgH1zDGq22fFvNYsRIDmqSUSLpUGj7DK6DFGw4upw83HUEJppKt7vn_jeRevxRaGxMvf6mwwFBAQ-f8p0kvozWiDX0ipXaTcIA3WQPpbOzP5YHCd67Hu74ZalCBEURnfiE_EAalG2Ois7RvRPyx_41tIM3A2xIkTzZFn2mtnzVMjnlMOGRPBXYeebMylbT_kKyGc27Bkf3naG-Hw_ia7rKQiUctuRxedPtoDVO_0fv6fHPSau0eDR6vFdVzHfQIyM4w",
+    "x-app-key:1g6t71ru2fjm1e9g3c5lhd5sm3"
+]
+Date:  2020-01-16 03:35:19pm : create Body:{
+    "amount": "3",
+    "currency": "BDT",
+    "intent": "sale",
+    "merchantInvoiceNumber": "2020011600063"
+}
+Date:  2020-01-16 03:35:20pm : create result:"{\"paymentID\":\"WQLYQ9W1579167320263\",\"createTime\":\"2020-01-16T09:35:20:334 GMT+0000\",\"orgLogo\":\"BBARAJSHAHIUNI.png\",\"orgName\":\"Bangla Bivag Alumni,RU\",\"transactionStatus\":\"Initiated\",\"amount\":\"3\",\"currency\":\"BDT\",\"intent\":\"sale\",\"merchantInvoiceNumber\":\"2020011600063\"}"
+Date:  2020-01-16 03:36:27pm : create url:"https:\/\/checkout.pay.bka.sh\/v1.2.0-beta\/checkout\/payment\/create"
+Date:  2020-01-16 03:36:27pm : create Heder:[
+    "Content-Type:application\/json",
+    "authorization:eyJraWQiOiI4aEo0YWZHMHRPQ2huSzBCT1FhTWZ4RUhEWmJRMU8wTGo0NStjUnZzRWJJPSIsImFsZyI6IlJTMjU2In0.eyJzdWIiOiIwNDc2YzVmNy02YzMxLTQ5MWItODU4Ny04YzcyY2FjMmU5NDQiLCJhdWQiOiIxZzZ0NzFydTJmam0xZTlnM2M1bGhkNXNtMyIsImV2ZW50X2lkIjoiZTE5YjgxYTYtNzQ4Ni00ZWUzLWE0NDItZjAzY2ZkYmIzODYxIiwidG9rZW5fdXNlIjoiaWQiLCJhdXRoX3RpbWUiOjE1NzkxNjczMTksImlzcyI6Imh0dHBzOlwvXC9jb2duaXRvLWlkcC5hcC1zb3V0aGVhc3QtMS5hbWF6b25hd3MuY29tXC9hcC1zb3V0aGVhc3QtMV9xcUZqUTFTQloiLCJjb2duaXRvOnVzZXJuYW1lIjoiQkJBUkFKU0hBSElVTkkiLCJleHAiOjE1NzkxNzA5MTksImlhdCI6MTU3OTE2NzMxOX0.Zsjl-x9yp48-D8HYdRSesSnoxHtTo5T8vwuZbtpisbWkkKFdZmCDa_19hqQuZc9BSFP-ae2zLKbOHfYIVGvPgH1zDGq22fFvNYsRIDmqSUSLpUGj7DK6DFGw4upw83HUEJppKt7vn_jeRevxRaGxMvf6mwwFBAQ-f8p0kvozWiDX0ipXaTcIA3WQPpbOzP5YHCd67Hu74ZalCBEURnfiE_EAalG2Ois7RvRPyx_41tIM3A2xIkTzZFn2mtnzVMjnlMOGRPBXYeebMylbT_kKyGc27Bkf3naG-Hw_ia7rKQiUctuRxedPtoDVO_0fv6fHPSau0eDR6vFdVzHfQIyM4w",
+    "x-app-key:1g6t71ru2fjm1e9g3c5lhd5sm3"
+]
+Date:  2020-01-16 03:36:27pm : create Body:{
+    "amount": "1",
+    "currency": "BDT",
+    "intent": "sale",
+    "merchantInvoiceNumber": "202001160"
+}
+Date:  2020-01-16 03:36:28pm : create result:"{\"paymentID\":\"V47BBRM1579167388479\",\"createTime\":\"2020-01-16T09:36:28:532 GMT+0000\",\"orgLogo\":\"BBARAJSHAHIUNI.png\",\"orgName\":\"Bangla Bivag Alumni,RU\",\"transactionStatus\":\"Initiated\",\"amount\":\"1\",\"currency\":\"BDT\",\"intent\":\"sale\",\"merchantInvoiceNumber\":\"202001160\"}"
+Date:  2020-01-16 03:37:14pm : create url:"https:\/\/checkout.pay.bka.sh\/v1.2.0-beta\/checkout\/payment\/create"
+Date:  2020-01-16 03:37:14pm : create Heder:[
+    "Content-Type:application\/json",
+    "authorization:eyJraWQiOiI4aEo0YWZHMHRPQ2huSzBCT1FhTWZ4RUhEWmJRMU8wTGo0NStjUnZzRWJJPSIsImFsZyI6IlJTMjU2In0.eyJzdWIiOiIwNDc2YzVmNy02YzMxLTQ5MWItODU4Ny04YzcyY2FjMmU5NDQiLCJhdWQiOiIxZzZ0NzFydTJmam0xZTlnM2M1bGhkNXNtMyIsImV2ZW50X2lkIjoiZTE5YjgxYTYtNzQ4Ni00ZWUzLWE0NDItZjAzY2ZkYmIzODYxIiwidG9rZW5fdXNlIjoiaWQiLCJhdXRoX3RpbWUiOjE1NzkxNjczMTksImlzcyI6Imh0dHBzOlwvXC9jb2duaXRvLWlkcC5hcC1zb3V0aGVhc3QtMS5hbWF6b25hd3MuY29tXC9hcC1zb3V0aGVhc3QtMV9xcUZqUTFTQloiLCJjb2duaXRvOnVzZXJuYW1lIjoiQkJBUkFKU0hBSElVTkkiLCJleHAiOjE1NzkxNzA5MTksImlhdCI6MTU3OTE2NzMxOX0.Zsjl-x9yp48-D8HYdRSesSnoxHtTo5T8vwuZbtpisbWkkKFdZmCDa_19hqQuZc9BSFP-ae2zLKbOHfYIVGvPgH1zDGq22fFvNYsRIDmqSUSLpUGj7DK6DFGw4upw83HUEJppKt7vn_jeRevxRaGxMvf6mwwFBAQ-f8p0kvozWiDX0ipXaTcIA3WQPpbOzP5YHCd67Hu74ZalCBEURnfiE_EAalG2Ois7RvRPyx_41tIM3A2xIkTzZFn2mtnzVMjnlMOGRPBXYeebMylbT_kKyGc27Bkf3naG-Hw_ia7rKQiUctuRxedPtoDVO_0fv6fHPSau0eDR6vFdVzHfQIyM4w",
+    "x-app-key:1g6t71ru2fjm1e9g3c5lhd5sm3"
+]
+Date:  2020-01-16 03:37:14pm : create Body:{
+    "amount": "1",
+    "currency": "BDT",
+    "intent": "sale",
+    "merchantInvoiceNumber": "202001160006"
+}
+Date:  2020-01-16 03:37:15pm : create result:"{\"paymentID\":\"LDEKQOQ1579167435371\",\"createTime\":\"2020-01-16T09:37:15:398 GMT+0000\",\"orgLogo\":\"BBARAJSHAHIUNI.png\",\"orgName\":\"Bangla Bivag Alumni,RU\",\"transactionStatus\":\"Initiated\",\"amount\":\"1\",\"currency\":\"BDT\",\"intent\":\"sale\",\"merchantInvoiceNumber\":\"202001160006\"}"
+Date:  2020-01-16 04:14:18pm : create url:"https:\/\/checkout.pay.bka.sh\/v1.2.0-beta\/checkout\/payment\/create"
+Date:  2020-01-16 04:14:18pm : create Heder:[
+    "Content-Type:application\/json",
+    "authorization:eyJraWQiOiI4aEo0YWZHMHRPQ2huSzBCT1FhTWZ4RUhEWmJRMU8wTGo0NStjUnZzRWJJPSIsImFsZyI6IlJTMjU2In0.eyJzdWIiOiIwNDc2YzVmNy02YzMxLTQ5MWItODU4Ny04YzcyY2FjMmU5NDQiLCJhdWQiOiIxZzZ0NzFydTJmam0xZTlnM2M1bGhkNXNtMyIsImV2ZW50X2lkIjoiZTE5YjgxYTYtNzQ4Ni00ZWUzLWE0NDItZjAzY2ZkYmIzODYxIiwidG9rZW5fdXNlIjoiaWQiLCJhdXRoX3RpbWUiOjE1NzkxNjczMTksImlzcyI6Imh0dHBzOlwvXC9jb2duaXRvLWlkcC5hcC1zb3V0aGVhc3QtMS5hbWF6b25hd3MuY29tXC9hcC1zb3V0aGVhc3QtMV9xcUZqUTFTQloiLCJjb2duaXRvOnVzZXJuYW1lIjoiQkJBUkFKU0hBSElVTkkiLCJleHAiOjE1NzkxNzA5MTksImlhdCI6MTU3OTE2NzMxOX0.Zsjl-x9yp48-D8HYdRSesSnoxHtTo5T8vwuZbtpisbWkkKFdZmCDa_19hqQuZc9BSFP-ae2zLKbOHfYIVGvPgH1zDGq22fFvNYsRIDmqSUSLpUGj7DK6DFGw4upw83HUEJppKt7vn_jeRevxRaGxMvf6mwwFBAQ-f8p0kvozWiDX0ipXaTcIA3WQPpbOzP5YHCd67Hu74ZalCBEURnfiE_EAalG2Ois7RvRPyx_41tIM3A2xIkTzZFn2mtnzVMjnlMOGRPBXYeebMylbT_kKyGc27Bkf3naG-Hw_ia7rKQiUctuRxedPtoDVO_0fv6fHPSau0eDR6vFdVzHfQIyM4w",
+    "x-app-key:1g6t71ru2fjm1e9g3c5lhd5sm3"
+]
+Date:  2020-01-16 04:14:18pm : create Body:{
+    "amount": "3",
+    "currency": "BDT",
+    "intent": "sale",
+    "merchantInvoiceNumber": "2020011600065"
+}
+Date:  2020-01-16 04:14:19pm : create result:"{\"paymentID\":\"2Q1TODR1579169659642\",\"createTime\":\"2020-01-16T10:14:19:708 GMT+0000\",\"orgLogo\":\"BBARAJSHAHIUNI.png\",\"orgName\":\"Bangla Bivag Alumni,RU\",\"transactionStatus\":\"Initiated\",\"amount\":\"3\",\"currency\":\"BDT\",\"intent\":\"sale\",\"merchantInvoiceNumber\":\"2020011600065\"}"
+Date:  2020-01-16 04:15:38pm : create url:"https:\/\/checkout.pay.bka.sh\/v1.2.0-beta\/checkout\/payment\/create"
+Date:  2020-01-16 04:15:38pm : create Heder:[
+    "Content-Type:application\/json",
+    "authorization:eyJraWQiOiI4aEo0YWZHMHRPQ2huSzBCT1FhTWZ4RUhEWmJRMU8wTGo0NStjUnZzRWJJPSIsImFsZyI6IlJTMjU2In0.eyJzdWIiOiIwNDc2YzVmNy02YzMxLTQ5MWItODU4Ny04YzcyY2FjMmU5NDQiLCJhdWQiOiIxZzZ0NzFydTJmam0xZTlnM2M1bGhkNXNtMyIsImV2ZW50X2lkIjoiZTE5YjgxYTYtNzQ4Ni00ZWUzLWE0NDItZjAzY2ZkYmIzODYxIiwidG9rZW5fdXNlIjoiaWQiLCJhdXRoX3RpbWUiOjE1NzkxNjczMTksImlzcyI6Imh0dHBzOlwvXC9jb2duaXRvLWlkcC5hcC1zb3V0aGVhc3QtMS5hbWF6b25hd3MuY29tXC9hcC1zb3V0aGVhc3QtMV9xcUZqUTFTQloiLCJjb2duaXRvOnVzZXJuYW1lIjoiQkJBUkFKU0hBSElVTkkiLCJleHAiOjE1NzkxNzA5MTksImlhdCI6MTU3OTE2NzMxOX0.Zsjl-x9yp48-D8HYdRSesSnoxHtTo5T8vwuZbtpisbWkkKFdZmCDa_19hqQuZc9BSFP-ae2zLKbOHfYIVGvPgH1zDGq22fFvNYsRIDmqSUSLpUGj7DK6DFGw4upw83HUEJppKt7vn_jeRevxRaGxMvf6mwwFBAQ-f8p0kvozWiDX0ipXaTcIA3WQPpbOzP5YHCd67Hu74ZalCBEURnfiE_EAalG2Ois7RvRPyx_41tIM3A2xIkTzZFn2mtnzVMjnlMOGRPBXYeebMylbT_kKyGc27Bkf3naG-Hw_ia7rKQiUctuRxedPtoDVO_0fv6fHPSau0eDR6vFdVzHfQIyM4w",
+    "x-app-key:1g6t71ru2fjm1e9g3c5lhd5sm3"
+]
+Date:  2020-01-16 04:15:38pm : create Body:{
+    "amount": "3",
+    "currency": "BDT",
+    "intent": "sale",
+    "merchantInvoiceNumber": "2020011600066"
+}
+Date:  2020-01-16 04:15:39pm : create result:"{\"paymentID\":\"DHZ4BBR1579169739671\",\"createTime\":\"2020-01-16T10:15:39:702 GMT+0000\",\"orgLogo\":\"BBARAJSHAHIUNI.png\",\"orgName\":\"Bangla Bivag Alumni,RU\",\"transactionStatus\":\"Initiated\",\"amount\":\"3\",\"currency\":\"BDT\",\"intent\":\"sale\",\"merchantInvoiceNumber\":\"2020011600066\"}"
+Date:  2020-01-16 04:16:53pm : create url:"https:\/\/checkout.pay.bka.sh\/v1.2.0-beta\/checkout\/payment\/create"
+Date:  2020-01-16 04:16:53pm : create Heder:[
+    "Content-Type:application\/json",
+    "authorization:eyJraWQiOiI4aEo0YWZHMHRPQ2huSzBCT1FhTWZ4RUhEWmJRMU8wTGo0NStjUnZzRWJJPSIsImFsZyI6IlJTMjU2In0.eyJzdWIiOiIwNDc2YzVmNy02YzMxLTQ5MWItODU4Ny04YzcyY2FjMmU5NDQiLCJhdWQiOiIxZzZ0NzFydTJmam0xZTlnM2M1bGhkNXNtMyIsImV2ZW50X2lkIjoiZTE5YjgxYTYtNzQ4Ni00ZWUzLWE0NDItZjAzY2ZkYmIzODYxIiwidG9rZW5fdXNlIjoiaWQiLCJhdXRoX3RpbWUiOjE1NzkxNjczMTksImlzcyI6Imh0dHBzOlwvXC9jb2duaXRvLWlkcC5hcC1zb3V0aGVhc3QtMS5hbWF6b25hd3MuY29tXC9hcC1zb3V0aGVhc3QtMV9xcUZqUTFTQloiLCJjb2duaXRvOnVzZXJuYW1lIjoiQkJBUkFKU0hBSElVTkkiLCJleHAiOjE1NzkxNzA5MTksImlhdCI6MTU3OTE2NzMxOX0.Zsjl-x9yp48-D8HYdRSesSnoxHtTo5T8vwuZbtpisbWkkKFdZmCDa_19hqQuZc9BSFP-ae2zLKbOHfYIVGvPgH1zDGq22fFvNYsRIDmqSUSLpUGj7DK6DFGw4upw83HUEJppKt7vn_jeRevxRaGxMvf6mwwFBAQ-f8p0kvozWiDX0ipXaTcIA3WQPpbOzP5YHCd67Hu74ZalCBEURnfiE_EAalG2Ois7RvRPyx_41tIM3A2xIkTzZFn2mtnzVMjnlMOGRPBXYeebMylbT_kKyGc27Bkf3naG-Hw_ia7rKQiUctuRxedPtoDVO_0fv6fHPSau0eDR6vFdVzHfQIyM4w",
+    "x-app-key:1g6t71ru2fjm1e9g3c5lhd5sm3"
+]
+Date:  2020-01-16 04:16:53pm : create Body:{
+    "amount": "1",
+    "currency": "BDT",
+    "intent": "sale",
+    "merchantInvoiceNumber": "20200116000"
+}
+Date:  2020-01-16 04:16:54pm : create result:"{\"paymentID\":\"B46PT1K1579169814500\",\"createTime\":\"2020-01-16T10:16:54:538 GMT+0000\",\"orgLogo\":\"BBARAJSHAHIUNI.png\",\"orgName\":\"Bangla Bivag Alumni,RU\",\"transactionStatus\":\"Initiated\",\"amount\":\"1\",\"currency\":\"BDT\",\"intent\":\"sale\",\"merchantInvoiceNumber\":\"20200116000\"}"
+Date:  2020-01-16 04:19:53pm : create url:"https:\/\/checkout.pay.bka.sh\/v1.2.0-beta\/checkout\/payment\/create"
+Date:  2020-01-16 04:19:53pm : create Heder:[
+    "Content-Type:application\/json",
+    "authorization:eyJraWQiOiI4aEo0YWZHMHRPQ2huSzBCT1FhTWZ4RUhEWmJRMU8wTGo0NStjUnZzRWJJPSIsImFsZyI6IlJTMjU2In0.eyJzdWIiOiIwNDc2YzVmNy02YzMxLTQ5MWItODU4Ny04YzcyY2FjMmU5NDQiLCJhdWQiOiIxZzZ0NzFydTJmam0xZTlnM2M1bGhkNXNtMyIsImV2ZW50X2lkIjoiZTE5YjgxYTYtNzQ4Ni00ZWUzLWE0NDItZjAzY2ZkYmIzODYxIiwidG9rZW5fdXNlIjoiaWQiLCJhdXRoX3RpbWUiOjE1NzkxNjczMTksImlzcyI6Imh0dHBzOlwvXC9jb2duaXRvLWlkcC5hcC1zb3V0aGVhc3QtMS5hbWF6b25hd3MuY29tXC9hcC1zb3V0aGVhc3QtMV9xcUZqUTFTQloiLCJjb2duaXRvOnVzZXJuYW1lIjoiQkJBUkFKU0hBSElVTkkiLCJleHAiOjE1NzkxNzA5MTksImlhdCI6MTU3OTE2NzMxOX0.Zsjl-x9yp48-D8HYdRSesSnoxHtTo5T8vwuZbtpisbWkkKFdZmCDa_19hqQuZc9BSFP-ae2zLKbOHfYIVGvPgH1zDGq22fFvNYsRIDmqSUSLpUGj7DK6DFGw4upw83HUEJppKt7vn_jeRevxRaGxMvf6mwwFBAQ-f8p0kvozWiDX0ipXaTcIA3WQPpbOzP5YHCd67Hu74ZalCBEURnfiE_EAalG2Ois7RvRPyx_41tIM3A2xIkTzZFn2mtnzVMjnlMOGRPBXYeebMylbT_kKyGc27Bkf3naG-Hw_ia7rKQiUctuRxedPtoDVO_0fv6fHPSau0eDR6vFdVzHfQIyM4w",
+    "x-app-key:1g6t71ru2fjm1e9g3c5lhd5sm3"
+]
+Date:  2020-01-16 04:19:53pm : create Body:{
+    "amount": "1",
+    "currency": "BDT",
+    "intent": "sale",
+    "merchantInvoiceNumber": "202001160006"
+}
+Date:  2020-01-16 04:19:53pm : create result:"{\"paymentID\":\"WI6WI3R1579169993829\",\"createTime\":\"2020-01-16T10:19:53:867 GMT+0000\",\"orgLogo\":\"BBARAJSHAHIUNI.png\",\"orgName\":\"Bangla Bivag Alumni,RU\",\"transactionStatus\":\"Initiated\",\"amount\":\"1\",\"currency\":\"BDT\",\"intent\":\"sale\",\"merchantInvoiceNumber\":\"202001160006\"}"
+Date:  2020-01-16 04:20:38pm : execute url:https://checkout.pay.bka.sh/v1.2.0-beta/checkout/payment/execute/WI6WI3R1579169993829
+Date:  2020-01-16 04:20:38pm : execute Heder:[
+    "Content-Type:application\/json",
+    "authorization:eyJraWQiOiI4aEo0YWZHMHRPQ2huSzBCT1FhTWZ4RUhEWmJRMU8wTGo0NStjUnZzRWJJPSIsImFsZyI6IlJTMjU2In0.eyJzdWIiOiIwNDc2YzVmNy02YzMxLTQ5MWItODU4Ny04YzcyY2FjMmU5NDQiLCJhdWQiOiIxZzZ0NzFydTJmam0xZTlnM2M1bGhkNXNtMyIsImV2ZW50X2lkIjoiZTE5YjgxYTYtNzQ4Ni00ZWUzLWE0NDItZjAzY2ZkYmIzODYxIiwidG9rZW5fdXNlIjoiaWQiLCJhdXRoX3RpbWUiOjE1NzkxNjczMTksImlzcyI6Imh0dHBzOlwvXC9jb2duaXRvLWlkcC5hcC1zb3V0aGVhc3QtMS5hbWF6b25hd3MuY29tXC9hcC1zb3V0aGVhc3QtMV9xcUZqUTFTQloiLCJjb2duaXRvOnVzZXJuYW1lIjoiQkJBUkFKU0hBSElVTkkiLCJleHAiOjE1NzkxNzA5MTksImlhdCI6MTU3OTE2NzMxOX0.Zsjl-x9yp48-D8HYdRSesSnoxHtTo5T8vwuZbtpisbWkkKFdZmCDa_19hqQuZc9BSFP-ae2zLKbOHfYIVGvPgH1zDGq22fFvNYsRIDmqSUSLpUGj7DK6DFGw4upw83HUEJppKt7vn_jeRevxRaGxMvf6mwwFBAQ-f8p0kvozWiDX0ipXaTcIA3WQPpbOzP5YHCd67Hu74ZalCBEURnfiE_EAalG2Ois7RvRPyx_41tIM3A2xIkTzZFn2mtnzVMjnlMOGRPBXYeebMylbT_kKyGc27Bkf3naG-Hw_ia7rKQiUctuRxedPtoDVO_0fv6fHPSau0eDR6vFdVzHfQIyM4w",
+    "x-app-key:1g6t71ru2fjm1e9g3c5lhd5sm3"
+]
+Date:  2020-01-16 04:20:40pm : execute result:"{\"paymentID\":\"WI6WI3R1579169993829\",\"createTime\":\"2020-01-16T10:19:53:867 GMT+0000\",\"updateTime\":\"2020-01-16T10:20:40:163 GMT+0000\",\"trxID\":\"7AG1UIPOJP\",\"transactionStatus\":\"Completed\",\"amount\":\"1\",\"currency\":\"BDT\",\"intent\":\"sale\",\"merchantInvoiceNumber\":\"202001160006\"}"
+Date:  2020-01-16 04:20:40pm : execute result02:{
+    "paymentID": "WI6WI3R1579169993829",
+    "createTime": "2020-01-16T10:19:53:867 GMT+0000",
+    "updateTime": "2020-01-16T10:20:40:163 GMT+0000",
+    "trxID": "7AG1UIPOJP",
+    "transactionStatus": "Completed",
+    "amount": "1",
+    "currency": "BDT",
+    "intent": "sale",
+    "merchantInvoiceNumber": "202001160006"
+}
+Date:  2020-01-16 05:04:56pm : Token url:"https:\/\/checkout.pay.bka.sh\/v1.2.0-beta\/checkout\/token\/grant"
+Date:  2020-01-16 05:04:56pm : Token Heder:[
+    "Content-Type:application\/json",
+    "password:y@mnT614CcVL",
+    "username:BBARAJSHAHIUNI"
+]
+Date:  2020-01-16 05:04:56pm : Token post:{
+    "app_key": "1g6t71ru2fjm1e9g3c5lhd5sm3",
+    "app_secret": "1r95mm8tdmjl7uo2e237r290hc0l7tutjffv62g3uu41a8ogpi4v"
+}
+Date:  2020-01-16 05:04:57pm : Token result:"{\"token_type\": \"Bearer\", \"id_token\": \"eyJraWQiOiI4aEo0YWZHMHRPQ2huSzBCT1FhTWZ4RUhEWmJRMU8wTGo0NStjUnZzRWJJPSIsImFsZyI6IlJTMjU2In0.eyJzdWIiOiIwNDc2YzVmNy02YzMxLTQ5MWItODU4Ny04YzcyY2FjMmU5NDQiLCJhdWQiOiIxZzZ0NzFydTJmam0xZTlnM2M1bGhkNXNtMyIsImV2ZW50X2lkIjoiNTBiOThhODktNzI1Mi00MGJmLWEzMWMtMTEwMGQzZmE5MWY3IiwidG9rZW5fdXNlIjoiaWQiLCJhdXRoX3RpbWUiOjE1NzkxNzI2OTcsImlzcyI6Imh0dHBzOlwvXC9jb2duaXRvLWlkcC5hcC1zb3V0aGVhc3QtMS5hbWF6b25hd3MuY29tXC9hcC1zb3V0aGVhc3QtMV9xcUZqUTFTQloiLCJjb2duaXRvOnVzZXJuYW1lIjoiQkJBUkFKU0hBSElVTkkiLCJleHAiOjE1NzkxNzYyOTcsImlhdCI6MTU3OTE3MjY5N30.drfYXoLPi36pxnkKCE5gG3NW1q2Y6AC7CHC2cnfJMovGE1U_1SK8OjOyPi1iN9dcKQ1-94wGfIaBmedfno88I4mYptcnQ4XrREg2KFPN_Ei615ywernxq73ilHZ5C7G-YaXmprMb_M2was5NvnzHWmTLzDz5Zi4FTBWTftyYuf9svX9fpJN7Xl-cI51Lp5gVdBol8eBZMUfYLZZp0JJRNY21nywz4BFofS6RO7zmJIinyWGT20t6Y91RSvRBgWhE6Yg2X-rUH_5fpSZseS0FLYG5KgBAy9Rp6mIvldMYtVVsePrpEBBF1MB0e8CIbomsdpiaiR5vyBRVpBMl2qb4CA\", \"expires_in\": 3600, \"refresh_token\": \"eyJjdHkiOiJKV1QiLCJlbmMiOiJBMjU2R0NNIiwiYWxnIjoiUlNBLU9BRVAifQ.YH6ntLS7fqpnsqk-CwbFYzKRD9OHmSZ9wuh2wgHW5x6YkzWXs3DGTuIl0zvamosh1vyV8CLjNg9l3lD0gw9Vor9ag0fd2mfGLKMwoUEhYqPikoAy8hik0sQCTkC5h0DtUYC0-CvrW68xJ5IOMCK6PgWzPLBWiqUpvhfJRM051XHhNIlkNpgSwnEHDkUJKTsciRTKv9sJcKrJTclYWlrX3X6ogUyt5ehTuNER8wdrN1YCqEHSid9_N45oZBxaRnJxaFStLGYo9l_O6QzssSIJpE9Jnh845RQhfKy_ou8XGPD_HQ33L6H5qr7w_dusdeS7E9vS4fDiBvkbALSH2QMknw.cPxlMzwkz-1jNFBO.jiGofmWXDdQHCfQFWzAWHebMWm3W1fufMaCcZ_UW2DiMiS3PEUzYh1cDW7wQUPYhJ_7pWXBWDhhoCxwgvvj2QfId324fGTuUy6Ulqc5zsq404BvV___9RQmoTq3hUlBH2r1Ed5b6DN7E3SpqZ3z1Kysb0BDsTyVPdU3WYfpe76TRSKwJgN0Dknt1jsY8nPkR_Tl-pd8ajcrdxuOvuBeUxnL_NJ8ZacLj3ajHt-tK5yEhMBG6UUdbYt2wJWayjZk1kOTenfzDl6KzU7OS9m_6l-OwaKlletLuQHqsI0IBromJHIpdf53javBsbzMo48TXd5mcZB6__cyBugxXtb_l_3WbQ2qznlBBCV9pYqI8XP6mES10rdtsr_ILlN_Ga23oUZiq6IWheZBlZ_PPXZbXq727u9SsF_40l4_JykAWPVzrMmSToKeOqy5OxYH24eTEsDjIFIi9Qo43mt6ncA9qxRm2bJbkpjzOh1-gN9DJJGoa-OhLTQFsgZxfZ5IgTVQCM2Wu9nmXIJ88vNBLKXQvWowtPqv0oUu2ytmrcV4r_DEPE6vXag5PaYHkpNCWJxxi3GW-6Tm3Z4DLO_1NDuPvfIoXepV7_BGHEpgfh0L7JuLzHdmwpkweTlj4MU7Rtge8iIqTE0l1jSS_wVx0A74x4GRNeoHAvt9UkKESQhNRNjtltC5qkDu2IfAZ2AXCCaTZvak2Kz1m7P3Mvhwj7UzjQA6voqUd9OVt267gA_UGWf_y6Bf6g1bEICDJPAgV7QfJFgjrTMsdrKL8DzR_vBFZB-qAXaHKxs9dFd5ejcM_sJ2NEn7E17eeVcefo3Vt2g-QLlmShEq3gtNcF8WsAwyn1JqIjb45ubePYg5o5PsH7KUhXHvX_aYZbgAZH8rB-K_KNZIFs_To_uHL18_BYo-MJwIBHFKHihLn-31aVCdCLrv8Evo0lViOgrOfIgz-DTOcuzf281YoG_Gncn1PnVj-7RYVB-EcJQJbaIHztlanzDWYG-ecVASHhCwMHTsIoyetKsgjZqu6eT5KfBUB11RaB_iqz176kD1VgHTegrSKgqV2SVzmbCWYU8MsKSCRtZV-PcQ9vAHOyeRhuSvKgvpVnOkRA1hQhyVm9kU93xuRiq09w69zYPYQhVb2v6sfKH3Qir3FF8PyW5Q4he3IS9-tFz0YTLlCAQjmw3AqlYiVTsULCCseWfYvIWSfbIVo9HEuwH_8TpXvFWVD0SJDUH95hCdfI2GjuJ_dmW6Mm6M3cUXj44TdnW7OzP88wuAoBIaGj9NxaQ7HdjZ2T-zs41-1xq0YCFiyXUpH_3KDIg.jpDbvLGOR5ImKvfG7N2kXw\"}"
+Date:  2020-01-16 05:04:57pm : create url:"https:\/\/checkout.pay.bka.sh\/v1.2.0-beta\/checkout\/payment\/create"
+Date:  2020-01-16 05:04:57pm : create Heder:[
+    "Content-Type:application\/json",
+    "authorization:eyJraWQiOiI4aEo0YWZHMHRPQ2huSzBCT1FhTWZ4RUhEWmJRMU8wTGo0NStjUnZzRWJJPSIsImFsZyI6IlJTMjU2In0.eyJzdWIiOiIwNDc2YzVmNy02YzMxLTQ5MWItODU4Ny04YzcyY2FjMmU5NDQiLCJhdWQiOiIxZzZ0NzFydTJmam0xZTlnM2M1bGhkNXNtMyIsImV2ZW50X2lkIjoiNTBiOThhODktNzI1Mi00MGJmLWEzMWMtMTEwMGQzZmE5MWY3IiwidG9rZW5fdXNlIjoiaWQiLCJhdXRoX3RpbWUiOjE1NzkxNzI2OTcsImlzcyI6Imh0dHBzOlwvXC9jb2duaXRvLWlkcC5hcC1zb3V0aGVhc3QtMS5hbWF6b25hd3MuY29tXC9hcC1zb3V0aGVhc3QtMV9xcUZqUTFTQloiLCJjb2duaXRvOnVzZXJuYW1lIjoiQkJBUkFKU0hBSElVTkkiLCJleHAiOjE1NzkxNzYyOTcsImlhdCI6MTU3OTE3MjY5N30.drfYXoLPi36pxnkKCE5gG3NW1q2Y6AC7CHC2cnfJMovGE1U_1SK8OjOyPi1iN9dcKQ1-94wGfIaBmedfno88I4mYptcnQ4XrREg2KFPN_Ei615ywernxq73ilHZ5C7G-YaXmprMb_M2was5NvnzHWmTLzDz5Zi4FTBWTftyYuf9svX9fpJN7Xl-cI51Lp5gVdBol8eBZMUfYLZZp0JJRNY21nywz4BFofS6RO7zmJIinyWGT20t6Y91RSvRBgWhE6Yg2X-rUH_5fpSZseS0FLYG5KgBAy9Rp6mIvldMYtVVsePrpEBBF1MB0e8CIbomsdpiaiR5vyBRVpBMl2qb4CA",
+    "x-app-key:1g6t71ru2fjm1e9g3c5lhd5sm3"
+]
+Date:  2020-01-16 05:04:57pm : create Body:{
+    "amount": "3",
+    "currency": "BDT",
+    "intent": "sale",
+    "merchantInvoiceNumber": "2020011600070"
+}
+Date:  2020-01-16 05:04:58pm : create result:"{\"paymentID\":\"AQ6F5KV1579172698397\",\"createTime\":\"2020-01-16T11:04:58:433 GMT+0000\",\"orgLogo\":\"BBARAJSHAHIUNI.png\",\"orgName\":\"Bangla Bivag Alumni,RU\",\"transactionStatus\":\"Initiated\",\"amount\":\"3\",\"currency\":\"BDT\",\"intent\":\"sale\",\"merchantInvoiceNumber\":\"2020011600070\"}"
+Date:  2020-01-16 05:05:45pm : execute url:https://checkout.pay.bka.sh/v1.2.0-beta/checkout/payment/execute/AQ6F5KV1579172698397
+Date:  2020-01-16 05:05:45pm : execute Heder:[
+    "Content-Type:application\/json",
+    "authorization:eyJraWQiOiI4aEo0YWZHMHRPQ2huSzBCT1FhTWZ4RUhEWmJRMU8wTGo0NStjUnZzRWJJPSIsImFsZyI6IlJTMjU2In0.eyJzdWIiOiIwNDc2YzVmNy02YzMxLTQ5MWItODU4Ny04YzcyY2FjMmU5NDQiLCJhdWQiOiIxZzZ0NzFydTJmam0xZTlnM2M1bGhkNXNtMyIsImV2ZW50X2lkIjoiNTBiOThhODktNzI1Mi00MGJmLWEzMWMtMTEwMGQzZmE5MWY3IiwidG9rZW5fdXNlIjoiaWQiLCJhdXRoX3RpbWUiOjE1NzkxNzI2OTcsImlzcyI6Imh0dHBzOlwvXC9jb2duaXRvLWlkcC5hcC1zb3V0aGVhc3QtMS5hbWF6b25hd3MuY29tXC9hcC1zb3V0aGVhc3QtMV9xcUZqUTFTQloiLCJjb2duaXRvOnVzZXJuYW1lIjoiQkJBUkFKU0hBSElVTkkiLCJleHAiOjE1NzkxNzYyOTcsImlhdCI6MTU3OTE3MjY5N30.drfYXoLPi36pxnkKCE5gG3NW1q2Y6AC7CHC2cnfJMovGE1U_1SK8OjOyPi1iN9dcKQ1-94wGfIaBmedfno88I4mYptcnQ4XrREg2KFPN_Ei615ywernxq73ilHZ5C7G-YaXmprMb_M2was5NvnzHWmTLzDz5Zi4FTBWTftyYuf9svX9fpJN7Xl-cI51Lp5gVdBol8eBZMUfYLZZp0JJRNY21nywz4BFofS6RO7zmJIinyWGT20t6Y91RSvRBgWhE6Yg2X-rUH_5fpSZseS0FLYG5KgBAy9Rp6mIvldMYtVVsePrpEBBF1MB0e8CIbomsdpiaiR5vyBRVpBMl2qb4CA",
+    "x-app-key:1g6t71ru2fjm1e9g3c5lhd5sm3"
+]
+Date:  2020-01-16 05:05:47pm : execute result:"{\"errorCode\":\"2023\",\"errorMessage\":\"Insufficient Balance\"}"
+Date:  2020-01-16 05:05:47pm : execute result02:{
+    "errorCode": "2023",
+    "errorMessage": "Insufficient Balance"
+}
+Date:  2020-01-16 05:07:34pm : create url:"https:\/\/checkout.pay.bka.sh\/v1.2.0-beta\/checkout\/payment\/create"
+Date:  2020-01-16 05:07:34pm : create Heder:[
+    "Content-Type:application\/json",
+    "authorization:eyJraWQiOiI4aEo0YWZHMHRPQ2huSzBCT1FhTWZ4RUhEWmJRMU8wTGo0NStjUnZzRWJJPSIsImFsZyI6IlJTMjU2In0.eyJzdWIiOiIwNDc2YzVmNy02YzMxLTQ5MWItODU4Ny04YzcyY2FjMmU5NDQiLCJhdWQiOiIxZzZ0NzFydTJmam0xZTlnM2M1bGhkNXNtMyIsImV2ZW50X2lkIjoiNTBiOThhODktNzI1Mi00MGJmLWEzMWMtMTEwMGQzZmE5MWY3IiwidG9rZW5fdXNlIjoiaWQiLCJhdXRoX3RpbWUiOjE1NzkxNzI2OTcsImlzcyI6Imh0dHBzOlwvXC9jb2duaXRvLWlkcC5hcC1zb3V0aGVhc3QtMS5hbWF6b25hd3MuY29tXC9hcC1zb3V0aGVhc3QtMV9xcUZqUTFTQloiLCJjb2duaXRvOnVzZXJuYW1lIjoiQkJBUkFKU0hBSElVTkkiLCJleHAiOjE1NzkxNzYyOTcsImlhdCI6MTU3OTE3MjY5N30.drfYXoLPi36pxnkKCE5gG3NW1q2Y6AC7CHC2cnfJMovGE1U_1SK8OjOyPi1iN9dcKQ1-94wGfIaBmedfno88I4mYptcnQ4XrREg2KFPN_Ei615ywernxq73ilHZ5C7G-YaXmprMb_M2was5NvnzHWmTLzDz5Zi4FTBWTftyYuf9svX9fpJN7Xl-cI51Lp5gVdBol8eBZMUfYLZZp0JJRNY21nywz4BFofS6RO7zmJIinyWGT20t6Y91RSvRBgWhE6Yg2X-rUH_5fpSZseS0FLYG5KgBAy9Rp6mIvldMYtVVsePrpEBBF1MB0e8CIbomsdpiaiR5vyBRVpBMl2qb4CA",
+    "x-app-key:1g6t71ru2fjm1e9g3c5lhd5sm3"
+]
+Date:  2020-01-16 05:07:34pm : create Body:{
+    "amount": "3",
+    "currency": "BDT",
+    "intent": "sale",
+    "merchantInvoiceNumber": "2020011600070"
+}
+Date:  2020-01-16 05:07:34pm : create result:"{\"paymentID\":\"KG3LZ0W1579172854821\",\"createTime\":\"2020-01-16T11:07:34:845 GMT+0000\",\"orgLogo\":\"BBARAJSHAHIUNI.png\",\"orgName\":\"Bangla Bivag Alumni,RU\",\"transactionStatus\":\"Initiated\",\"amount\":\"3\",\"currency\":\"BDT\",\"intent\":\"sale\",\"merchantInvoiceNumber\":\"2020011600070\"}"
+Date:  2020-01-16 05:08:29pm : execute url:https://checkout.pay.bka.sh/v1.2.0-beta/checkout/payment/execute/KG3LZ0W1579172854821
+Date:  2020-01-16 05:08:29pm : execute Heder:[
+    "Content-Type:application\/json",
+    "authorization:eyJraWQiOiI4aEo0YWZHMHRPQ2huSzBCT1FhTWZ4RUhEWmJRMU8wTGo0NStjUnZzRWJJPSIsImFsZyI6IlJTMjU2In0.eyJzdWIiOiIwNDc2YzVmNy02YzMxLTQ5MWItODU4Ny04YzcyY2FjMmU5NDQiLCJhdWQiOiIxZzZ0NzFydTJmam0xZTlnM2M1bGhkNXNtMyIsImV2ZW50X2lkIjoiNTBiOThhODktNzI1Mi00MGJmLWEzMWMtMTEwMGQzZmE5MWY3IiwidG9rZW5fdXNlIjoiaWQiLCJhdXRoX3RpbWUiOjE1NzkxNzI2OTcsImlzcyI6Imh0dHBzOlwvXC9jb2duaXRvLWlkcC5hcC1zb3V0aGVhc3QtMS5hbWF6b25hd3MuY29tXC9hcC1zb3V0aGVhc3QtMV9xcUZqUTFTQloiLCJjb2duaXRvOnVzZXJuYW1lIjoiQkJBUkFKU0hBSElVTkkiLCJleHAiOjE1NzkxNzYyOTcsImlhdCI6MTU3OTE3MjY5N30.drfYXoLPi36pxnkKCE5gG3NW1q2Y6AC7CHC2cnfJMovGE1U_1SK8OjOyPi1iN9dcKQ1-94wGfIaBmedfno88I4mYptcnQ4XrREg2KFPN_Ei615ywernxq73ilHZ5C7G-YaXmprMb_M2was5NvnzHWmTLzDz5Zi4FTBWTftyYuf9svX9fpJN7Xl-cI51Lp5gVdBol8eBZMUfYLZZp0JJRNY21nywz4BFofS6RO7zmJIinyWGT20t6Y91RSvRBgWhE6Yg2X-rUH_5fpSZseS0FLYG5KgBAy9Rp6mIvldMYtVVsePrpEBBF1MB0e8CIbomsdpiaiR5vyBRVpBMl2qb4CA",
+    "x-app-key:1g6t71ru2fjm1e9g3c5lhd5sm3"
+]
+Date:  2020-01-16 05:08:31pm : execute result:"{\"errorCode\":\"2038\",\"errorMessage\":\"Debit party identity tag prohibits execution of this transaction.\"}"
+Date:  2020-01-16 05:08:31pm : execute result02:{
+    "errorCode": "2038",
+    "errorMessage": "Debit party identity tag prohibits execution of this transaction."
+}
+Date:  2020-01-16 05:08:41pm : create url:"https:\/\/checkout.pay.bka.sh\/v1.2.0-beta\/checkout\/payment\/create"
+Date:  2020-01-16 05:08:41pm : create Heder:[
+    "Content-Type:application\/json",
+    "authorization:eyJraWQiOiI4aEo0YWZHMHRPQ2huSzBCT1FhTWZ4RUhEWmJRMU8wTGo0NStjUnZzRWJJPSIsImFsZyI6IlJTMjU2In0.eyJzdWIiOiIwNDc2YzVmNy02YzMxLTQ5MWItODU4Ny04YzcyY2FjMmU5NDQiLCJhdWQiOiIxZzZ0NzFydTJmam0xZTlnM2M1bGhkNXNtMyIsImV2ZW50X2lkIjoiNTBiOThhODktNzI1Mi00MGJmLWEzMWMtMTEwMGQzZmE5MWY3IiwidG9rZW5fdXNlIjoiaWQiLCJhdXRoX3RpbWUiOjE1NzkxNzI2OTcsImlzcyI6Imh0dHBzOlwvXC9jb2duaXRvLWlkcC5hcC1zb3V0aGVhc3QtMS5hbWF6b25hd3MuY29tXC9hcC1zb3V0aGVhc3QtMV9xcUZqUTFTQloiLCJjb2duaXRvOnVzZXJuYW1lIjoiQkJBUkFKU0hBSElVTkkiLCJleHAiOjE1NzkxNzYyOTcsImlhdCI6MTU3OTE3MjY5N30.drfYXoLPi36pxnkKCE5gG3NW1q2Y6AC7CHC2cnfJMovGE1U_1SK8OjOyPi1iN9dcKQ1-94wGfIaBmedfno88I4mYptcnQ4XrREg2KFPN_Ei615ywernxq73ilHZ5C7G-YaXmprMb_M2was5NvnzHWmTLzDz5Zi4FTBWTftyYuf9svX9fpJN7Xl-cI51Lp5gVdBol8eBZMUfYLZZp0JJRNY21nywz4BFofS6RO7zmJIinyWGT20t6Y91RSvRBgWhE6Yg2X-rUH_5fpSZseS0FLYG5KgBAy9Rp6mIvldMYtVVsePrpEBBF1MB0e8CIbomsdpiaiR5vyBRVpBMl2qb4CA",
+    "x-app-key:1g6t71ru2fjm1e9g3c5lhd5sm3"
+]
+Date:  2020-01-16 05:08:41pm : create Body:{
+    "amount": "3",
+    "currency": "BDT",
+    "intent": "sale",
+    "merchantInvoiceNumber": "2020011600070"
+}
+Date:  2020-01-16 05:08:42pm : create result:"{\"paymentID\":\"16F6WW41579172922563\",\"createTime\":\"2020-01-16T11:08:42:609 GMT+0000\",\"orgLogo\":\"BBARAJSHAHIUNI.png\",\"orgName\":\"Bangla Bivag Alumni,RU\",\"transactionStatus\":\"Initiated\",\"amount\":\"3\",\"currency\":\"BDT\",\"intent\":\"sale\",\"merchantInvoiceNumber\":\"2020011600070\"}"
+Date:  2020-01-16 05:09:17pm : execute url:https://checkout.pay.bka.sh/v1.2.0-beta/checkout/payment/execute/16F6WW41579172922563
+Date:  2020-01-16 05:09:17pm : execute Heder:[
+    "Content-Type:application\/json",
+    "authorization:eyJraWQiOiI4aEo0YWZHMHRPQ2huSzBCT1FhTWZ4RUhEWmJRMU8wTGo0NStjUnZzRWJJPSIsImFsZyI6IlJTMjU2In0.eyJzdWIiOiIwNDc2YzVmNy02YzMxLTQ5MWItODU4Ny04YzcyY2FjMmU5NDQiLCJhdWQiOiIxZzZ0NzFydTJmam0xZTlnM2M1bGhkNXNtMyIsImV2ZW50X2lkIjoiNTBiOThhODktNzI1Mi00MGJmLWEzMWMtMTEwMGQzZmE5MWY3IiwidG9rZW5fdXNlIjoiaWQiLCJhdXRoX3RpbWUiOjE1NzkxNzI2OTcsImlzcyI6Imh0dHBzOlwvXC9jb2duaXRvLWlkcC5hcC1zb3V0aGVhc3QtMS5hbWF6b25hd3MuY29tXC9hcC1zb3V0aGVhc3QtMV9xcUZqUTFTQloiLCJjb2duaXRvOnVzZXJuYW1lIjoiQkJBUkFKU0hBSElVTkkiLCJleHAiOjE1NzkxNzYyOTcsImlhdCI6MTU3OTE3MjY5N30.drfYXoLPi36pxnkKCE5gG3NW1q2Y6AC7CHC2cnfJMovGE1U_1SK8OjOyPi1iN9dcKQ1-94wGfIaBmedfno88I4mYptcnQ4XrREg2KFPN_Ei615ywernxq73ilHZ5C7G-YaXmprMb_M2was5NvnzHWmTLzDz5Zi4FTBWTftyYuf9svX9fpJN7Xl-cI51Lp5gVdBol8eBZMUfYLZZp0JJRNY21nywz4BFofS6RO7zmJIinyWGT20t6Y91RSvRBgWhE6Yg2X-rUH_5fpSZseS0FLYG5KgBAy9Rp6mIvldMYtVVsePrpEBBF1MB0e8CIbomsdpiaiR5vyBRVpBMl2qb4CA",
+    "x-app-key:1g6t71ru2fjm1e9g3c5lhd5sm3"
+]
+Date:  2020-01-16 05:09:19pm : execute result:"{\"paymentID\":\"16F6WW41579172922563\",\"createTime\":\"2020-01-16T11:08:42:609 GMT+0000\",\"updateTime\":\"2020-01-16T11:09:19:032 GMT+0000\",\"trxID\":\"7AG0UJSAPI\",\"transactionStatus\":\"Completed\",\"amount\":\"3\",\"currency\":\"BDT\",\"intent\":\"sale\",\"merchantInvoiceNumber\":\"2020011600070\"}"
+Date:  2020-01-16 05:09:19pm : execute result02:{
+    "paymentID": "16F6WW41579172922563",
+    "createTime": "2020-01-16T11:08:42:609 GMT+0000",
+    "updateTime": "2020-01-16T11:09:19:032 GMT+0000",
+    "trxID": "7AG0UJSAPI",
+    "transactionStatus": "Completed",
+    "amount": "3",
+    "currency": "BDT",
+    "intent": "sale",
+    "merchantInvoiceNumber": "2020011600070"
+}
+Date:  2020-01-16 05:09:39pm : create url:"https:\/\/checkout.pay.bka.sh\/v1.2.0-beta\/checkout\/payment\/create"
+Date:  2020-01-16 05:09:39pm : create Heder:[
+    "Content-Type:application\/json",
+    "authorization:eyJraWQiOiI4aEo0YWZHMHRPQ2huSzBCT1FhTWZ4RUhEWmJRMU8wTGo0NStjUnZzRWJJPSIsImFsZyI6IlJTMjU2In0.eyJzdWIiOiIwNDc2YzVmNy02YzMxLTQ5MWItODU4Ny04YzcyY2FjMmU5NDQiLCJhdWQiOiIxZzZ0NzFydTJmam0xZTlnM2M1bGhkNXNtMyIsImV2ZW50X2lkIjoiNTBiOThhODktNzI1Mi00MGJmLWEzMWMtMTEwMGQzZmE5MWY3IiwidG9rZW5fdXNlIjoiaWQiLCJhdXRoX3RpbWUiOjE1NzkxNzI2OTcsImlzcyI6Imh0dHBzOlwvXC9jb2duaXRvLWlkcC5hcC1zb3V0aGVhc3QtMS5hbWF6b25hd3MuY29tXC9hcC1zb3V0aGVhc3QtMV9xcUZqUTFTQloiLCJjb2duaXRvOnVzZXJuYW1lIjoiQkJBUkFKU0hBSElVTkkiLCJleHAiOjE1NzkxNzYyOTcsImlhdCI6MTU3OTE3MjY5N30.drfYXoLPi36pxnkKCE5gG3NW1q2Y6AC7CHC2cnfJMovGE1U_1SK8OjOyPi1iN9dcKQ1-94wGfIaBmedfno88I4mYptcnQ4XrREg2KFPN_Ei615ywernxq73ilHZ5C7G-YaXmprMb_M2was5NvnzHWmTLzDz5Zi4FTBWTftyYuf9svX9fpJN7Xl-cI51Lp5gVdBol8eBZMUfYLZZp0JJRNY21nywz4BFofS6RO7zmJIinyWGT20t6Y91RSvRBgWhE6Yg2X-rUH_5fpSZseS0FLYG5KgBAy9Rp6mIvldMYtVVsePrpEBBF1MB0e8CIbomsdpiaiR5vyBRVpBMl2qb4CA",
+    "x-app-key:1g6t71ru2fjm1e9g3c5lhd5sm3"
+]
+Date:  2020-01-16 05:09:39pm : create Body:{
+    "amount": "3",
+    "currency": "BDT",
+    "intent": "sale",
+    "merchantInvoiceNumber": "2020011600070"
+}
+Date:  2020-01-16 05:09:40pm : create result:"{\"paymentID\":\"A91GYEE1579172980268\",\"createTime\":\"2020-01-16T11:09:40:298 GMT+0000\",\"orgLogo\":\"BBARAJSHAHIUNI.png\",\"orgName\":\"Bangla Bivag Alumni,RU\",\"transactionStatus\":\"Initiated\",\"amount\":\"3\",\"currency\":\"BDT\",\"intent\":\"sale\",\"merchantInvoiceNumber\":\"2020011600070\"}"
+Date:  2020-01-16 05:10:17pm : execute url:https://checkout.pay.bka.sh/v1.2.0-beta/checkout/payment/execute/A91GYEE1579172980268
+Date:  2020-01-16 05:10:17pm : execute Heder:[
+    "Content-Type:application\/json",
+    "authorization:eyJraWQiOiI4aEo0YWZHMHRPQ2huSzBCT1FhTWZ4RUhEWmJRMU8wTGo0NStjUnZzRWJJPSIsImFsZyI6IlJTMjU2In0.eyJzdWIiOiIwNDc2YzVmNy02YzMxLTQ5MWItODU4Ny04YzcyY2FjMmU5NDQiLCJhdWQiOiIxZzZ0NzFydTJmam0xZTlnM2M1bGhkNXNtMyIsImV2ZW50X2lkIjoiNTBiOThhODktNzI1Mi00MGJmLWEzMWMtMTEwMGQzZmE5MWY3IiwidG9rZW5fdXNlIjoiaWQiLCJhdXRoX3RpbWUiOjE1NzkxNzI2OTcsImlzcyI6Imh0dHBzOlwvXC9jb2duaXRvLWlkcC5hcC1zb3V0aGVhc3QtMS5hbWF6b25hd3MuY29tXC9hcC1zb3V0aGVhc3QtMV9xcUZqUTFTQloiLCJjb2duaXRvOnVzZXJuYW1lIjoiQkJBUkFKU0hBSElVTkkiLCJleHAiOjE1NzkxNzYyOTcsImlhdCI6MTU3OTE3MjY5N30.drfYXoLPi36pxnkKCE5gG3NW1q2Y6AC7CHC2cnfJMovGE1U_1SK8OjOyPi1iN9dcKQ1-94wGfIaBmedfno88I4mYptcnQ4XrREg2KFPN_Ei615ywernxq73ilHZ5C7G-YaXmprMb_M2was5NvnzHWmTLzDz5Zi4FTBWTftyYuf9svX9fpJN7Xl-cI51Lp5gVdBol8eBZMUfYLZZp0JJRNY21nywz4BFofS6RO7zmJIinyWGT20t6Y91RSvRBgWhE6Yg2X-rUH_5fpSZseS0FLYG5KgBAy9Rp6mIvldMYtVVsePrpEBBF1MB0e8CIbomsdpiaiR5vyBRVpBMl2qb4CA",
+    "x-app-key:1g6t71ru2fjm1e9g3c5lhd5sm3"
+]
+Date:  2020-01-16 05:10:19pm : execute result:"{\"errorCode\":\"2029\",\"errorMessage\":\"Duplicate for All Transactions\"}"
+Date:  2020-01-16 05:10:19pm : execute result02:{
+    "errorCode": "2029",
+    "errorMessage": "Duplicate for All Transactions"
+}
+Date:  2020-01-16 06:18:00pm : save result:null
+Date:  2020-01-16 06:18:13pm : save result:null
+Date:  2020-01-16 06:18:26pm : save result:null
+Date:  2020-01-16 06:19:12pm : save result:null

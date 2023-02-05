@@ -1,0 +1,74 @@
+Date:  2022-11-16 08:28:05pm : Token url:"https:\/\/checkout.sandbox.bka.sh\/v1.2.0-beta\/checkout\/token\/grant"
+Date:  2022-11-16 08:28:05pm : Token Heder:[
+    "Content-Type:application\/json",
+    "password:test%#de23@msdao",
+    "username:testdemo"
+]
+Date:  2022-11-16 08:28:05pm : Token post:{
+    "app_key": "5nej5keguopj928ekcj3dne8p",
+    "app_secret": "1honf6u1c56mqcivtc9ffl960slp4v2756jle5925nbooa46ch62"
+}
+Date:  2022-11-16 08:28:06pm : Token result:"{\"id_token\": \"eyJraWQiOiJmalhJQmwxclFUXC9hM215MG9ScXpEdVZZWk5KXC9qRTNJOFBaeGZUY3hlamc9IiwiYWxnIjoiUlMyNTYifQ.eyJzdWIiOiI4ZGU4ZjBlMC1mY2RjLTQyNzMtYjY4YS1iNDAwOWNjZjc3ZDEiLCJhdWQiOiI2NmEwdGZpYTZvc2tkYjRhMDRyY24wNjNhOSIsImV2ZW50X2lkIjoiMzM0ZjRkMDgtYzA5Mi00MTE2LWE0ZmItNzRmNDlkYTQ3NTQ3IiwidG9rZW5fdXNlIjoiaWQiLCJhdXRoX3RpbWUiOjE2Njg2MDg4ODcsImlzcyI6Imh0dHBzOlwvXC9jb2duaXRvLWlkcC5hcC1zb3V0aGVhc3QtMS5hbWF6b25hd3MuY29tXC9hcC1zb3V0aGVhc3QtMV9rZjVCU05vUGUiLCJjb2duaXRvOnVzZXJuYW1lIjoidGVzdGRlbW8iLCJleHAiOjE2Njg2MTI0ODcsImlhdCI6MTY2ODYwODg4N30.Yjb9s-mEvIK3YThFwzoYa9Dj-IjT_NidYhoWv1G7sdbzqkt7bg-_9qkRfxacxu3WmkG0RX_kQx-1jcpihMCvLJILEBapM6td7oTy64bsblEC9ZUjaQ5FxdA87RAxXrRSrziOXizTcgy04mlDxTnI1Zid8n3-M-xSREWOLLOhOdCsyEALAlaH7E1jSS-svn_jTDzKzrxfDraqygmxDpnlHIfqLj7Yb3XpHqb1J6EpdTx_GNvUglEXLaU1Kp7Hef-azKAgVFP28osd74DX9Hy9GqG4GG_ZUp4TbnvKXSs-SrJ87d2yQAvJD5isO4REFPJduqlIDXxkO-ss0LlJdaAqiA\", \"token_type\": \"Bearer\", \"expires_in\": 3600, \"refresh_token\": \"eyJjdHkiOiJKV1QiLCJlbmMiOiJBMjU2R0NNIiwiYWxnIjoiUlNBLU9BRVAifQ.ekb3HQlydRDh_ah9VylwSPkwtZj43--mYQKimIrC08YoiuY7VGkXiRa-jm8WwY4ShOouGgT9CbaE6a2os4pAFBvCtW9qhdReVDELa_bByZIl1yXGU_gq-UG7B3J2VTvcglLWX0dPw-8etJKJN-MCbL3BUZOYvrorRF-fXrTqCNkRXfBmpvdbU-RV7flKMH8DeUnhzoG81-uPjGJrS03UTrKxF5Z8mbS-gXDfT3hNHM6pnXCrysH94l-AI1Dg5RXuD_UxvqCxNpqAI9yvmbACtlLPJFamyddQMA3XcpkhW5VlntyV9DuCPlJQbv_KSrZudBuUjV-Sb2_KYErmQGnZ0g.Q08Jk4J-2oHHzdt3.NTeCLdgppgz3dPZOjhiA34RlHhamkkNbm3Z8gBfAhyzTddLcOGeghE8ewjI8DmAhe4qeC8oqC4uy-JQBM_ZlgVxNI8bfgTWSoeUzSCI5Fk9UJJmly63jCHOEHTxDko7rTs6EgdbGKEztAM7n6Aga2j3WoN4t7lVqFAY2nl4hZESARVupowE8xhoXKdaJtxFkr8FrifELcgYEzyxBaB5mT68Wtvhf81DwBen9vHk8sdshSjI7L9MLm0Xnd7oVem0HLKhRykH02nOSYRWhSfiyitqP7OvkZySbW2Hv4G8Je4AkRH1DvniYxlS4hSUMgFFPLbIcVQs9zCvyEjrIYGncqUpFOv8w7IQLIQlRhgakg0ve-GHXQcAzvNqvjcto1kfz6O63zdOFFSZgf5nkXO4JuAgzaxfLbZpMuY-JUTk9_f7Xn9I7AxDh6ErAQTkGQdsRZ9KnYVXbx5_Fe3EAnGwbpU-GL7F-Ds6hMl_q8UDvVVtzkuGvR3yTyDZVrmRYNK7D5CoqmG8BSwf0F0tNUEl28QQaC3yLC9BDvzsz4XS4DLvHkZk3C9XBHNJ2MyeI2_SW80hrVWGP-uhEqUZJr4Pq6t_bxg6PJ_BVo3iVqbjuIslRVoWTgMCiYINDnsj1uUOa9ayKI2EqicY02nVPoKbL3aRGvmf57_QKtLEAXDvKsUfR2ZGNca7Ws018UKBGrSb0LhzHtlAkedmvYiybHh280YrTkxLlEFFmeFEqYhHSgQGH59UZa-PsV6foF52wq8ew2kJGWniqPKIcEokUgObcFQxuWyNEUAfJaeVsSwaSU-ZIB3lA6qj8hGhawe8GSgMJnO_pCzy6vsqscWU6ZZyDNxOmASUvUlUj5saj3TnhzbwscUugFgu-XKpCDcT55DpRYL73uPCk6eq6h0_yg4c5wzil91mpnOVpe5oF4332MI5QO9lslu4LFfqDF1AWE1U87ZcUuwVE7SYCv6EE5wAVccubrGDtUMdv3QwbSreBVmR7euzv7ENyj-BMINsOMNTMNtQLOAhiZOA9gI5T9RFUO-zr9nqVt5EWRWqbvJwTapbPeiYdK1hgwS0EzrKyz28jB48NaVjLIP4cpiUZMgW22a4QlOFkgS4suuWERqgLgMOWv0Q9FeRqIBr12OJ7AiVof5YJo2vMbzkntDi_ZmSJ6zcjakrlDvu9desQor7YR8nrGwR_ZxHZLQeThUDLP7lx4ciovYNXD-AqpiLs0aDAcTctStMMdYEgitqCY8ImQ3uk_QwexIRk06hiIryy1OtR_jlGwPIhDRdJjxR8HpGks7DVWg._OaeuLZydsk-LHL1wZCxbQ\"}"
+Date:  2022-11-16 08:28:06pm : create url:"https:\/\/checkout.sandbox.bka.sh\/v1.2.0-beta\/checkout\/payment\/create"
+Date:  2022-11-16 08:28:06pm : create Heder:[
+    "Content-Type:application\/json",
+    "authorization:eyJraWQiOiJmalhJQmwxclFUXC9hM215MG9ScXpEdVZZWk5KXC9qRTNJOFBaeGZUY3hlamc9IiwiYWxnIjoiUlMyNTYifQ.eyJzdWIiOiI4ZGU4ZjBlMC1mY2RjLTQyNzMtYjY4YS1iNDAwOWNjZjc3ZDEiLCJhdWQiOiI2NmEwdGZpYTZvc2tkYjRhMDRyY24wNjNhOSIsImV2ZW50X2lkIjoiMzM0ZjRkMDgtYzA5Mi00MTE2LWE0ZmItNzRmNDlkYTQ3NTQ3IiwidG9rZW5fdXNlIjoiaWQiLCJhdXRoX3RpbWUiOjE2Njg2MDg4ODcsImlzcyI6Imh0dHBzOlwvXC9jb2duaXRvLWlkcC5hcC1zb3V0aGVhc3QtMS5hbWF6b25hd3MuY29tXC9hcC1zb3V0aGVhc3QtMV9rZjVCU05vUGUiLCJjb2duaXRvOnVzZXJuYW1lIjoidGVzdGRlbW8iLCJleHAiOjE2Njg2MTI0ODcsImlhdCI6MTY2ODYwODg4N30.Yjb9s-mEvIK3YThFwzoYa9Dj-IjT_NidYhoWv1G7sdbzqkt7bg-_9qkRfxacxu3WmkG0RX_kQx-1jcpihMCvLJILEBapM6td7oTy64bsblEC9ZUjaQ5FxdA87RAxXrRSrziOXizTcgy04mlDxTnI1Zid8n3-M-xSREWOLLOhOdCsyEALAlaH7E1jSS-svn_jTDzKzrxfDraqygmxDpnlHIfqLj7Yb3XpHqb1J6EpdTx_GNvUglEXLaU1Kp7Hef-azKAgVFP28osd74DX9Hy9GqG4GG_ZUp4TbnvKXSs-SrJ87d2yQAvJD5isO4REFPJduqlIDXxkO-ss0LlJdaAqiA",
+    "x-app-key:5nej5keguopj928ekcj3dne8p"
+]
+Date:  2022-11-16 08:28:06pm : create Body:{
+    "amount": "4000",
+    "currency": "BDT",
+    "intent": "sale",
+    "merchantInvoiceNumber": "2022111600918"
+}
+Date:  2022-11-16 08:28:20pm : create result:"{\"paymentID\":\"Y4WZHQL1668608896935\",\"createTime\":\"2022-11-16T14:28:21:901 GMT+0000\",\"orgLogo\":\"https:\/\/s3-ap-southeast-1.amazonaws.com\/merchantlogo.sandbox.bka.sh\/merchant-default-logo.png\",\"orgName\":\"TestCheckoutMerchant2\",\"transactionStatus\":\"Initiated\",\"amount\":\"4000\",\"currency\":\"BDT\",\"intent\":\"sale\",\"merchantInvoiceNumber\":\"2022111600918\"}"
+Date:  2022-11-16 11:43:57pm : raw result:{"memberid":"G29","convid":"202201","membername":"\u09ae\u09be\u0995\u09b8\u09c1\u09a6\u09be \u0986\u0995\u09cd\u09a4\u09be\u09b0|01723961604","gender":"female","dresssize":"0","feeamount":1700,"totalguest":"0","totalamount":1700,"mregistat":"0"}
+Date:  2022-11-16 11:43:57pm : save result:{
+    "memberid": "G29",
+    "convid": "202201",
+    "membername": "\u09ae\u09be\u0995\u09b8\u09c1\u09a6\u09be \u0986\u0995\u09cd\u09a4\u09be\u09b0|01723961604",
+    "gender": "female",
+    "dresssize": "0",
+    "feeamount": 1700,
+    "totalguest": "0",
+    "totalamount": 1700,
+    "mregistat": "0"
+}--1>>
+Date:  2022-11-16 11:43:57pm : save result01:1700>>2500
+Date:  2022-11-16 11:44:33pm : Token url:"https:\/\/checkout.sandbox.bka.sh\/v1.2.0-beta\/checkout\/token\/grant"
+Date:  2022-11-16 11:44:33pm : Token Heder:[
+    "Content-Type:application\/json",
+    "password:test%#de23@msdao",
+    "username:testdemo"
+]
+Date:  2022-11-16 11:44:33pm : Token post:{
+    "app_key": "5nej5keguopj928ekcj3dne8p",
+    "app_secret": "1honf6u1c56mqcivtc9ffl960slp4v2756jle5925nbooa46ch62"
+}
+Date:  2022-11-16 11:44:33pm : Token result:"{\"id_token\": \"eyJraWQiOiJmalhJQmwxclFUXC9hM215MG9ScXpEdVZZWk5KXC9qRTNJOFBaeGZUY3hlamc9IiwiYWxnIjoiUlMyNTYifQ.eyJzdWIiOiI4ZGU4ZjBlMC1mY2RjLTQyNzMtYjY4YS1iNDAwOWNjZjc3ZDEiLCJhdWQiOiI2NmEwdGZpYTZvc2tkYjRhMDRyY24wNjNhOSIsImV2ZW50X2lkIjoiYWVmOGI2Y2YtYzM5Yy00NzkzLWFmMjEtMDg2Yzk5NDdmNDJmIiwidG9rZW5fdXNlIjoiaWQiLCJhdXRoX3RpbWUiOjE2Njg2MjA2NzUsImlzcyI6Imh0dHBzOlwvXC9jb2duaXRvLWlkcC5hcC1zb3V0aGVhc3QtMS5hbWF6b25hd3MuY29tXC9hcC1zb3V0aGVhc3QtMV9rZjVCU05vUGUiLCJjb2duaXRvOnVzZXJuYW1lIjoidGVzdGRlbW8iLCJleHAiOjE2Njg2MjQyNzUsImlhdCI6MTY2ODYyMDY3NX0.JT6jbAcA7ZhHooSUFIwkODix9Bddx3zJVOpyRX2sbf48MF2ipnnjx35cF4k4A2Efs54_A7_qIUOaMvtB3j3rbwmKKg53SghheAhYHhg0VVQTye7i3og0sqXsx4q5q7Twz1i2P9wIvKKrcwGj8yQz-4UNXD1h5Fo5vJaJhNKHvoiLLfgTMjnNmEMSdAcZgGm7ZIOLFc50Rlni9BSbOuC9_dlPXeadkYON_Qj0oXA1fh0JxraTEAlQnDb0-WNruYsZrFjY140tQgYPrzMoU5-khUCOLksTLUQbjlJqXQLMOnbDOL_0dVPFsZLW-88J5Us9Db0mjVTfhwzPSfVnoMDUNg\", \"token_type\": \"Bearer\", \"expires_in\": 3600, \"refresh_token\": \"eyJjdHkiOiJKV1QiLCJlbmMiOiJBMjU2R0NNIiwiYWxnIjoiUlNBLU9BRVAifQ.KLTKVw_okmE06hLm4rHjXOMgdfpX91MwSGREQmZ7rXD-vWgtIg7LQYu0BqJKFo1MdJRQB3yeNBgC2l3covAqj_FfXJVr2iPVDfMITLMhrEQ39OSyH0FyxNcdQwRkO_UhjFXlLlt_qHVMDkK2J-TyWuJrjzO6BhfqNVlk-3hwXjHYcSNpwKt3fQK5ZWPDHkuWCwIC8TtuzwRJRlEqoMsjUatkFOmdvJwsxB6zSWxDQCEc3uItIpq-Jo1J9rsfW0YgSvhRh7ezHVM9n4Q_S5VksIA7INPJFTSdS_snQGnkPL57buV2HfXN1qQILvLQ8AvLkwfv-E_J85o4xj5RKVrnUA.vsNqxJGjrrN17IUu.N7eu6CypW6HqKfnbKvJinxMy6_kB4U4edke1KK9cLnYOusiynH62V1T2lmeJWx9sQBFIpossUHstllI1AitoezidklMhHKhF0kUbYZopVd7-sMwtwCjpOlQ9LOLkorg1MEPYaj2Sv68D4JORSbe5heERuJuVxttley0malCZ5ycWGnLbTOi2vfSEim0VWQXRlUmVJird4fOc-CRTj9MOijqsoQfWa8tZI-V2bWnQybQ55Xm-V76DNLKCcXGn8bQLdzzdrhwHYo5ZeSRNjAemL6SBBkB2Y46teeKTLf7idiLoGz9w6NNr-VXoUQ19AiPborGDR8ju0wapUcmXn9EquvSK811ua3hofWzWbz17nKG8qnz2XJ21aq93jqrzJLY-Hq8sZA1yyz6_UqWwedM9x4s1eaA7B4NmHt_86LCxzgE1gQxhF0cBDKBYDuiRELMmJXx9ZXesm8zhSX2cT4NdR7bXFMXRxZ7mcYRSr-WHDMnVNoKjVjjP1oc6GctgrO2Wtv2qfYlgB_EkhY6Au2eT47rZrYP9ldmiKCr0z5uy5QQphdwaQUJVs8GRNT2jGoyhW7_IHWpin5GLPCxHYAtnN80mPaV8Ivm7IRCkmbowjL-raBCat3vhbzLMmGLdGhlG80IWIPUPF0ue3u8AImBAczGYqWW-1ky10J7xsvhSUQDNKBhhU_NJ4tsWWHF_1H-BAfXPbY1rEWk8Hysa9PgnerHo5r2AgA0idMHZs65QsZ7OzJF1H5X0DZyNRaF4SNVJ3r1rzbqk081OloDQQ7VD_fCArTNmAlKOaxF4BnX2ZI3Mt4-IAlp8N08jTPLtnIgm0_PirXBy45M8etVkWUFwoXR6UMa123iJb6dyUKFogNoMJayY4M4dJxbxDFDDemLx9xE399EQtMCYReit0HO7LSEODRFiVBtR8wo48wO34iULcyUbUFIYklT0VCGJhsubic4P0vQgoBi_xx3Wusjx0xQ8Iokq1gBD9_9xsEyjq79k5jwTAtGxpDlU5Sw6AC-e119KJYAoBM-D9gsPATupTeXiOnnrBYVzJtFAqIFMC4Ny-trCsoHJa6NIFYEMQ--GRkuLvbsgOoGhWEDJVSJYb-SM_0b-_p_iDrPEaeMzl765_Y3-JsDQLt-t7jtJsrp6XttYfn7VvBSFkh2KcV4QKmZ1WSKTZqf8kWz6Upbxk3_MTg-eG7GHrBq0h5Dy3sXy7w0hMsssWDIAa_t0o5U9SF3qNAjtonLjHETun1h4py116mMswM_b6TyFNefYzhU7QNnPBHrom42BzlcnKWisWa_etA.tIdakpx8KuA7gqjShrXKBg\"}"
+Date:  2022-11-16 11:44:33pm : create url:"https:\/\/checkout.sandbox.bka.sh\/v1.2.0-beta\/checkout\/payment\/create"
+Date:  2022-11-16 11:44:33pm : create Heder:[
+    "Content-Type:application\/json",
+    "authorization:eyJraWQiOiJmalhJQmwxclFUXC9hM215MG9ScXpEdVZZWk5KXC9qRTNJOFBaeGZUY3hlamc9IiwiYWxnIjoiUlMyNTYifQ.eyJzdWIiOiI4ZGU4ZjBlMC1mY2RjLTQyNzMtYjY4YS1iNDAwOWNjZjc3ZDEiLCJhdWQiOiI2NmEwdGZpYTZvc2tkYjRhMDRyY24wNjNhOSIsImV2ZW50X2lkIjoiYWVmOGI2Y2YtYzM5Yy00NzkzLWFmMjEtMDg2Yzk5NDdmNDJmIiwidG9rZW5fdXNlIjoiaWQiLCJhdXRoX3RpbWUiOjE2Njg2MjA2NzUsImlzcyI6Imh0dHBzOlwvXC9jb2duaXRvLWlkcC5hcC1zb3V0aGVhc3QtMS5hbWF6b25hd3MuY29tXC9hcC1zb3V0aGVhc3QtMV9rZjVCU05vUGUiLCJjb2duaXRvOnVzZXJuYW1lIjoidGVzdGRlbW8iLCJleHAiOjE2Njg2MjQyNzUsImlhdCI6MTY2ODYyMDY3NX0.JT6jbAcA7ZhHooSUFIwkODix9Bddx3zJVOpyRX2sbf48MF2ipnnjx35cF4k4A2Efs54_A7_qIUOaMvtB3j3rbwmKKg53SghheAhYHhg0VVQTye7i3og0sqXsx4q5q7Twz1i2P9wIvKKrcwGj8yQz-4UNXD1h5Fo5vJaJhNKHvoiLLfgTMjnNmEMSdAcZgGm7ZIOLFc50Rlni9BSbOuC9_dlPXeadkYON_Qj0oXA1fh0JxraTEAlQnDb0-WNruYsZrFjY140tQgYPrzMoU5-khUCOLksTLUQbjlJqXQLMOnbDOL_0dVPFsZLW-88J5Us9Db0mjVTfhwzPSfVnoMDUNg",
+    "x-app-key:5nej5keguopj928ekcj3dne8p"
+]
+Date:  2022-11-16 11:44:33pm : create Body:{
+    "amount": "2500",
+    "currency": "BDT",
+    "intent": "sale",
+    "merchantInvoiceNumber": "2022111600920"
+}
+Date:  2022-11-16 11:44:48pm : create result:"{\"paymentID\":\"W2H183G1668620685186\",\"createTime\":\"2022-11-16T17:44:50:153 GMT+0000\",\"orgLogo\":\"https:\/\/s3-ap-southeast-1.amazonaws.com\/merchantlogo.sandbox.bka.sh\/merchant-default-logo.png\",\"orgName\":\"TestCheckoutMerchant2\",\"transactionStatus\":\"Initiated\",\"amount\":\"2500\",\"currency\":\"BDT\",\"intent\":\"sale\",\"merchantInvoiceNumber\":\"2022111600920\"}"
+Date:  2022-11-16 11:54:29pm : raw result:{"memberid":"G20","convid":"202201","membername":"\u0997\u09be\u099c\u09c0 \u09ae\u09be\u09b9\u09ae\u09c1\u09a6 \u09b9\u09be\u09b8\u09be\u09a8|","gender":"male","dresssize":"0","feeamount":1700,"totalguest":"0","totalamount":1700,"mregistat":"0"}
+Date:  2022-11-16 11:54:29pm : save result:{
+    "memberid": "G20",
+    "convid": "202201",
+    "membername": "\u0997\u09be\u099c\u09c0 \u09ae\u09be\u09b9\u09ae\u09c1\u09a6 \u09b9\u09be\u09b8\u09be\u09a8|",
+    "gender": "male",
+    "dresssize": "0",
+    "feeamount": 1700,
+    "totalguest": "0",
+    "totalamount": 1700,
+    "mregistat": "0"
+}--1>>
+Date:  2022-11-16 11:54:29pm : save result03:1700>>1700

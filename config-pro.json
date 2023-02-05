@@ -1,0 +1,13 @@
+{
+        "createURL" :"https://checkout.pay.bka.sh/v1.2.0-beta/checkout/payment/create",
+        "executeURL" :"https://checkout.pay.bka.sh/v1.2.0-beta/checkout/payment/execute/",
+        "tokenURL" : "https://checkout.pay.bka.sh/v1.2.0-beta/checkout/token/grant",
+        "script" : "https://scripts.pay.bka.sh/versions/1.2.0-beta/checkout/bKash-checkout.js",
+        "app_key": "1g6t71ru2fjm1e9g3c5lhd5sm3",
+        "proxy" : "",
+        "app_secret": "1r95mm8tdmjl7uo2e237r290hc0l7tutjffv62g3uu41a8ogpi4v",
+        "username" : "BBARAJSHAHIUNI",
+        "password" : "y@mnT614CcVL",
+		"token_time":"2020-01-10 23:03:59",
+        "token" : ""
+}
